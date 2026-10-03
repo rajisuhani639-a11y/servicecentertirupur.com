@@ -1,0 +1,1220 @@
+[
+  {
+    "oldRel": "ac/ac-repair-service-in-kanyakumari.html",
+    "newRel": "ac/ac-repair-service-in-coimbatore.html",
+    "category": "ac",
+    "brandSlug": "",
+    "brandName": "All AC Brands"
+  },
+  {
+    "oldRel": "ac/acer-ac-repair-service-in-kanyakumari.html",
+    "newRel": "ac/acer-ac-repair-service-in-coimbatore.html",
+    "category": "ac",
+    "brandSlug": "acer",
+    "brandName": "Acer"
+  },
+  {
+    "oldRel": "ac/acerpure-ac-repair-service-in-kanyakumari.html",
+    "newRel": "ac/acerpure-ac-repair-service-in-coimbatore.html",
+    "category": "ac",
+    "brandSlug": "acerpure",
+    "brandName": "Acerpure"
+  },
+  {
+    "oldRel": "ac/bajaj-ac-repair-service-in-kanyakumari.html",
+    "newRel": "ac/bajaj-ac-repair-service-in-coimbatore.html",
+    "category": "ac",
+    "brandSlug": "bajaj",
+    "brandName": "Bajaj"
+  },
+  {
+    "oldRel": "ac/blue-star-ac-repair-service-in-kanyakumari.html",
+    "newRel": "ac/blue-star-ac-repair-service-in-coimbatore.html",
+    "category": "ac",
+    "brandSlug": "blue-star",
+    "brandName": "Blue Star"
+  },
+  {
+    "oldRel": "ac/bpl-ac-repair-service-in-kanyakumari.html",
+    "newRel": "ac/bpl-ac-repair-service-in-coimbatore.html",
+    "category": "ac",
+    "brandSlug": "bpl",
+    "brandName": "BPL"
+  },
+  {
+    "oldRel": "ac/carrier-ac-repair-service-in-kanyakumari.html",
+    "newRel": "ac/carrier-ac-repair-service-in-coimbatore.html",
+    "category": "ac",
+    "brandSlug": "carrier",
+    "brandName": "Carrier"
+  },
+  {
+    "oldRel": "ac/daikin-ac-repair-service-in-kanyakumari.html",
+    "newRel": "ac/daikin-ac-repair-service-in-coimbatore.html",
+    "category": "ac",
+    "brandSlug": "daikin",
+    "brandName": "Daikin"
+  },
+  {
+    "oldRel": "ac/electrolux-ac-repair-service-in-kanyakumari.html",
+    "newRel": "ac/electrolux-ac-repair-service-in-coimbatore.html",
+    "category": "ac",
+    "brandSlug": "electrolux",
+    "brandName": "Electrolux"
+  },
+  {
+    "oldRel": "ac/godrej-ac-repair-service-in-kanyakumari.html",
+    "newRel": "ac/godrej-ac-repair-service-in-coimbatore.html",
+    "category": "ac",
+    "brandSlug": "godrej",
+    "brandName": "Godrej"
+  },
+  {
+    "oldRel": "ac/haier-ac-repair-service-in-kanyakumari.html",
+    "newRel": "ac/haier-ac-repair-service-in-coimbatore.html",
+    "category": "ac",
+    "brandSlug": "haier",
+    "brandName": "Haier"
+  },
+  {
+    "oldRel": "ac/havells-ac-repair-service-in-kanyakumari.html",
+    "newRel": "ac/havells-ac-repair-service-in-coimbatore.html",
+    "category": "ac",
+    "brandSlug": "havells",
+    "brandName": "Havells"
+  },
+  {
+    "oldRel": "ac/hisense-ac-repair-service-in-kanyakumari.html",
+    "newRel": "ac/hisense-ac-repair-service-in-coimbatore.html",
+    "category": "ac",
+    "brandSlug": "hisense",
+    "brandName": "Hisense"
+  },
+  {
+    "oldRel": "ac/hitachi-ac-repair-service-in-kanyakumari.html",
+    "newRel": "ac/hitachi-ac-repair-service-in-coimbatore.html",
+    "category": "ac",
+    "brandSlug": "hitachi",
+    "brandName": "Hitachi"
+  },
+  {
+    "oldRel": "ac/ifb-ac-repair-service-in-kanyakumari.html",
+    "newRel": "ac/ifb-ac-repair-service-in-coimbatore.html",
+    "category": "ac",
+    "brandSlug": "ifb",
+    "brandName": "IFB"
+  },
+  {
+    "oldRel": "ac/kelvinator-ac-repair-service-in-kanyakumari.html",
+    "newRel": "ac/kelvinator-ac-repair-service-in-coimbatore.html",
+    "category": "ac",
+    "brandSlug": "kelvinator",
+    "brandName": "Kelvinator"
+  },
+  {
+    "oldRel": "ac/kenstar-ac-repair-service-in-kanyakumari.html",
+    "newRel": "ac/kenstar-ac-repair-service-in-coimbatore.html",
+    "category": "ac",
+    "brandSlug": "kenstar",
+    "brandName": "Kenstar"
+  },
+  {
+    "oldRel": "ac/lloyd-ac-repair-service-in-kanyakumari.html",
+    "newRel": "ac/lloyd-ac-repair-service-in-coimbatore.html",
+    "category": "ac",
+    "brandSlug": "lloyd",
+    "brandName": "Lloyd"
+  },
+  {
+    "oldRel": "ac/midea-ac-repair-service-in-kanyakumari.html",
+    "newRel": "ac/midea-ac-repair-service-in-coimbatore.html",
+    "category": "ac",
+    "brandSlug": "midea",
+    "brandName": "Midea"
+  },
+  {
+    "oldRel": "ac/mitsubishi-ac-repair-service-in-kanyakumari.html",
+    "newRel": "ac/mitsubishi-ac-repair-service-in-coimbatore.html",
+    "category": "ac",
+    "brandSlug": "mitsubishi",
+    "brandName": "Mitsubishi"
+  },
+  {
+    "oldRel": "ac/motorola-ac-repair-service-in-kanyakumari.html",
+    "newRel": "ac/motorola-ac-repair-service-in-coimbatore.html",
+    "category": "ac",
+    "brandSlug": "motorola",
+    "brandName": "Motorola"
+  },
+  {
+    "oldRel": "ac/o-general-ac-repair-service-in-kanyakumari.html",
+    "newRel": "ac/o-general-ac-repair-service-in-coimbatore.html",
+    "category": "ac",
+    "brandSlug": "o-general",
+    "brandName": "O-General"
+  },
+  {
+    "oldRel": "ac/onida-ac-repair-service-in-kanyakumari.html",
+    "newRel": "ac/onida-ac-repair-service-in-coimbatore.html",
+    "category": "ac",
+    "brandSlug": "onida",
+    "brandName": "Onida"
+  },
+  {
+    "oldRel": "ac/panasonic-ac-repair-service-in-kanyakumari.html",
+    "newRel": "ac/panasonic-ac-repair-service-in-coimbatore.html",
+    "category": "ac",
+    "brandSlug": "panasonic",
+    "brandName": "Panasonic"
+  },
+  {
+    "oldRel": "ac/samsung-ac-repair-service-in-kanyakumari.html",
+    "newRel": "ac/samsung-ac-repair-service-in-coimbatore.html",
+    "category": "ac",
+    "brandSlug": "samsung",
+    "brandName": "Samsung"
+  },
+  {
+    "oldRel": "ac/sansui-ac-repair-service-in-kanyakumari.html",
+    "newRel": "ac/sansui-ac-repair-service-in-coimbatore.html",
+    "category": "ac",
+    "brandSlug": "sansui",
+    "brandName": "Sansui"
+  },
+  {
+    "oldRel": "ac/sharp-ac-repair-service-in-kanyakumari.html",
+    "newRel": "ac/sharp-ac-repair-service-in-coimbatore.html",
+    "category": "ac",
+    "brandSlug": "sharp",
+    "brandName": "Sharp"
+  },
+  {
+    "oldRel": "ac/tcl-ac-repair-service-in-kanyakumari.html",
+    "newRel": "ac/tcl-ac-repair-service-in-coimbatore.html",
+    "category": "ac",
+    "brandSlug": "tcl",
+    "brandName": "TCL"
+  },
+  {
+    "oldRel": "ac/voltas-ac-repair-service-in-kanyakumari.html",
+    "newRel": "ac/voltas-ac-repair-service-in-coimbatore.html",
+    "category": "ac",
+    "brandSlug": "voltas",
+    "brandName": "Voltas"
+  },
+  {
+    "oldRel": "ac/whirlpool-ac-repair-service-in-kanyakumari.html",
+    "newRel": "ac/whirlpool-ac-repair-service-in-coimbatore.html",
+    "category": "ac",
+    "brandSlug": "whirlpool",
+    "brandName": "Whirlpool"
+  },
+  {
+    "oldRel": "fridge/acer-refrigerator-repair-service-in-kanyakumari.html",
+    "newRel": "fridge/acer-refrigerator-repair-service-in-coimbatore.html",
+    "category": "fridge",
+    "brandSlug": "acer",
+    "brandName": "Acer"
+  },
+  {
+    "oldRel": "fridge/blue-star-refrigerator-repair-service-in-kanyakumari.html",
+    "newRel": "fridge/blue-star-refrigerator-repair-service-in-coimbatore.html",
+    "category": "fridge",
+    "brandSlug": "blue-star",
+    "brandName": "Blue Star"
+  },
+  {
+    "oldRel": "fridge/bosch-refrigerator-repair-service-in-kanyakumari.html",
+    "newRel": "fridge/bosch-refrigerator-repair-service-in-coimbatore.html",
+    "category": "fridge",
+    "brandSlug": "bosch",
+    "brandName": "Bosch"
+  },
+  {
+    "oldRel": "fridge/bpl-refrigerator-repair-service-in-kanyakumari.html",
+    "newRel": "fridge/bpl-refrigerator-repair-service-in-coimbatore.html",
+    "category": "fridge",
+    "brandSlug": "bpl",
+    "brandName": "BPL"
+  },
+  {
+    "oldRel": "fridge/electrolux-refrigerator-repair-service-in-kanyakumari.html",
+    "newRel": "fridge/electrolux-refrigerator-repair-service-in-coimbatore.html",
+    "category": "fridge",
+    "brandSlug": "electrolux",
+    "brandName": "Electrolux"
+  },
+  {
+    "oldRel": "fridge/godrej-refrigerator-repair-service-in-kanyakumari.html",
+    "newRel": "fridge/godrej-refrigerator-repair-service-in-coimbatore.html",
+    "category": "fridge",
+    "brandSlug": "godrej",
+    "brandName": "Godrej"
+  },
+  {
+    "oldRel": "fridge/haier-refrigerator-repair-service-in-kanyakumari.html",
+    "newRel": "fridge/haier-refrigerator-repair-service-in-coimbatore.html",
+    "category": "fridge",
+    "brandSlug": "haier",
+    "brandName": "Haier"
+  },
+  {
+    "oldRel": "fridge/hisense-refrigerator-repair-service-in-kanyakumari.html",
+    "newRel": "fridge/hisense-refrigerator-repair-service-in-coimbatore.html",
+    "category": "fridge",
+    "brandSlug": "hisense",
+    "brandName": "Hisense"
+  },
+  {
+    "oldRel": "fridge/hitachi-refrigerator-repair-service-in-kanyakumari.html",
+    "newRel": "fridge/hitachi-refrigerator-repair-service-in-coimbatore.html",
+    "category": "fridge",
+    "brandSlug": "hitachi",
+    "brandName": "Hitachi"
+  },
+  {
+    "oldRel": "fridge/ifb-refrigerator-repair-service-in-kanyakumari.html",
+    "newRel": "fridge/ifb-refrigerator-repair-service-in-coimbatore.html",
+    "category": "fridge",
+    "brandSlug": "ifb",
+    "brandName": "IFB"
+  },
+  {
+    "oldRel": "fridge/kelvinator-refrigerator-repair-service-in-kanyakumari.html",
+    "newRel": "fridge/kelvinator-refrigerator-repair-service-in-coimbatore.html",
+    "category": "fridge",
+    "brandSlug": "kelvinator",
+    "brandName": "Kelvinator"
+  },
+  {
+    "oldRel": "fridge/liebherr-refrigerator-repair-service-in-kanyakumari.html",
+    "newRel": "fridge/liebherr-refrigerator-repair-service-in-coimbatore.html",
+    "category": "fridge",
+    "brandSlug": "liebherr",
+    "brandName": "Liebherr"
+  },
+  {
+    "oldRel": "fridge/lloyd-refrigerator-repair-service-in-kanyakumari.html",
+    "newRel": "fridge/lloyd-refrigerator-repair-service-in-coimbatore.html",
+    "category": "fridge",
+    "brandSlug": "lloyd",
+    "brandName": "Lloyd"
+  },
+  {
+    "oldRel": "fridge/midea-refrigerator-repair-service-in-kanyakumari.html",
+    "newRel": "fridge/midea-refrigerator-repair-service-in-coimbatore.html",
+    "category": "fridge",
+    "brandSlug": "midea",
+    "brandName": "Midea"
+  },
+  {
+    "oldRel": "fridge/motorola-refrigerator-repair-service-in-kanyakumari.html",
+    "newRel": "fridge/motorola-refrigerator-repair-service-in-coimbatore.html",
+    "category": "fridge",
+    "brandSlug": "motorola",
+    "brandName": "Motorola"
+  },
+  {
+    "oldRel": "fridge/onida-refrigerator-repair-service-in-kanyakumari.html",
+    "newRel": "fridge/onida-refrigerator-repair-service-in-coimbatore.html",
+    "category": "fridge",
+    "brandSlug": "onida",
+    "brandName": "Onida"
+  },
+  {
+    "oldRel": "fridge/panasonic-refrigerator-repair-service-in-kanyakumari.html",
+    "newRel": "fridge/panasonic-refrigerator-repair-service-in-coimbatore.html",
+    "category": "fridge",
+    "brandSlug": "panasonic",
+    "brandName": "Panasonic"
+  },
+  {
+    "oldRel": "fridge/refrigerator-repair-service-in-kanyakumari.html",
+    "newRel": "fridge/refrigerator-repair-service-in-coimbatore.html",
+    "category": "fridge",
+    "brandSlug": "",
+    "brandName": "All Refrigerator Brands"
+  },
+  {
+    "oldRel": "fridge/samsung-refrigerator-repair-service-in-kanyakumari.html",
+    "newRel": "fridge/samsung-refrigerator-repair-service-in-coimbatore.html",
+    "category": "fridge",
+    "brandSlug": "samsung",
+    "brandName": "Samsung"
+  },
+  {
+    "oldRel": "fridge/sharp-refrigerator-repair-service-in-kanyakumari.html",
+    "newRel": "fridge/sharp-refrigerator-repair-service-in-coimbatore.html",
+    "category": "fridge",
+    "brandSlug": "sharp",
+    "brandName": "Sharp"
+  },
+  {
+    "oldRel": "fridge/siemens-refrigerator-repair-service-in-kanyakumari.html",
+    "newRel": "fridge/siemens-refrigerator-repair-service-in-coimbatore.html",
+    "category": "fridge",
+    "brandSlug": "siemens",
+    "brandName": "Siemens"
+  },
+  {
+    "oldRel": "fridge/toshiba-refrigerator-repair-service-in-kanyakumari.html",
+    "newRel": "fridge/toshiba-refrigerator-repair-service-in-coimbatore.html",
+    "category": "fridge",
+    "brandSlug": "toshiba",
+    "brandName": "Toshiba"
+  },
+  {
+    "oldRel": "fridge/videocon-refrigerator-repair-service-in-kanyakumari.html",
+    "newRel": "fridge/videocon-refrigerator-repair-service-in-coimbatore.html",
+    "category": "fridge",
+    "brandSlug": "videocon",
+    "brandName": "Videocon"
+  },
+  {
+    "oldRel": "fridge/voltas-beko-refrigerator-repair-service-in-kanyakumari.html",
+    "newRel": "fridge/voltas-beko-refrigerator-repair-service-in-coimbatore.html",
+    "category": "fridge",
+    "brandSlug": "voltas-beko",
+    "brandName": "Voltas Beko"
+  },
+  {
+    "oldRel": "fridge/whirlpool-refrigerator-repair-service-in-kanyakumari.html",
+    "newRel": "fridge/whirlpool-refrigerator-repair-service-in-coimbatore.html",
+    "category": "fridge",
+    "brandSlug": "whirlpool",
+    "brandName": "Whirlpool"
+  },
+  {
+    "oldRel": "index.html",
+    "newRel": "index.html",
+    "category": "root",
+    "brandSlug": "",
+    "brandName": "Home Appliance Multi-Brand"
+  },
+  {
+    "oldRel": "servicecenter/acer-service-center-kanyakumari.html",
+    "newRel": "servicecenter/acer-service-center-coimbatore.html",
+    "category": "service-center",
+    "brandSlug": "acer",
+    "brandName": "Acer"
+  },
+  {
+    "oldRel": "servicecenter/acerpure-service-center-kanyakumari.html",
+    "newRel": "servicecenter/acerpure-service-center-coimbatore.html",
+    "category": "service-center",
+    "brandSlug": "acerpure",
+    "brandName": "Acerpure"
+  },
+  {
+    "oldRel": "servicecenter/aiwa-service-center-kanyakumari.html",
+    "newRel": "servicecenter/aiwa-service-center-coimbatore.html",
+    "category": "service-center",
+    "brandSlug": "aiwa",
+    "brandName": "Aiwa"
+  },
+  {
+    "oldRel": "servicecenter/akai-service-center-kanyakumari.html",
+    "newRel": "servicecenter/akai-service-center-coimbatore.html",
+    "category": "service-center",
+    "brandSlug": "akai",
+    "brandName": "Akai"
+  },
+  {
+    "oldRel": "servicecenter/bajaj-service-center-kanyakumari.html",
+    "newRel": "servicecenter/bajaj-service-center-coimbatore.html",
+    "category": "service-center",
+    "brandSlug": "bajaj",
+    "brandName": "Bajaj"
+  },
+  {
+    "oldRel": "servicecenter/blue-star-service-center-kanyakumari.html",
+    "newRel": "servicecenter/blue-star-service-center-coimbatore.html",
+    "category": "service-center",
+    "brandSlug": "blue-star",
+    "brandName": "Blue Star"
+  },
+  {
+    "oldRel": "servicecenter/bosch-service-center-kanyakumari.html",
+    "newRel": "servicecenter/bosch-service-center-coimbatore.html",
+    "category": "service-center",
+    "brandSlug": "bosch",
+    "brandName": "Bosch"
+  },
+  {
+    "oldRel": "servicecenter/bpl-service-center-kanyakumari.html",
+    "newRel": "servicecenter/bpl-service-center-coimbatore.html",
+    "category": "service-center",
+    "brandSlug": "bpl",
+    "brandName": "BPL"
+  },
+  {
+    "oldRel": "servicecenter/carrier-service-center-kanyakumari.html",
+    "newRel": "servicecenter/carrier-service-center-coimbatore.html",
+    "category": "service-center",
+    "brandSlug": "carrier",
+    "brandName": "Carrier"
+  },
+  {
+    "oldRel": "servicecenter/daewoo-service-center-kanyakumari.html",
+    "newRel": "servicecenter/daewoo-service-center-coimbatore.html",
+    "category": "service-center",
+    "brandSlug": "daewoo",
+    "brandName": "Daewoo"
+  },
+  {
+    "oldRel": "servicecenter/daikin-service-center-kanyakumari.html",
+    "newRel": "servicecenter/daikin-service-center-coimbatore.html",
+    "category": "service-center",
+    "brandSlug": "daikin",
+    "brandName": "Daikin"
+  },
+  {
+    "oldRel": "servicecenter/electrolux-service-center-kanyakumari.html",
+    "newRel": "servicecenter/electrolux-service-center-coimbatore.html",
+    "category": "service-center",
+    "brandSlug": "electrolux",
+    "brandName": "Electrolux"
+  },
+  {
+    "oldRel": "servicecenter/godrej-service-center-kanyakumari.html",
+    "newRel": "servicecenter/godrej-service-center-coimbatore.html",
+    "category": "service-center",
+    "brandSlug": "godrej",
+    "brandName": "Godrej"
+  },
+  {
+    "oldRel": "servicecenter/haier-service-center-kanyakumari.html",
+    "newRel": "servicecenter/haier-service-center-coimbatore.html",
+    "category": "service-center",
+    "brandSlug": "haier",
+    "brandName": "Haier"
+  },
+  {
+    "oldRel": "servicecenter/havells-service-center-kanyakumari.html",
+    "newRel": "servicecenter/havells-service-center-coimbatore.html",
+    "category": "service-center",
+    "brandSlug": "havells",
+    "brandName": "Havells"
+  },
+  {
+    "oldRel": "servicecenter/hisense-service-center-kanyakumari.html",
+    "newRel": "servicecenter/hisense-service-center-coimbatore.html",
+    "category": "service-center",
+    "brandSlug": "hisense",
+    "brandName": "Hisense"
+  },
+  {
+    "oldRel": "servicecenter/hitachi-service-center-kanyakumari.html",
+    "newRel": "servicecenter/hitachi-service-center-coimbatore.html",
+    "category": "service-center",
+    "brandSlug": "hitachi",
+    "brandName": "Hitachi"
+  },
+  {
+    "oldRel": "servicecenter/home-appliance-service-center-kanyakumari.html",
+    "newRel": "servicecenter/home-appliance-service-center-coimbatore.html",
+    "category": "service-center",
+    "brandSlug": "home-appliance",
+    "brandName": "home-appliance"
+  },
+  {
+    "oldRel": "servicecenter/hyundai-service-center-kanyakumari.html",
+    "newRel": "servicecenter/hyundai-service-center-coimbatore.html",
+    "category": "service-center",
+    "brandSlug": "hyundai",
+    "brandName": "Hyundai"
+  },
+  {
+    "oldRel": "servicecenter/ifb-service-center-kanyakumari.html",
+    "newRel": "servicecenter/ifb-service-center-coimbatore.html",
+    "category": "service-center",
+    "brandSlug": "ifb",
+    "brandName": "IFB"
+  },
+  {
+    "oldRel": "servicecenter/iffalcon-service-center-kanyakumari.html",
+    "newRel": "servicecenter/iffalcon-service-center-coimbatore.html",
+    "category": "service-center",
+    "brandSlug": "iffalcon",
+    "brandName": "iFFALCON"
+  },
+  {
+    "oldRel": "servicecenter/intex-service-center-kanyakumari.html",
+    "newRel": "servicecenter/intex-service-center-coimbatore.html",
+    "category": "service-center",
+    "brandSlug": "intex",
+    "brandName": "Intex"
+  },
+  {
+    "oldRel": "servicecenter/kelvinator-service-center-kanyakumari.html",
+    "newRel": "servicecenter/kelvinator-service-center-coimbatore.html",
+    "category": "service-center",
+    "brandSlug": "kelvinator",
+    "brandName": "Kelvinator"
+  },
+  {
+    "oldRel": "servicecenter/kenstar-service-center-kanyakumari.html",
+    "newRel": "servicecenter/kenstar-service-center-coimbatore.html",
+    "category": "service-center",
+    "brandSlug": "kenstar",
+    "brandName": "Kenstar"
+  },
+  {
+    "oldRel": "servicecenter/kodak-service-center-kanyakumari.html",
+    "newRel": "servicecenter/kodak-service-center-coimbatore.html",
+    "category": "service-center",
+    "brandSlug": "kodak",
+    "brandName": "Kodak"
+  },
+  {
+    "oldRel": "servicecenter/liebherr-service-center-kanyakumari.html",
+    "newRel": "servicecenter/liebherr-service-center-coimbatore.html",
+    "category": "service-center",
+    "brandSlug": "liebherr",
+    "brandName": "Liebherr"
+  },
+  {
+    "oldRel": "servicecenter/lloyd-service-center-kanyakumari.html",
+    "newRel": "servicecenter/lloyd-service-center-coimbatore.html",
+    "category": "service-center",
+    "brandSlug": "lloyd",
+    "brandName": "Lloyd"
+  },
+  {
+    "oldRel": "servicecenter/mi-service-center-kanyakumari.html",
+    "newRel": "servicecenter/mi-service-center-coimbatore.html",
+    "category": "service-center",
+    "brandSlug": "mi",
+    "brandName": "Mi"
+  },
+  {
+    "oldRel": "servicecenter/micromax-service-center-kanyakumari.html",
+    "newRel": "servicecenter/micromax-service-center-coimbatore.html",
+    "category": "service-center",
+    "brandSlug": "micromax",
+    "brandName": "Micromax"
+  },
+  {
+    "oldRel": "servicecenter/midea-service-center-kanyakumari.html",
+    "newRel": "servicecenter/midea-service-center-coimbatore.html",
+    "category": "service-center",
+    "brandSlug": "midea",
+    "brandName": "Midea"
+  },
+  {
+    "oldRel": "servicecenter/mitsubishi-service-center-kanyakumari.html",
+    "newRel": "servicecenter/mitsubishi-service-center-coimbatore.html",
+    "category": "service-center",
+    "brandSlug": "mitsubishi",
+    "brandName": "Mitsubishi"
+  },
+  {
+    "oldRel": "servicecenter/motorola-service-center-kanyakumari.html",
+    "newRel": "servicecenter/motorola-service-center-coimbatore.html",
+    "category": "service-center",
+    "brandSlug": "motorola",
+    "brandName": "Motorola"
+  },
+  {
+    "oldRel": "servicecenter/o-general-service-center-kanyakumari.html",
+    "newRel": "servicecenter/o-general-service-center-coimbatore.html",
+    "category": "service-center",
+    "brandSlug": "o-general",
+    "brandName": "O-General"
+  },
+  {
+    "oldRel": "servicecenter/oneplus-service-center-kanyakumari.html",
+    "newRel": "servicecenter/oneplus-service-center-coimbatore.html",
+    "category": "service-center",
+    "brandSlug": "oneplus",
+    "brandName": "OnePlus"
+  },
+  {
+    "oldRel": "servicecenter/onida-service-center-kanyakumari.html",
+    "newRel": "servicecenter/onida-service-center-coimbatore.html",
+    "category": "service-center",
+    "brandSlug": "onida",
+    "brandName": "Onida"
+  },
+  {
+    "oldRel": "servicecenter/panasonic-service-center-kanyakumari.html",
+    "newRel": "servicecenter/panasonic-service-center-coimbatore.html",
+    "category": "service-center",
+    "brandSlug": "panasonic",
+    "brandName": "Panasonic"
+  },
+  {
+    "oldRel": "servicecenter/philips-service-center-kanyakumari.html",
+    "newRel": "servicecenter/philips-service-center-coimbatore.html",
+    "category": "service-center",
+    "brandSlug": "philips",
+    "brandName": "Philips"
+  },
+  {
+    "oldRel": "servicecenter/redmi-service-center-kanyakumari.html",
+    "newRel": "servicecenter/redmi-service-center-coimbatore.html",
+    "category": "service-center",
+    "brandSlug": "redmi",
+    "brandName": "Redmi"
+  },
+  {
+    "oldRel": "servicecenter/samsung-service-center-kanyakumari.html",
+    "newRel": "servicecenter/samsung-service-center-coimbatore.html",
+    "category": "service-center",
+    "brandSlug": "samsung",
+    "brandName": "Samsung"
+  },
+  {
+    "oldRel": "servicecenter/sansui-service-center-kanyakumari.html",
+    "newRel": "servicecenter/sansui-service-center-coimbatore.html",
+    "category": "service-center",
+    "brandSlug": "sansui",
+    "brandName": "Sansui"
+  },
+  {
+    "oldRel": "servicecenter/sanyo-service-center-kanyakumari.html",
+    "newRel": "servicecenter/sanyo-service-center-coimbatore.html",
+    "category": "service-center",
+    "brandSlug": "sanyo",
+    "brandName": "Sanyo"
+  },
+  {
+    "oldRel": "servicecenter/sharp-service-center-kanyakumari.html",
+    "newRel": "servicecenter/sharp-service-center-coimbatore.html",
+    "category": "service-center",
+    "brandSlug": "sharp",
+    "brandName": "Sharp"
+  },
+  {
+    "oldRel": "servicecenter/siemens-service-center-kanyakumari.html",
+    "newRel": "servicecenter/siemens-service-center-coimbatore.html",
+    "category": "service-center",
+    "brandSlug": "siemens",
+    "brandName": "Siemens"
+  },
+  {
+    "oldRel": "servicecenter/sony-service-center-kanyakumari.html",
+    "newRel": "servicecenter/sony-service-center-coimbatore.html",
+    "category": "service-center",
+    "brandSlug": "sony",
+    "brandName": "Sony"
+  },
+  {
+    "oldRel": "servicecenter/tcl-service-center-kanyakumari.html",
+    "newRel": "servicecenter/tcl-service-center-coimbatore.html",
+    "category": "service-center",
+    "brandSlug": "tcl",
+    "brandName": "TCL"
+  },
+  {
+    "oldRel": "servicecenter/thomson-service-center-kanyakumari.html",
+    "newRel": "servicecenter/thomson-service-center-coimbatore.html",
+    "category": "service-center",
+    "brandSlug": "thomson",
+    "brandName": "Thomson"
+  },
+  {
+    "oldRel": "servicecenter/toshiba-service-center-kanyakumari.html",
+    "newRel": "servicecenter/toshiba-service-center-coimbatore.html",
+    "category": "service-center",
+    "brandSlug": "toshiba",
+    "brandName": "Toshiba"
+  },
+  {
+    "oldRel": "servicecenter/videocon-service-center-kanyakumari.html",
+    "newRel": "servicecenter/videocon-service-center-coimbatore.html",
+    "category": "service-center",
+    "brandSlug": "videocon",
+    "brandName": "Videocon"
+  },
+  {
+    "oldRel": "servicecenter/voltas-beko-service-center-kanyakumari.html",
+    "newRel": "servicecenter/voltas-beko-service-center-coimbatore.html",
+    "category": "service-center",
+    "brandSlug": "voltas-beko",
+    "brandName": "Voltas Beko"
+  },
+  {
+    "oldRel": "servicecenter/voltas-service-center-kanyakumari.html",
+    "newRel": "servicecenter/voltas-service-center-coimbatore.html",
+    "category": "service-center",
+    "brandSlug": "voltas",
+    "brandName": "Voltas"
+  },
+  {
+    "oldRel": "servicecenter/vu-service-center-kanyakumari.html",
+    "newRel": "servicecenter/vu-service-center-coimbatore.html",
+    "category": "service-center",
+    "brandSlug": "vu",
+    "brandName": "Vu"
+  },
+  {
+    "oldRel": "servicecenter/vw-service-center-kanyakumari.html",
+    "newRel": "servicecenter/vw-service-center-coimbatore.html",
+    "category": "service-center",
+    "brandSlug": "vw",
+    "brandName": "VW"
+  },
+  {
+    "oldRel": "servicecenter/whirlpool-service-center-kanyakumari.html",
+    "newRel": "servicecenter/whirlpool-service-center-coimbatore.html",
+    "category": "service-center",
+    "brandSlug": "whirlpool",
+    "brandName": "Whirlpool"
+  },
+  {
+    "oldRel": "servicecenter/white-westinghouse-service-center-kanyakumari.html",
+    "newRel": "servicecenter/white-westinghouse-service-center-coimbatore.html",
+    "category": "service-center",
+    "brandSlug": "white-westinghouse",
+    "brandName": "White Westinghouse"
+  },
+  {
+    "oldRel": "servicecenter/xiaomi-service-center-kanyakumari.html",
+    "newRel": "servicecenter/xiaomi-service-center-coimbatore.html",
+    "category": "service-center",
+    "brandSlug": "xiaomi",
+    "brandName": "Xiaomi"
+  },
+  {
+    "oldRel": "tv/acer-tv-repair-service-in-kanyakumari.html",
+    "newRel": "tv/acer-tv-repair-service-in-coimbatore.html",
+    "category": "tv",
+    "brandSlug": "acer",
+    "brandName": "Acer"
+  },
+  {
+    "oldRel": "tv/acerpure-tv-repair-service-in-kanyakumari.html",
+    "newRel": "tv/acerpure-tv-repair-service-in-coimbatore.html",
+    "category": "tv",
+    "brandSlug": "acerpure",
+    "brandName": "Acerpure"
+  },
+  {
+    "oldRel": "tv/aiwa-tv-repair-service-in-kanyakumari.html",
+    "newRel": "tv/aiwa-tv-repair-service-in-coimbatore.html",
+    "category": "tv",
+    "brandSlug": "aiwa",
+    "brandName": "Aiwa"
+  },
+  {
+    "oldRel": "tv/akai-tv-repair-service-in-kanyakumari.html",
+    "newRel": "tv/akai-tv-repair-service-in-coimbatore.html",
+    "category": "tv",
+    "brandSlug": "akai",
+    "brandName": "Akai"
+  },
+  {
+    "oldRel": "tv/bpl-tv-repair-service-in-kanyakumari.html",
+    "newRel": "tv/bpl-tv-repair-service-in-coimbatore.html",
+    "category": "tv",
+    "brandSlug": "bpl",
+    "brandName": "BPL"
+  },
+  {
+    "oldRel": "tv/haier-tv-repair-service-in-kanyakumari.html",
+    "newRel": "tv/haier-tv-repair-service-in-coimbatore.html",
+    "category": "tv",
+    "brandSlug": "haier",
+    "brandName": "Haier"
+  },
+  {
+    "oldRel": "tv/hisense-tv-repair-service-in-kanyakumari.html",
+    "newRel": "tv/hisense-tv-repair-service-in-coimbatore.html",
+    "category": "tv",
+    "brandSlug": "hisense",
+    "brandName": "Hisense"
+  },
+  {
+    "oldRel": "tv/hitachi-tv-repair-service-in-kanyakumari.html",
+    "newRel": "tv/hitachi-tv-repair-service-in-coimbatore.html",
+    "category": "tv",
+    "brandSlug": "hitachi",
+    "brandName": "Hitachi"
+  },
+  {
+    "oldRel": "tv/hyundai-tv-repair-service-in-kanyakumari.html",
+    "newRel": "tv/hyundai-tv-repair-service-in-coimbatore.html",
+    "category": "tv",
+    "brandSlug": "hyundai",
+    "brandName": "Hyundai"
+  },
+  {
+    "oldRel": "tv/iffalcon-tv-repair-service-in-kanyakumari.html",
+    "newRel": "tv/iffalcon-tv-repair-service-in-coimbatore.html",
+    "category": "tv",
+    "brandSlug": "iffalcon",
+    "brandName": "iFFALCON"
+  },
+  {
+    "oldRel": "tv/intex-tv-repair-service-in-kanyakumari.html",
+    "newRel": "tv/intex-tv-repair-service-in-coimbatore.html",
+    "category": "tv",
+    "brandSlug": "intex",
+    "brandName": "Intex"
+  },
+  {
+    "oldRel": "tv/kodak-tv-repair-service-in-kanyakumari.html",
+    "newRel": "tv/kodak-tv-repair-service-in-coimbatore.html",
+    "category": "tv",
+    "brandSlug": "kodak",
+    "brandName": "Kodak"
+  },
+  {
+    "oldRel": "tv/lloyd-tv-repair-service-in-kanyakumari.html",
+    "newRel": "tv/lloyd-tv-repair-service-in-coimbatore.html",
+    "category": "tv",
+    "brandSlug": "lloyd",
+    "brandName": "Lloyd"
+  },
+  {
+    "oldRel": "tv/mi-tv-repair-service-in-kanyakumari.html",
+    "newRel": "tv/mi-tv-repair-service-in-coimbatore.html",
+    "category": "tv",
+    "brandSlug": "mi",
+    "brandName": "Mi"
+  },
+  {
+    "oldRel": "tv/micromax-tv-repair-service-in-kanyakumari.html",
+    "newRel": "tv/micromax-tv-repair-service-in-coimbatore.html",
+    "category": "tv",
+    "brandSlug": "micromax",
+    "brandName": "Micromax"
+  },
+  {
+    "oldRel": "tv/oneplus-tv-repair-service-in-kanyakumari.html",
+    "newRel": "tv/oneplus-tv-repair-service-in-coimbatore.html",
+    "category": "tv",
+    "brandSlug": "oneplus",
+    "brandName": "OnePlus"
+  },
+  {
+    "oldRel": "tv/onida-tv-repair-service-in-kanyakumari.html",
+    "newRel": "tv/onida-tv-repair-service-in-coimbatore.html",
+    "category": "tv",
+    "brandSlug": "onida",
+    "brandName": "Onida"
+  },
+  {
+    "oldRel": "tv/panasonic-tv-repair-service-in-kanyakumari.html",
+    "newRel": "tv/panasonic-tv-repair-service-in-coimbatore.html",
+    "category": "tv",
+    "brandSlug": "panasonic",
+    "brandName": "Panasonic"
+  },
+  {
+    "oldRel": "tv/philips-tv-repair-service-in-kanyakumari.html",
+    "newRel": "tv/philips-tv-repair-service-in-coimbatore.html",
+    "category": "tv",
+    "brandSlug": "philips",
+    "brandName": "Philips"
+  },
+  {
+    "oldRel": "tv/redmi-tv-repair-service-in-kanyakumari.html",
+    "newRel": "tv/redmi-tv-repair-service-in-coimbatore.html",
+    "category": "tv",
+    "brandSlug": "redmi",
+    "brandName": "Redmi"
+  },
+  {
+    "oldRel": "tv/samsung-tv-repair-service-in-kanyakumari.html",
+    "newRel": "tv/samsung-tv-repair-service-in-coimbatore.html",
+    "category": "tv",
+    "brandSlug": "samsung",
+    "brandName": "Samsung"
+  },
+  {
+    "oldRel": "tv/sansui-tv-repair-service-in-kanyakumari.html",
+    "newRel": "tv/sansui-tv-repair-service-in-coimbatore.html",
+    "category": "tv",
+    "brandSlug": "sansui",
+    "brandName": "Sansui"
+  },
+  {
+    "oldRel": "tv/sanyo-tv-repair-service-in-kanyakumari.html",
+    "newRel": "tv/sanyo-tv-repair-service-in-coimbatore.html",
+    "category": "tv",
+    "brandSlug": "sanyo",
+    "brandName": "Sanyo"
+  },
+  {
+    "oldRel": "tv/sharp-tv-repair-service-in-kanyakumari.html",
+    "newRel": "tv/sharp-tv-repair-service-in-coimbatore.html",
+    "category": "tv",
+    "brandSlug": "sharp",
+    "brandName": "Sharp"
+  },
+  {
+    "oldRel": "tv/sony-tv-repair-service-in-kanyakumari.html",
+    "newRel": "tv/sony-tv-repair-service-in-coimbatore.html",
+    "category": "tv",
+    "brandSlug": "sony",
+    "brandName": "Sony"
+  },
+  {
+    "oldRel": "tv/tcl-tv-repair-service-in-kanyakumari.html",
+    "newRel": "tv/tcl-tv-repair-service-in-coimbatore.html",
+    "category": "tv",
+    "brandSlug": "tcl",
+    "brandName": "TCL"
+  },
+  {
+    "oldRel": "tv/toshiba-tv-repair-service-in-kanyakumari.html",
+    "newRel": "tv/toshiba-tv-repair-service-in-coimbatore.html",
+    "category": "tv",
+    "brandSlug": "toshiba",
+    "brandName": "Toshiba"
+  },
+  {
+    "oldRel": "tv/tv-repair-service-in-kanyakumari.html",
+    "newRel": "tv/tv-repair-service-in-coimbatore.html",
+    "category": "tv",
+    "brandSlug": "",
+    "brandName": "All TV Brands"
+  },
+  {
+    "oldRel": "tv/videocon-tv-repair-service-in-kanyakumari.html",
+    "newRel": "tv/videocon-tv-repair-service-in-coimbatore.html",
+    "category": "tv",
+    "brandSlug": "videocon",
+    "brandName": "Videocon"
+  },
+  {
+    "oldRel": "tv/vu-tv-repair-service-in-kanyakumari.html",
+    "newRel": "tv/vu-tv-repair-service-in-coimbatore.html",
+    "category": "tv",
+    "brandSlug": "vu",
+    "brandName": "Vu"
+  },
+  {
+    "oldRel": "tv/vw-tv-repair-service-in-kanyakumari.html",
+    "newRel": "tv/vw-tv-repair-service-in-coimbatore.html",
+    "category": "tv",
+    "brandSlug": "vw",
+    "brandName": "VW"
+  },
+  {
+    "oldRel": "tv/xiaomi-tv-repair-service-in-kanyakumari.html",
+    "newRel": "tv/xiaomi-tv-repair-service-in-coimbatore.html",
+    "category": "tv",
+    "brandSlug": "xiaomi",
+    "brandName": "Xiaomi"
+  },
+  {
+    "oldRel": "washing-machine/acer-washing-machine-repair-service-in-kanyakumari.html",
+    "newRel": "washing-machine/acer-washing-machine-repair-service-in-coimbatore.html",
+    "category": "washing-machine",
+    "brandSlug": "acer",
+    "brandName": "Acer"
+  },
+  {
+    "oldRel": "washing-machine/bosch-washing-machine-repair-service-in-kanyakumari.html",
+    "newRel": "washing-machine/bosch-washing-machine-repair-service-in-coimbatore.html",
+    "category": "washing-machine",
+    "brandSlug": "bosch",
+    "brandName": "Bosch"
+  },
+  {
+    "oldRel": "washing-machine/bpl-washing-machine-repair-service-in-kanyakumari.html",
+    "newRel": "washing-machine/bpl-washing-machine-repair-service-in-coimbatore.html",
+    "category": "washing-machine",
+    "brandSlug": "bpl",
+    "brandName": "BPL"
+  },
+  {
+    "oldRel": "washing-machine/daewoo-washing-machine-repair-service-in-kanyakumari.html",
+    "newRel": "washing-machine/daewoo-washing-machine-repair-service-in-coimbatore.html",
+    "category": "washing-machine",
+    "brandSlug": "daewoo",
+    "brandName": "Daewoo"
+  },
+  {
+    "oldRel": "washing-machine/electrolux-washing-machine-repair-service-in-kanyakumari.html",
+    "newRel": "washing-machine/electrolux-washing-machine-repair-service-in-coimbatore.html",
+    "category": "washing-machine",
+    "brandSlug": "electrolux",
+    "brandName": "Electrolux"
+  },
+  {
+    "oldRel": "washing-machine/godrej-washing-machine-repair-service-in-kanyakumari.html",
+    "newRel": "washing-machine/godrej-washing-machine-repair-service-in-coimbatore.html",
+    "category": "washing-machine",
+    "brandSlug": "godrej",
+    "brandName": "Godrej"
+  },
+  {
+    "oldRel": "washing-machine/haier-washing-machine-repair-service-in-kanyakumari.html",
+    "newRel": "washing-machine/haier-washing-machine-repair-service-in-coimbatore.html",
+    "category": "washing-machine",
+    "brandSlug": "haier",
+    "brandName": "Haier"
+  },
+  {
+    "oldRel": "washing-machine/havells-washing-machine-repair-service-in-kanyakumari.html",
+    "newRel": "washing-machine/havells-washing-machine-repair-service-in-coimbatore.html",
+    "category": "washing-machine",
+    "brandSlug": "havells",
+    "brandName": "Havells"
+  },
+  {
+    "oldRel": "washing-machine/hitachi-washing-machine-repair-service-in-kanyakumari.html",
+    "newRel": "washing-machine/hitachi-washing-machine-repair-service-in-coimbatore.html",
+    "category": "washing-machine",
+    "brandSlug": "hitachi",
+    "brandName": "Hitachi"
+  },
+  {
+    "oldRel": "washing-machine/ifb-washing-machine-repair-service-in-kanyakumari.html",
+    "newRel": "washing-machine/ifb-washing-machine-repair-service-in-coimbatore.html",
+    "category": "washing-machine",
+    "brandSlug": "ifb",
+    "brandName": "IFB"
+  },
+  {
+    "oldRel": "washing-machine/intex-washing-machine-repair-service-in-kanyakumari.html",
+    "newRel": "washing-machine/intex-washing-machine-repair-service-in-coimbatore.html",
+    "category": "washing-machine",
+    "brandSlug": "intex",
+    "brandName": "Intex"
+  },
+  {
+    "oldRel": "washing-machine/kelvinator-washing-machine-repair-service-in-kanyakumari.html",
+    "newRel": "washing-machine/kelvinator-washing-machine-repair-service-in-coimbatore.html",
+    "category": "washing-machine",
+    "brandSlug": "kelvinator",
+    "brandName": "Kelvinator"
+  },
+  {
+    "oldRel": "washing-machine/kenstar-washing-machine-repair-service-in-kanyakumari.html",
+    "newRel": "washing-machine/kenstar-washing-machine-repair-service-in-coimbatore.html",
+    "category": "washing-machine",
+    "brandSlug": "kenstar",
+    "brandName": "Kenstar"
+  },
+  {
+    "oldRel": "washing-machine/lloyd-washing-machine-repair-service-in-kanyakumari.html",
+    "newRel": "washing-machine/lloyd-washing-machine-repair-service-in-coimbatore.html",
+    "category": "washing-machine",
+    "brandSlug": "lloyd",
+    "brandName": "Lloyd"
+  },
+  {
+    "oldRel": "washing-machine/midea-washing-machine-repair-service-in-kanyakumari.html",
+    "newRel": "washing-machine/midea-washing-machine-repair-service-in-coimbatore.html",
+    "category": "washing-machine",
+    "brandSlug": "midea",
+    "brandName": "Midea"
+  },
+  {
+    "oldRel": "washing-machine/motorola-washing-machine-repair-service-in-kanyakumari.html",
+    "newRel": "washing-machine/motorola-washing-machine-repair-service-in-coimbatore.html",
+    "category": "washing-machine",
+    "brandSlug": "motorola",
+    "brandName": "Motorola"
+  },
+  {
+    "oldRel": "washing-machine/onida-washing-machine-repair-service-in-kanyakumari.html",
+    "newRel": "washing-machine/onida-washing-machine-repair-service-in-coimbatore.html",
+    "category": "washing-machine",
+    "brandSlug": "onida",
+    "brandName": "Onida"
+  },
+  {
+    "oldRel": "washing-machine/panasonic-washing-machine-repair-service-in-kanyakumari.html",
+    "newRel": "washing-machine/panasonic-washing-machine-repair-service-in-coimbatore.html",
+    "category": "washing-machine",
+    "brandSlug": "panasonic",
+    "brandName": "Panasonic"
+  },
+  {
+    "oldRel": "washing-machine/samsung-washing-machine-repair-service-in-kanyakumari.html",
+    "newRel": "washing-machine/samsung-washing-machine-repair-service-in-coimbatore.html",
+    "category": "washing-machine",
+    "brandSlug": "samsung",
+    "brandName": "Samsung"
+  },
+  {
+    "oldRel": "washing-machine/sharp-washing-machine-repair-service-in-kanyakumari.html",
+    "newRel": "washing-machine/sharp-washing-machine-repair-service-in-coimbatore.html",
+    "category": "washing-machine",
+    "brandSlug": "sharp",
+    "brandName": "Sharp"
+  },
+  {
+    "oldRel": "washing-machine/siemens-washing-machine-repair-service-in-kanyakumari.html",
+    "newRel": "washing-machine/siemens-washing-machine-repair-service-in-coimbatore.html",
+    "category": "washing-machine",
+    "brandSlug": "siemens",
+    "brandName": "Siemens"
+  },
+  {
+    "oldRel": "washing-machine/tcl-washing-machine-repair-service-in-kanyakumari.html",
+    "newRel": "washing-machine/tcl-washing-machine-repair-service-in-coimbatore.html",
+    "category": "washing-machine",
+    "brandSlug": "tcl",
+    "brandName": "TCL"
+  },
+  {
+    "oldRel": "washing-machine/thomson-washing-machine-repair-service-in-kanyakumari.html",
+    "newRel": "washing-machine/thomson-washing-machine-repair-service-in-coimbatore.html",
+    "category": "washing-machine",
+    "brandSlug": "thomson",
+    "brandName": "Thomson"
+  },
+  {
+    "oldRel": "washing-machine/toshiba-washing-machine-repair-service-in-kanyakumari.html",
+    "newRel": "washing-machine/toshiba-washing-machine-repair-service-in-coimbatore.html",
+    "category": "washing-machine",
+    "brandSlug": "toshiba",
+    "brandName": "Toshiba"
+  },
+  {
+    "oldRel": "washing-machine/videocon-washing-machine-repair-service-in-kanyakumari.html",
+    "newRel": "washing-machine/videocon-washing-machine-repair-service-in-coimbatore.html",
+    "category": "washing-machine",
+    "brandSlug": "videocon",
+    "brandName": "Videocon"
+  },
+  {
+    "oldRel": "washing-machine/voltas-beko-washing-machine-repair-service-in-kanyakumari.html",
+    "newRel": "washing-machine/voltas-beko-washing-machine-repair-service-in-coimbatore.html",
+    "category": "washing-machine",
+    "brandSlug": "voltas-beko",
+    "brandName": "Voltas Beko"
+  },
+  {
+    "oldRel": "washing-machine/voltas-washing-machine-repair-service-in-kanyakumari.html",
+    "newRel": "washing-machine/voltas-washing-machine-repair-service-in-coimbatore.html",
+    "category": "washing-machine",
+    "brandSlug": "voltas",
+    "brandName": "Voltas"
+  },
+  {
+    "oldRel": "washing-machine/vw-washing-machine-repair-service-in-kanyakumari.html",
+    "newRel": "washing-machine/vw-washing-machine-repair-service-in-coimbatore.html",
+    "category": "washing-machine",
+    "brandSlug": "vw",
+    "brandName": "VW"
+  },
+  {
+    "oldRel": "washing-machine/washing-machine-repair-service-in-kanyakumari.html",
+    "newRel": "washing-machine/washing-machine-repair-service-in-coimbatore.html",
+    "category": "washing-machine",
+    "brandSlug": "",
+    "brandName": "All Washing Machine Brands"
+  },
+  {
+    "oldRel": "washing-machine/whirlpool-washing-machine-repair-service-in-kanyakumari.html",
+    "newRel": "washing-machine/whirlpool-washing-machine-repair-service-in-coimbatore.html",
+    "category": "washing-machine",
+    "brandSlug": "whirlpool",
+    "brandName": "Whirlpool"
+  },
+  {
+    "oldRel": "washing-machine/white-westinghouse-washing-machine-repair-service-in-kanyakumari.html",
+    "newRel": "washing-machine/white-westinghouse-washing-machine-repair-service-in-coimbatore.html",
+    "category": "washing-machine",
+    "brandSlug": "white-westinghouse",
+    "brandName": "White Westinghouse"
+  }
+]

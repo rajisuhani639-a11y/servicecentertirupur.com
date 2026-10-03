@@ -1,0 +1,18 @@
+[
+  { "id": 1, "name": "Karur Town", "pincode": "639001", "landmark": "Bus Stand and Sengunthapuram" },
+  { "id": 2, "name": "Kagithapuramam", "pincode": "639004", "landmark": "Railway Feeder Road & Station" },
+  { "id": 3, "name": "Pasupathipalayam", "pincode": "639001", "landmark": "Collectorate Road & Cross Streets" },
+  { "id": 4, "name": "Thanthonimalai", "pincode": "639002", "landmark": "central bazaar market Area & South Highway" },
+  { "id": 5, "name": "Vengamedu", "pincode": "639006", "landmark": "Vengamedu Bypass & Layouts" },
+  { "id": 6, "name": "Inam Karur", "pincode": "639006", "landmark": "Bypass Junction & Railway Colony" },
+  { "id": 7, "name": "Sanapiratti", "pincode": "639004", "landmark": "Amaravathi basin Road Surroundings" },
+  { "id": 8, "name": "Vennaimalai", "pincode": "639006", "landmark": "Housing Board & Colony Lanes" },
+  { "id": 9, "name": "Kovai Road", "pincode": "639002", "landmark": "Chinna Andankovil & Bypass Corridor" },
+  { "id": 10, "name": "Velayuthampalayam", "pincode": "624202", "landmark": "Town Limits & Bus Stand Surroundings" },
+  { "id": 11, "name": "Pugalur", "pincode": "639003", "landmark": "Pugalur Main Road & Market Area" },
+  { "id": 12, "name": "Aravakurichi", "pincode": "639201", "landmark": "Vegetable Market Circle & Town Center" },
+  { "id": 13, "name": "Mayanur", "pincode": "639136", "landmark": "Town Center & Karur Highway Connection" },
+  { "id": 14, "name": "Puliyur", "pincode": "624208", "landmark": "Market Road & Bus Stop Circle" },
+  { "id": 15, "name": "Sengunthapuram", "pincode": "639006", "landmark": "Kovai Road Junction & Commercial Area" },
+  { "id": 16, "name": "Chinna Andankovil", "pincode": "639002", "landmark": "Collectorate Office & Bypass" }
+]

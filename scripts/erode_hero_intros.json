@@ -1,0 +1,872 @@
+{
+  "ac/ac-repair-service-in-erode.html": {
+    "brand": "All AC Brands",
+    "category": "ac",
+    "lead": "Looking for All AC Brands AC repair service in Erode? When your All AC Brands split or inverter air conditioner stops cooling during hot afternoons in Karungalpalayam or Erode Fort, our local technicians visit your home to check gas pressure, clean coils, and fix capacitor faults."
+  },
+  "ac/acer-ac-repair-service-in-erode.html": {
+    "brand": "Acer",
+    "category": "ac",
+    "lead": "Searching for Acer air conditioner service near me in Erode? If your Acer AC is blowing room-temperature air, leaking water indoors, or making humming noises near Pallipalayam, get prompt doorstep inspection with upfront estimates across Kottai Perumal Kovil."
+  },
+  "ac/acerpure-ac-repair-service-in-erode.html": {
+    "brand": "Acerpure",
+    "category": "ac",
+    "lead": "Need doorstep Acerpure AC service in Erode? From sudden refrigerant leaks to outdoor fan motor issues in Vairapalayam and Meenatchi Sundaranar Road, our experienced cooling technicians provide on-site diagnostics and genuine component repairs."
+  },
+  "ac/bajaj-ac-repair-service-in-erode.html": {
+    "brand": "Bajaj",
+    "category": "ac",
+    "lead": "Is your Bajaj inverter air conditioner tripping the circuit breaker in Erode? Whether you reside around Manikoondu or near EVN Road, our local technician visits your home with digital testing gauges to identify PCB, compressor, and sensor faults."
+  },
+  "ac/blue-star-ac-repair-service-in-erode.html": {
+    "brand": "Blue Star",
+    "category": "ac",
+    "lead": "Facing low cooling or continuous water dripping from your Blue Star AC in Erode? Book a nearby technician across Eswaran Kovil Street or Park Road for pressure jet cleaning, leak detection, and genuine spare parts replacement at reasonable rates."
+  },
+  "ac/bpl-ac-repair-service-in-erode.html": {
+    "brand": "BPL",
+    "category": "ac",
+    "lead": "Looking for BPL AC repair service in Erode? When your BPL split or inverter air conditioner stops cooling during hot afternoons in Kamaraj High Road or SPB Colony, our local technicians visit your home to check gas pressure, clean coils, and fix capacitor faults."
+  },
+  "ac/carrier-ac-repair-service-in-erode.html": {
+    "brand": "Carrier",
+    "category": "ac",
+    "lead": "Searching for Carrier air conditioner service near me in Erode? If your Carrier AC is blowing room-temperature air, leaking water indoors, or making humming noises near Old Bus Stand Area, get prompt doorstep inspection with upfront estimates across Kokkarayanpettai."
+  },
+  "ac/daikin-ac-repair-service-in-erode.html": {
+    "brand": "Daikin",
+    "category": "ac",
+    "lead": "Need doorstep Daikin AC service in Erode? From sudden refrigerant leaks to outdoor fan motor issues in Gandhiji Road and Solar Pudur, our experienced cooling technicians provide on-site diagnostics and genuine component repairs."
+  },
+  "ac/electrolux-ac-repair-service-in-erode.html": {
+    "brand": "Electrolux",
+    "category": "ac",
+    "lead": "Is your Electrolux inverter air conditioner tripping the circuit breaker in Erode? Whether you reside around Kalaimagal Kalvi Nilayam Road or near Karumandisellipalayam East, our local technician visits your home with digital testing gauges to identify PCB, compressor, and sensor faults."
+  },
+  "ac/godrej-ac-repair-service-in-erode.html": {
+    "brand": "Godrej",
+    "category": "ac",
+    "lead": "Facing low cooling or continuous water dripping from your Godrej AC in Erode? Book a nearby technician across Kottai Eswaran Koil or Chidambaram Colony East for pressure jet cleaning, leak detection, and genuine spare parts replacement at reasonable rates."
+  },
+  "ac/haier-ac-repair-service-in-erode.html": {
+    "brand": "Haier",
+    "category": "ac",
+    "lead": "Looking for Haier AC repair service in Erode? When your Haier split or inverter air conditioner stops cooling during hot afternoons in Cutchery Street or Shanthi Nagar, our local technicians visit your home to check gas pressure, clean coils, and fix capacitor faults."
+  },
+  "ac/havells-ac-repair-service-in-erode.html": {
+    "brand": "Havells",
+    "category": "ac",
+    "lead": "Searching for Havells air conditioner service near me in Erode? If your Havells AC is blowing room-temperature air, leaking water indoors, or making humming noises near Mosikeeranar Street, get prompt doorstep inspection with upfront estimates across Nanjappa School Road."
+  },
+  "ac/hisense-ac-repair-service-in-erode.html": {
+    "brand": "Hisense",
+    "category": "ac",
+    "lead": "Need doorstep Hisense AC service in Erode? From sudden refrigerant leaks to outdoor fan motor issues in Nachiappa Street and Agilmedu Street, our experienced cooling technicians provide on-site diagnostics and genuine component repairs."
+  },
+  "ac/hitachi-ac-repair-service-in-erode.html": {
+    "brand": "Hitachi",
+    "category": "ac",
+    "lead": "Is your Hitachi inverter air conditioner tripping the circuit breaker in Erode? Whether you reside around Kongu Nagar East or near VOC Street, our local technician visits your home with digital testing gauges to identify PCB, compressor, and sensor faults."
+  },
+  "ac/ifb-ac-repair-service-in-erode.html": {
+    "brand": "IFB",
+    "category": "ac",
+    "lead": "Facing low cooling or continuous water dripping from your IFB AC in Erode? Book a nearby technician across Alampalayam or Weavers Colony for pressure jet cleaning, leak detection, and genuine spare parts replacement at reasonable rates."
+  },
+  "ac/kelvinator-ac-repair-service-in-erode.html": {
+    "brand": "Kelvinator",
+    "category": "ac",
+    "lead": "Looking for Kelvinator AC repair service in Erode? When your Kelvinator split or inverter air conditioner stops cooling during hot afternoons in Kumarapalayam Road or VOC Market Road, our local technicians visit your home to check gas pressure, clean coils, and fix capacitor faults."
+  },
+  "ac/kenstar-ac-repair-service-in-erode.html": {
+    "brand": "Kenstar",
+    "category": "ac",
+    "lead": "Searching for Kenstar air conditioner service near me in Erode? If your Kenstar AC is blowing room-temperature air, leaking water indoors, or making humming noises near Lakkapuram East, get prompt doorstep inspection with upfront estimates across Ashokapuram East."
+  },
+  "ac/lloyd-ac-repair-service-in-erode.html": {
+    "brand": "Lloyd",
+    "category": "ac",
+    "lead": "Need doorstep Lloyd AC service in Erode? From sudden refrigerant leaks to outdoor fan motor issues in Vendipalayam Barrage Road and Thindal Murugan Kovil Area, our experienced cooling technicians provide on-site diagnostics and genuine component repairs."
+  },
+  "ac/midea-ac-repair-service-in-erode.html": {
+    "brand": "Midea",
+    "category": "ac",
+    "lead": "Is your Midea inverter air conditioner tripping the circuit breaker in Erode? Whether you reside around Nadarmedu East or near Perundurai Road, our local technician visits your home with digital testing gauges to identify PCB, compressor, and sensor faults."
+  },
+  "ac/mitsubishi-ac-repair-service-in-erode.html": {
+    "brand": "Mitsubishi",
+    "category": "ac",
+    "lead": "Facing low cooling or continuous water dripping from your Mitsubishi AC in Erode? Book a nearby technician across Anna Statue Junction or Teachers Colony for pressure jet cleaning, leak detection, and genuine spare parts replacement at reasonable rates."
+  },
+  "ac/motorola-ac-repair-service-in-erode.html": {
+    "brand": "Motorola",
+    "category": "ac",
+    "lead": "Looking for Motorola AC repair service in Erode? When your Motorola split or inverter air conditioner stops cooling during hot afternoons in New Cinema Road or Kumalan Kuttai, our local technicians visit your home to check gas pressure, clean coils, and fix capacitor faults."
+  },
+  "ac/o-general-ac-repair-service-in-erode.html": {
+    "brand": "O-General",
+    "category": "ac",
+    "lead": "Searching for O-General air conditioner service near me in Erode? If your O-General AC is blowing room-temperature air, leaking water indoors, or making humming noises near Chinnasamy Street, get prompt doorstep inspection with upfront estimates across Collectorate Area."
+  },
+  "ac/onida-ac-repair-service-in-erode.html": {
+    "brand": "Onida",
+    "category": "ac",
+    "lead": "Need doorstep Onida AC service in Erode? From sudden refrigerant leaks to outdoor fan motor issues in Periyar Street and Nasiyanur Road, our experienced cooling technicians provide on-site diagnostics and genuine component repairs."
+  },
+  "ac/panasonic-ac-repair-service-in-erode.html": {
+    "brand": "Panasonic",
+    "category": "ac",
+    "lead": "Is your Panasonic inverter air conditioner tripping the circuit breaker in Erode? Whether you reside around Telephone Nagar or near Villarasampatti Four Roads, our local technician visits your home with digital testing gauges to identify PCB, compressor, and sensor faults."
+  },
+  "ac/samsung-ac-repair-service-in-erode.html": {
+    "brand": "Samsung",
+    "category": "ac",
+    "lead": "Facing low cooling or continuous water dripping from your Samsung AC in Erode? Book a nearby technician across Cauvery Nagar or Koorapalayam for pressure jet cleaning, leak detection, and genuine spare parts replacement at reasonable rates."
+  },
+  "ac/sansui-ac-repair-service-in-erode.html": {
+    "brand": "Sansui",
+    "category": "ac",
+    "lead": "Looking for Sansui AC repair service in Erode? When your Sansui split or inverter air conditioner stops cooling during hot afternoons in Thindal or Moolakkarai, our local technicians visit your home to check gas pressure, clean coils, and fix capacitor faults."
+  },
+  "ac/sharp-ac-repair-service-in-erode.html": {
+    "brand": "Sharp",
+    "category": "ac",
+    "lead": "Searching for Sharp air conditioner service near me in Erode? If your Sharp AC is blowing room-temperature air, leaking water indoors, or making humming noises near Thindal Medu, get prompt doorstep inspection with upfront estimates across Sakthi Nagar Thindal."
+  },
+  "ac/tcl-ac-repair-service-in-erode.html": {
+    "brand": "TCL",
+    "category": "ac",
+    "lead": "Need doorstep TCL AC service in Erode? From sudden refrigerant leaks to outdoor fan motor issues in Sampath Nagar and Rajaswamy Nagar, our experienced cooling technicians provide on-site diagnostics and genuine component repairs."
+  },
+  "ac/voltas-ac-repair-service-in-erode.html": {
+    "brand": "Voltas",
+    "category": "ac",
+    "lead": "Is your Voltas inverter air conditioner tripping the circuit breaker in Erode? Whether you reside around New Teachers Colony or near Maruthi Nagar, our local technician visits your home with digital testing gauges to identify PCB, compressor, and sensor faults."
+  },
+  "ac/whirlpool-ac-repair-service-in-erode.html": {
+    "brand": "Whirlpool",
+    "category": "ac",
+    "lead": "Facing low cooling or continuous water dripping from your Whirlpool AC in Erode? Book a nearby technician across Edayankattuvalasu or Indira Nagar for pressure jet cleaning, leak detection, and genuine spare parts replacement at reasonable rates."
+  },
+  "fridge/acer-refrigerator-repair-service-in-erode.html": {
+    "brand": "Acer",
+    "category": "fridge",
+    "lead": "Searching for Acer refrigerator repair near me in Erode? Whether your Acer double door fridge has stopped chilling milk in Nasiyanur or the freezer is collecting heavy frost sheets near Veppampalayam, our local technicians visit your doorstep with testing tools."
+  },
+  "fridge/blue-star-refrigerator-repair-service-in-erode.html": {
+    "brand": "Blue Star",
+    "category": "fridge",
+    "lead": "Looking for trusted Blue Star fridge repair service in Erode? When your Blue Star refrigerator compressor clicks every few minutes without starting in Villarasampatti, or water pools under the crisper drawer in Vettukattuvalasu, get honest diagnosis and quick doorstep repair."
+  },
+  "fridge/bosch-refrigerator-repair-service-in-erode.html": {
+    "brand": "Bosch",
+    "category": "fridge",
+    "lead": "Need quick Bosch refrigerator service in Erode? From cooling coil gas leaks to defrost bi-metal sensor failures around Pavalathampalayam and SBI Colony, our local technicians carry essential replacement spares for on-site resolution."
+  },
+  "fridge/bpl-refrigerator-repair-service-in-erode.html": {
+    "brand": "BPL",
+    "category": "fridge",
+    "lead": "Is your BPL inverter refrigerator warming up unexpectedly in Erode? For homes across Sengodampalayam, Rayapalayam Pudur, and surrounding areas, our nearby technician checks PCB signals, inverter compressor relays, and fan motors with transparent pricing."
+  },
+  "fridge/electrolux-refrigerator-repair-service-in-erode.html": {
+    "brand": "Electrolux",
+    "category": "fridge",
+    "lead": "Dealing with poor cooling or continuous running in your Electrolux fridge in Erode? Schedule a doorstep visit near Palayapalayam or Chithode Bypass West for thorough thermostat inspection, door gasket adjustments, and certified parts replacement."
+  },
+  "fridge/godrej-refrigerator-repair-service-in-erode.html": {
+    "brand": "Godrej",
+    "category": "fridge",
+    "lead": "Searching for Godrej refrigerator repair near me in Erode? Whether your Godrej double door fridge has stopped chilling milk in Sudha Hospital Road or the freezer is collecting heavy frost sheets near Perundurai SIPCOT, our local technicians visit your doorstep with testing tools."
+  },
+  "fridge/haier-refrigerator-repair-service-in-erode.html": {
+    "brand": "Haier",
+    "category": "fridge",
+    "lead": "Looking for trusted Haier fridge repair service in Erode? When your Haier refrigerator compressor clicks every few minutes without starting in NGO Colony Thindal, or water pools under the crisper drawer in Perundurai RS, get honest diagnosis and quick doorstep repair."
+  },
+  "fridge/hisense-refrigerator-repair-service-in-erode.html": {
+    "brand": "Hisense",
+    "category": "fridge",
+    "lead": "Need quick Hisense refrigerator service in Erode? From cooling coil gas leaks to defrost bi-metal sensor failures around Golden City Thindal and Sanitorium Area Perundurai, our local technicians carry essential replacement spares for on-site resolution."
+  },
+  "fridge/hitachi-refrigerator-repair-service-in-erode.html": {
+    "brand": "Hitachi",
+    "category": "fridge",
+    "lead": "Is your Hitachi inverter refrigerator warming up unexpectedly in Erode? For homes across Texvalley Surroundings, Sri Nagar Thindal, and surrounding areas, our nearby technician checks PCB signals, inverter compressor relays, and fan motors with transparent pricing."
+  },
+  "fridge/ifb-refrigerator-repair-service-in-erode.html": {
+    "brand": "IFB",
+    "category": "fridge",
+    "lead": "Dealing with poor cooling or continuous running in your IFB fridge in Erode? Schedule a doorstep visit near Kaspapet or VOC Nagar West for thorough thermostat inspection, door gasket adjustments, and certified parts replacement."
+  },
+  "fridge/kelvinator-refrigerator-repair-service-in-erode.html": {
+    "brand": "Kelvinator",
+    "category": "fridge",
+    "lead": "Searching for Kelvinator refrigerator repair near me in Erode? Whether your Kelvinator double door fridge has stopped chilling milk in Bharathi Nagar or the freezer is collecting heavy frost sheets near Royal City, our local technicians visit your doorstep with testing tools."
+  },
+  "fridge/liebherr-refrigerator-repair-service-in-erode.html": {
+    "brand": "Liebherr",
+    "category": "fridge",
+    "lead": "Looking for trusted Liebherr fridge repair service in Erode? When your Liebherr refrigerator compressor clicks every few minutes without starting in LIC Colony Thindal, or water pools under the crisper drawer in Annamalai Layout, get honest diagnosis and quick doorstep repair."
+  },
+  "fridge/lloyd-refrigerator-repair-service-in-erode.html": {
+    "brand": "Lloyd",
+    "category": "fridge",
+    "lead": "Need quick Lloyd refrigerator service in Erode? From cooling coil gas leaks to defrost bi-metal sensor failures around Gangapuram West and Periyasemur, our local technicians carry essential replacement spares for on-site resolution."
+  },
+  "fridge/midea-refrigerator-repair-service-in-erode.html": {
+    "brand": "Midea",
+    "category": "fridge",
+    "lead": "Is your Midea inverter refrigerator warming up unexpectedly in Erode? For homes across Mettukadai, Sathy Road, and surrounding areas, our nearby technician checks PCB signals, inverter compressor relays, and fan motors with transparent pricing."
+  },
+  "fridge/motorola-refrigerator-repair-service-in-erode.html": {
+    "brand": "Motorola",
+    "category": "fridge",
+    "lead": "Dealing with poor cooling or continuous running in your Motorola fridge in Erode? Schedule a doorstep visit near Perundurai Old Bus Stand or Bhavani for thorough thermostat inspection, door gasket adjustments, and certified parts replacement."
+  },
+  "fridge/onida-refrigerator-repair-service-in-erode.html": {
+    "brand": "Onida",
+    "category": "fridge",
+    "lead": "Searching for Onida refrigerator repair near me in Erode? Whether your Onida double door fridge has stopped chilling milk in Chennimalai Road West or the freezer is collecting heavy frost sheets near Suriyampalayam, our local technicians visit your doorstep with testing tools."
+  },
+  "fridge/panasonic-refrigerator-repair-service-in-erode.html": {
+    "brand": "Panasonic",
+    "category": "fridge",
+    "lead": "Looking for trusted Panasonic fridge repair service in Erode? When your Panasonic refrigerator compressor clicks every few minutes without starting in Kamban Nagar, or water pools under the crisper drawer in Mettur Road North, get honest diagnosis and quick doorstep repair."
+  },
+  "fridge/refrigerator-repair-service-in-erode.html": {
+    "brand": "All Refrigerator Brands",
+    "category": "fridge",
+    "lead": "Need quick All Refrigerator Brands refrigerator service in Erode? From cooling coil gas leaks to defrost bi-metal sensor failures around Thiruvalluvar Nagar and Kaniravutharkulam, our local technicians carry essential replacement spares for on-site resolution."
+  },
+  "fridge/samsung-refrigerator-repair-service-in-erode.html": {
+    "brand": "Samsung",
+    "category": "fridge",
+    "lead": "Is your Samsung inverter refrigerator warming up unexpectedly in Erode? For homes across Jaganathan Nagar, Urachikottai, and surrounding areas, our nearby technician checks PCB signals, inverter compressor relays, and fan motors with transparent pricing."
+  },
+  "fridge/sharp-refrigerator-repair-service-in-erode.html": {
+    "brand": "Sharp",
+    "category": "fridge",
+    "lead": "Dealing with poor cooling or continuous running in your Sharp fridge in Erode? Schedule a doorstep visit near Thirunagar Colony West or Odathurai for thorough thermostat inspection, door gasket adjustments, and certified parts replacement."
+  },
+  "fridge/siemens-refrigerator-repair-service-in-erode.html": {
+    "brand": "Siemens",
+    "category": "fridge",
+    "lead": "Searching for Siemens refrigerator repair near me in Erode? Whether your Siemens double door fridge has stopped chilling milk in Veerappanchatram or the freezer is collecting heavy frost sheets near Vasavi College Area, our local technicians visit your doorstep with testing tools."
+  },
+  "fridge/toshiba-refrigerator-repair-service-in-erode.html": {
+    "brand": "Toshiba",
+    "category": "fridge",
+    "lead": "Looking for trusted Toshiba fridge repair service in Erode? When your Toshiba refrigerator compressor clicks every few minutes without starting in B.P. Agraharam, or water pools under the crisper drawer in Mettunasuvampalayam, get honest diagnosis and quick doorstep repair."
+  },
+  "fridge/videocon-refrigerator-repair-service-in-erode.html": {
+    "brand": "Videocon",
+    "category": "fridge",
+    "lead": "Need quick Videocon refrigerator service in Erode? From cooling coil gas leaks to defrost bi-metal sensor failures around Chithode and Chithode Four Roads, our local technicians carry essential replacement spares for on-site resolution."
+  },
+  "fridge/voltas-beko-refrigerator-repair-service-in-erode.html": {
+    "brand": "Voltas Beko",
+    "category": "fridge",
+    "lead": "Is your Voltas Beko inverter refrigerator warming up unexpectedly in Erode? For homes across Bhavani Kooduthurai, Muniappan Kovil Street, and surrounding areas, our nearby technician checks PCB signals, inverter compressor relays, and fan motors with transparent pricing."
+  },
+  "fridge/whirlpool-refrigerator-repair-service-in-erode.html": {
+    "brand": "Whirlpool",
+    "category": "fridge",
+    "lead": "Dealing with poor cooling or continuous running in your Whirlpool fridge in Erode? Schedule a doorstep visit near Lakshmi Nagar Chithode or Housing Unit Veerappanchatram for thorough thermostat inspection, door gasket adjustments, and certified parts replacement."
+  },
+  "index.html": {
+    "brand": "Home Appliance Multi-Brand",
+    "category": "root",
+    "lead": "Looking for a nearby service center for AC, fridge, washing machine or TV repair in Erode? Get your home appliance checked by a local technician with honest diagnosis and transparent pricing across all 200 Erode localities including R.N. Pudur and Kanirowther Kulam."
+  },
+  "servicecenter/acer-service-center-erode.html": {
+    "brand": "Acer",
+    "category": "service-center",
+    "lead": "Searching for Acer Service Center in Erode? If your Acer home appliances—including Air Conditioner, Refrigerator, Washing Machine—need repair or maintenance in Kalingarayanpalayam or V.Chatram Main Road, our local technicians visit your doorstep with genuine replacement spares and clear guidance."
+  },
+  "servicecenter/acerpure-service-center-erode.html": {
+    "brand": "Acerpure",
+    "category": "service-center",
+    "lead": "Looking for complete Acerpure appliance repair service in Erode? Whether you need technical inspection for your Acerpure refrigerator, washing machine, AC, or TV near Anthiyur Road Junction, our nearby technicians provide honest on-site troubleshooting across Swastik Roundana."
+  },
+  "servicecenter/aiwa-service-center-erode.html": {
+    "brand": "Aiwa",
+    "category": "service-center",
+    "lead": "Need doorstep Aiwa service center assistance in Erode? For households across Periyapuliyur, Gandhiji Road North, and surrounding residential corridors, our trained technicians handle component-level fixes, sensor testing, and scheduled servicing for Aiwa products."
+  },
+  "servicecenter/akai-service-center-erode.html": {
+    "brand": "Akai",
+    "category": "service-center",
+    "lead": "Facing performance trouble with your Akai appliances in Erode? Book a nearby service visit near Ellapalayam or Sundaram Street for comprehensive diagnosis of cooling faults, drainage errors, display problems, and power supply issues."
+  },
+  "servicecenter/bajaj-service-center-erode.html": {
+    "brand": "Bajaj",
+    "category": "service-center",
+    "lead": "Searching for Bajaj Service Center in Erode? If your Bajaj home appliances—including Air Conditioner, Air Cooler, Geyser / Water Heater—need repair or maintenance in Perumalmalai or Anna Nagar Veerappanchatram, our local technicians visit your doorstep with genuine replacement spares and clear guidance."
+  },
+  "servicecenter/blue-star-service-center-erode.html": {
+    "brand": "Blue Star",
+    "category": "service-center",
+    "lead": "Looking for complete Blue Star appliance repair service in Erode? Whether you need technical inspection for your Blue Star refrigerator, washing machine, AC, or TV near Kumilamparappu, our nearby technicians provide honest on-site troubleshooting across Semur Post Office Road."
+  },
+  "servicecenter/bosch-service-center-erode.html": {
+    "brand": "Bosch",
+    "category": "service-center",
+    "lead": "Need doorstep Bosch service center assistance in Erode? For households across Manickampalayam, Elavamalai, and surrounding residential corridors, our trained technicians handle component-level fixes, sensor testing, and scheduled servicing for Bosch products."
+  },
+  "servicecenter/bpl-service-center-erode.html": {
+    "brand": "BPL",
+    "category": "service-center",
+    "lead": "Facing performance trouble with your BPL appliances in Erode? Book a nearby service visit near Nalligoundenpalayam or Bhavanisagar Road Junction for comprehensive diagnosis of cooling faults, drainage errors, display problems, and power supply issues."
+  },
+  "servicecenter/carrier-service-center-erode.html": {
+    "brand": "Carrier",
+    "category": "service-center",
+    "lead": "Searching for Carrier Service Center in Erode? If your Carrier home appliances—including Air Conditioner, Air Purifier, Cassette AC—need repair or maintenance in Cauvery RS North or Kavindapadi Road Junction, our local technicians visit your doorstep with genuine replacement spares and clear guidance."
+  },
+  "servicecenter/daewoo-service-center-erode.html": {
+    "brand": "Daewoo",
+    "category": "service-center",
+    "lead": "Looking for complete Daewoo appliance repair service in Erode? Whether you need technical inspection for your Daewoo refrigerator, washing machine, AC, or TV near GH Roundana North, our nearby technicians provide honest on-site troubleshooting across Kuruppanaickenpalayam."
+  },
+  "servicecenter/daikin-service-center-erode.html": {
+    "brand": "Daikin",
+    "category": "service-center",
+    "lead": "Need doorstep Daikin service center assistance in Erode? For households across Railway Colony North, Alukuli Road, and surrounding residential corridors, our trained technicians handle component-level fixes, sensor testing, and scheduled servicing for Daikin products."
+  },
+  "servicecenter/electrolux-service-center-erode.html": {
+    "brand": "Electrolux",
+    "category": "service-center",
+    "lead": "Facing performance trouble with your Electrolux appliances in Erode? Book a nearby service visit near Chettipalayam North or Surampatti Valasu for comprehensive diagnosis of cooling faults, drainage errors, display problems, and power supply issues."
+  },
+  "servicecenter/godrej-service-center-erode.html": {
+    "brand": "Godrej",
+    "category": "service-center",
+    "lead": "Searching for Godrej Service Center in Erode? If your Godrej home appliances—including Air Conditioner, Refrigerator, Washing Machine—need repair or maintenance in VOC Nagar Veerappanchatram or Kasipalayam, our local technicians visit your doorstep with genuine replacement spares and clear guidance."
+  },
+  "servicecenter/haier-service-center-erode.html": {
+    "brand": "Haier",
+    "category": "service-center",
+    "lead": "Looking for complete Haier appliance repair service in Erode? Whether you need technical inspection for your Haier refrigerator, washing machine, AC, or TV near Periyar Nagar North, our nearby technicians provide honest on-site troubleshooting across Moolapalayam."
+  },
+  "servicecenter/havells-service-center-erode.html": {
+    "brand": "Havells",
+    "category": "service-center",
+    "lead": "Need doorstep Havells service center assistance in Erode? For households across Kongu Arts College Road, Solar New Bus Stand, and surrounding residential corridors, our trained technicians handle component-level fixes, sensor testing, and scheduled servicing for Havells products."
+  },
+  "servicecenter/hisense-service-center-erode.html": {
+    "brand": "Hisense",
+    "category": "service-center",
+    "lead": "Facing performance trouble with your Hisense appliances in Erode? Book a nearby service visit near Konalai Road or Chennimalai Road for comprehensive diagnosis of cooling faults, drainage errors, display problems, and power supply issues."
+  },
+  "servicecenter/hitachi-service-center-erode.html": {
+    "brand": "Hitachi",
+    "category": "service-center",
+    "lead": "Searching for Hitachi Service Center in Erode? If your Hitachi home appliances—including Air Conditioner, Refrigerator, Washing Machine—need repair or maintenance in Salangapalayam or Muthampalayam, our local technicians visit your doorstep with genuine replacement spares and clear guidance."
+  },
+  "servicecenter/home-appliance-service-center-erode.html": {
+    "brand": "home-appliance",
+    "category": "service-center",
+    "lead": "Looking for complete home-appliance appliance repair service in Erode? Whether you need technical inspection for your home-appliance refrigerator, washing machine, AC, or TV near Appakudal Road, our nearby technicians provide honest on-site troubleshooting across Lakkapuram."
+  },
+  "servicecenter/hyundai-service-center-erode.html": {
+    "brand": "Hyundai",
+    "category": "service-center",
+    "lead": "Need doorstep Hyundai service center assistance in Erode? For households across Komarapalayam Bypass, Transport Nagar, and surrounding residential corridors, our trained technicians handle component-level fixes, sensor testing, and scheduled servicing for Hyundai products."
+  },
+  "servicecenter/ifb-service-center-erode.html": {
+    "brand": "IFB",
+    "category": "service-center",
+    "lead": "Facing performance trouble with your IFB appliances in Erode? Book a nearby service visit near Surampatti or Vendipalayam for comprehensive diagnosis of cooling faults, drainage errors, display problems, and power supply issues."
+  },
+  "servicecenter/iffalcon-service-center-erode.html": {
+    "brand": "iFFALCON",
+    "category": "service-center",
+    "lead": "Searching for iFFALCON Service Center in Erode? If your iFFALCON home appliances—including Television, 4K Google TV, QLED TV—need repair or maintenance in Surampatti Four Roads or Modakkurichi, our local technicians visit your doorstep with genuine replacement spares and clear guidance."
+  },
+  "servicecenter/intex-service-center-erode.html": {
+    "brand": "Intex",
+    "category": "service-center",
+    "lead": "Looking for complete Intex appliance repair service in Erode? Whether you need technical inspection for your Intex refrigerator, washing machine, AC, or TV near Kollampalayam, our nearby technicians provide honest on-site troubleshooting across Sivagiri Road."
+  },
+  "servicecenter/kelvinator-service-center-erode.html": {
+    "brand": "Kelvinator",
+    "category": "service-center",
+    "lead": "Need doorstep Kelvinator service center assistance in Erode? For households across Solar, Jaycees School Area, and surrounding residential corridors, our trained technicians handle component-level fixes, sensor testing, and scheduled servicing for Kelvinator products."
+  },
+  "servicecenter/kenstar-service-center-erode.html": {
+    "brand": "Kenstar",
+    "category": "service-center",
+    "lead": "Facing performance trouble with your Kenstar appliances in Erode? Book a nearby service visit near Erode Railway Junction Area or Sakthi Nagar South for comprehensive diagnosis of cooling faults, drainage errors, display problems, and power supply issues."
+  },
+  "servicecenter/kodak-service-center-erode.html": {
+    "brand": "Kodak",
+    "category": "service-center",
+    "lead": "Searching for Kodak Service Center in Erode? If your Kodak home appliances—including Television, 4K UHD Smart TV, QLED TV—need repair or maintenance in Poondurai Road or Periyar Nagar South, our local technicians visit your doorstep with genuine replacement spares and clear guidance."
+  },
+  "servicecenter/liebherr-service-center-erode.html": {
+    "brand": "Liebherr",
+    "category": "service-center",
+    "lead": "Looking for complete Liebherr appliance repair service in Erode? Whether you need technical inspection for your Liebherr refrigerator, washing machine, AC, or TV near Muthampalayam Housing Unit, our nearby technicians provide honest on-site troubleshooting across Shastri Nagar."
+  },
+  "servicecenter/lloyd-service-center-erode.html": {
+    "brand": "Lloyd",
+    "category": "service-center",
+    "lead": "Need doorstep Lloyd service center assistance in Erode? For households across 46 Pudur, Soolai, and surrounding residential corridors, our trained technicians handle component-level fixes, sensor testing, and scheduled servicing for Lloyd products."
+  },
+  "servicecenter/mi-service-center-erode.html": {
+    "brand": "Mi",
+    "category": "service-center",
+    "lead": "Facing performance trouble with your Mi appliances in Erode? Book a nearby service visit near Nadarmedu or Kollampalayam Bypass for comprehensive diagnosis of cooling faults, drainage errors, display problems, and power supply issues."
+  },
+  "servicecenter/micromax-service-center-erode.html": {
+    "brand": "Micromax",
+    "category": "service-center",
+    "lead": "Searching for Micromax Service Center in Erode? If your Micromax home appliances—including Television, Smart Android TV, LED TV—need repair or maintenance in Karumandisellipalayam South or Municipal Colony South, our local technicians visit your doorstep with genuine replacement spares and clear guidance."
+  },
+  "servicecenter/midea-service-center-erode.html": {
+    "brand": "Midea",
+    "category": "service-center",
+    "lead": "Looking for complete Midea appliance repair service in Erode? Whether you need technical inspection for your Midea refrigerator, washing machine, AC, or TV near Modakkurichi Road, our nearby technicians provide honest on-site troubleshooting across Muthuvelappa Street."
+  },
+  "servicecenter/mitsubishi-service-center-erode.html": {
+    "brand": "Mitsubishi",
+    "category": "service-center",
+    "lead": "Need doorstep Mitsubishi service center assistance in Erode? For households across Ganapathipalayam, Pasur Road, and surrounding residential corridors, our trained technicians handle component-level fixes, sensor testing, and scheduled servicing for Mitsubishi products."
+  },
+  "servicecenter/motorola-service-center-erode.html": {
+    "brand": "Motorola",
+    "category": "service-center",
+    "lead": "Facing performance trouble with your Motorola appliances in Erode? Book a nearby service visit near Rangampalayam or Vellode for comprehensive diagnosis of cooling faults, drainage errors, display problems, and power supply issues."
+  },
+  "servicecenter/o-general-service-center-erode.html": {
+    "brand": "O-General",
+    "category": "service-center",
+    "lead": "Searching for O-General Service Center in Erode? If your O-General home appliances—including Air Conditioner, Tropical Inverter Split AC, Window AC—need repair or maintenance in Anandha Nagar or Chennimalai Murugan Temple Foothills, our local technicians visit your doorstep with genuine replacement spares and clear guidance."
+  },
+  "servicecenter/oneplus-service-center-erode.html": {
+    "brand": "OnePlus",
+    "category": "service-center",
+    "lead": "Looking for complete OnePlus appliance repair service in Erode? Whether you need technical inspection for your OnePlus refrigerator, washing machine, AC, or TV near Marapalam South, our nearby technicians provide honest on-site troubleshooting across Unjalur Road."
+  },
+  "servicecenter/onida-service-center-erode.html": {
+    "brand": "Onida",
+    "category": "service-center",
+    "lead": "Need doorstep Onida service center assistance in Erode? For households across Teachers Nagar Kasipalayam, Arachalur, and surrounding residential corridors, our trained technicians handle component-level fixes, sensor testing, and scheduled servicing for Onida products."
+  },
+  "servicecenter/panasonic-service-center-erode.html": {
+    "brand": "Panasonic",
+    "category": "service-center",
+    "lead": "Facing performance trouble with your Panasonic appliances in Erode? Book a nearby service visit near Soolai Medu or Nallampatti for comprehensive diagnosis of cooling faults, drainage errors, display problems, and power supply issues."
+  },
+  "servicecenter/philips-service-center-erode.html": {
+    "brand": "Philips",
+    "category": "service-center",
+    "lead": "Searching for Philips Service Center in Erode? If your Philips home appliances—including Television, Ambilight 4K TV, Smart LED TV—need repair or maintenance in Railway Colony South or Cauvery Road, our local technicians visit your doorstep with genuine replacement spares and clear guidance."
+  },
+  "servicecenter/redmi-service-center-erode.html": {
+    "brand": "Redmi",
+    "category": "service-center",
+    "lead": "Looking for complete Redmi appliance repair service in Erode? Whether you need technical inspection for your Redmi refrigerator, washing machine, AC, or TV near SKC Road, our nearby technicians provide honest on-site troubleshooting across Agraharam."
+  },
+  "servicecenter/samsung-service-center-erode.html": {
+    "brand": "Samsung",
+    "category": "service-center",
+    "lead": "Need doorstep Samsung service center assistance in Erode? For households across Velli Thiruppur Road, Krishna Theatre Road, and surrounding residential corridors, our trained technicians handle component-level fixes, sensor testing, and scheduled servicing for Samsung products."
+  },
+  "servicecenter/sansui-service-center-erode.html": {
+    "brand": "Sansui",
+    "category": "service-center",
+    "lead": "Facing performance trouble with your Sansui appliances in Erode? Book a nearby service visit near Avalpoondurai or R.K.V. Road for comprehensive diagnosis of cooling faults, drainage errors, display problems, and power supply issues."
+  },
+  "servicecenter/sanyo-service-center-erode.html": {
+    "brand": "Sanyo",
+    "category": "service-center",
+    "lead": "Searching for Sanyo Service Center in Erode? If your Sanyo home appliances—including Television, Kaizen 4K Android TV, Smart LED TV—need repair or maintenance in Chennimalai Town or Marapalam, our local technicians visit your doorstep with genuine replacement spares and clear guidance."
+  },
+  "servicecenter/sharp-service-center-erode.html": {
+    "brand": "Sharp",
+    "category": "service-center",
+    "lead": "Looking for complete Sharp appliance repair service in Erode? Whether you need technical inspection for your Sharp refrigerator, washing machine, AC, or TV near Kodumudi Bypass, our nearby technicians provide honest on-site troubleshooting across Netaji Road."
+  },
+  "servicecenter/siemens-service-center-erode.html": {
+    "brand": "Siemens",
+    "category": "service-center",
+    "lead": "Need doorstep Siemens service center assistance in Erode? For households across Vadivullamangalam, Brough Road East, and surrounding residential corridors, our trained technicians handle component-level fixes, sensor testing, and scheduled servicing for Siemens products."
+  },
+  "servicecenter/sony-service-center-erode.html": {
+    "brand": "Sony",
+    "category": "service-center",
+    "lead": "Facing performance trouble with your Sony appliances in Erode? Book a nearby service visit near Nathakadaiyur Road or PS Park for comprehensive diagnosis of cooling faults, drainage errors, display problems, and power supply issues."
+  },
+  "servicecenter/tcl-service-center-erode.html": {
+    "brand": "TCL",
+    "category": "service-center",
+    "lead": "Searching for TCL Service Center in Erode? If your TCL home appliances—including Air Conditioner, Washing Machine, Television—need repair or maintenance in Karungalpalayam or Erode Fort, our local technicians visit your doorstep with genuine replacement spares and clear guidance."
+  },
+  "servicecenter/thomson-service-center-erode.html": {
+    "brand": "Thomson",
+    "category": "service-center",
+    "lead": "Looking for complete Thomson appliance repair service in Erode? Whether you need technical inspection for your Thomson refrigerator, washing machine, AC, or TV near Pallipalayam, our nearby technicians provide honest on-site troubleshooting across Kottai Perumal Kovil."
+  },
+  "servicecenter/toshiba-service-center-erode.html": {
+    "brand": "Toshiba",
+    "category": "service-center",
+    "lead": "Need doorstep Toshiba service center assistance in Erode? For households across Vairapalayam, Meenatchi Sundaranar Road, and surrounding residential corridors, our trained technicians handle component-level fixes, sensor testing, and scheduled servicing for Toshiba products."
+  },
+  "servicecenter/videocon-service-center-erode.html": {
+    "brand": "Videocon",
+    "category": "service-center",
+    "lead": "Facing performance trouble with your Videocon appliances in Erode? Book a nearby service visit near Manikoondu or EVN Road for comprehensive diagnosis of cooling faults, drainage errors, display problems, and power supply issues."
+  },
+  "servicecenter/voltas-beko-service-center-erode.html": {
+    "brand": "Voltas Beko",
+    "category": "service-center",
+    "lead": "Searching for Voltas Beko Service Center in Erode? If your Voltas Beko home appliances—including Refrigerator, Washing Machine, Washer Dryer—need repair or maintenance in Eswaran Kovil Street or Park Road, our local technicians visit your doorstep with genuine replacement spares and clear guidance."
+  },
+  "servicecenter/voltas-service-center-erode.html": {
+    "brand": "Voltas",
+    "category": "service-center",
+    "lead": "Looking for complete Voltas appliance repair service in Erode? Whether you need technical inspection for your Voltas refrigerator, washing machine, AC, or TV near Kamaraj High Road, our nearby technicians provide honest on-site troubleshooting across SPB Colony."
+  },
+  "servicecenter/vu-service-center-erode.html": {
+    "brand": "Vu",
+    "category": "service-center",
+    "lead": "Need doorstep Vu service center assistance in Erode? For households across Old Bus Stand Area, Kokkarayanpettai, and surrounding residential corridors, our trained technicians handle component-level fixes, sensor testing, and scheduled servicing for Vu products."
+  },
+  "servicecenter/vw-service-center-erode.html": {
+    "brand": "VW",
+    "category": "service-center",
+    "lead": "Facing performance trouble with your VW appliances in Erode? Book a nearby service visit near Gandhiji Road or Solar Pudur for comprehensive diagnosis of cooling faults, drainage errors, display problems, and power supply issues."
+  },
+  "servicecenter/whirlpool-service-center-erode.html": {
+    "brand": "Whirlpool",
+    "category": "service-center",
+    "lead": "Searching for Whirlpool Service Center in Erode? If your Whirlpool home appliances—including Air Conditioner, Refrigerator, Washing Machine—need repair or maintenance in Kalaimagal Kalvi Nilayam Road or Karumandisellipalayam East, our local technicians visit your doorstep with genuine replacement spares and clear guidance."
+  },
+  "servicecenter/white-westinghouse-service-center-erode.html": {
+    "brand": "White Westinghouse",
+    "category": "service-center",
+    "lead": "Looking for complete White Westinghouse appliance repair service in Erode? Whether you need technical inspection for your White Westinghouse refrigerator, washing machine, AC, or TV near Kottai Eswaran Koil, our nearby technicians provide honest on-site troubleshooting across Chidambaram Colony East."
+  },
+  "servicecenter/xiaomi-service-center-erode.html": {
+    "brand": "Xiaomi",
+    "category": "service-center",
+    "lead": "Need doorstep Xiaomi service center assistance in Erode? For households across Cutchery Street, Shanthi Nagar, and surrounding residential corridors, our trained technicians handle component-level fixes, sensor testing, and scheduled servicing for Xiaomi products."
+  },
+  "tv/acer-tv-repair-service-in-erode.html": {
+    "brand": "Acer",
+    "category": "tv",
+    "lead": "Searching for Acer LED TV repair in Erode? If your Acer 4K display is showing colored vertical lines, double images, or failing to turn on past the standby light near Mosikeeranar Street, get skilled doorstep inspection across Nanjappa School Road."
+  },
+  "tv/acerpure-tv-repair-service-in-erode.html": {
+    "brand": "Acerpure",
+    "category": "tv",
+    "lead": "Looking for reliable Acerpure Smart TV repair service in Erode? From HDMI port signal dropouts to power board SMPS circuit repairs in Nachiappa Street and Agilmedu Street, our experienced electronics technicians provide cost-effective board-level fixes."
+  },
+  "tv/aiwa-tv-repair-service-in-erode.html": {
+    "brand": "Aiwa",
+    "category": "tv",
+    "lead": "Is your Aiwa Android or Google TV stuck in an endless boot restart loop in Erode? Homes throughout Kongu Nagar East, VOC Street, and nearby areas can schedule a doorstep technician visit for motherboard firmware programming and power rail checks."
+  },
+  "tv/akai-tv-repair-service-in-erode.html": {
+    "brand": "Akai",
+    "category": "tv",
+    "lead": "Dealing with distorted audio, panel flicker, or wall-mount relocation for your Akai TV in Erode? Book our local technician near Alampalayam or Weavers Colony for professional screen testing, speaker replacement, and neat cabling."
+  },
+  "tv/bpl-tv-repair-service-in-erode.html": {
+    "brand": "BPL",
+    "category": "tv",
+    "lead": "Need a BPL TV service center near me in Erode? When your BPL LED or Smart TV has clear sound but a completely pitch-black screen in Kumarapalayam Road or VOC Market Road, our local television technicians provide on-site diagnosis and backlight array replacement."
+  },
+  "tv/haier-tv-repair-service-in-erode.html": {
+    "brand": "Haier",
+    "category": "tv",
+    "lead": "Searching for Haier LED TV repair in Erode? If your Haier 4K display is showing colored vertical lines, double images, or failing to turn on past the standby light near Lakkapuram East, get skilled doorstep inspection across Ashokapuram East."
+  },
+  "tv/hisense-tv-repair-service-in-erode.html": {
+    "brand": "Hisense",
+    "category": "tv",
+    "lead": "Looking for reliable Hisense Smart TV repair service in Erode? From HDMI port signal dropouts to power board SMPS circuit repairs in Vendipalayam Barrage Road and Thindal Murugan Kovil Area, our experienced electronics technicians provide cost-effective board-level fixes."
+  },
+  "tv/hitachi-tv-repair-service-in-erode.html": {
+    "brand": "Hitachi",
+    "category": "tv",
+    "lead": "Is your Hitachi Android or Google TV stuck in an endless boot restart loop in Erode? Homes throughout Nadarmedu East, Perundurai Road, and nearby areas can schedule a doorstep technician visit for motherboard firmware programming and power rail checks."
+  },
+  "tv/hyundai-tv-repair-service-in-erode.html": {
+    "brand": "Hyundai",
+    "category": "tv",
+    "lead": "Dealing with distorted audio, panel flicker, or wall-mount relocation for your Hyundai TV in Erode? Book our local technician near Anna Statue Junction or Teachers Colony for professional screen testing, speaker replacement, and neat cabling."
+  },
+  "tv/iffalcon-tv-repair-service-in-erode.html": {
+    "brand": "iFFALCON",
+    "category": "tv",
+    "lead": "Need a iFFALCON TV service center near me in Erode? When your iFFALCON LED or Smart TV has clear sound but a completely pitch-black screen in New Cinema Road or Kumalan Kuttai, our local television technicians provide on-site diagnosis and backlight array replacement."
+  },
+  "tv/intex-tv-repair-service-in-erode.html": {
+    "brand": "Intex",
+    "category": "tv",
+    "lead": "Searching for Intex LED TV repair in Erode? If your Intex 4K display is showing colored vertical lines, double images, or failing to turn on past the standby light near Chinnasamy Street, get skilled doorstep inspection across Collectorate Area."
+  },
+  "tv/kodak-tv-repair-service-in-erode.html": {
+    "brand": "Kodak",
+    "category": "tv",
+    "lead": "Looking for reliable Kodak Smart TV repair service in Erode? From HDMI port signal dropouts to power board SMPS circuit repairs in Periyar Street and Nasiyanur Road, our experienced electronics technicians provide cost-effective board-level fixes."
+  },
+  "tv/lloyd-tv-repair-service-in-erode.html": {
+    "brand": "Lloyd",
+    "category": "tv",
+    "lead": "Is your Lloyd Android or Google TV stuck in an endless boot restart loop in Erode? Homes throughout Telephone Nagar, Villarasampatti Four Roads, and nearby areas can schedule a doorstep technician visit for motherboard firmware programming and power rail checks."
+  },
+  "tv/mi-tv-repair-service-in-erode.html": {
+    "brand": "Mi",
+    "category": "tv",
+    "lead": "Dealing with distorted audio, panel flicker, or wall-mount relocation for your Mi TV in Erode? Book our local technician near Cauvery Nagar or Koorapalayam for professional screen testing, speaker replacement, and neat cabling."
+  },
+  "tv/micromax-tv-repair-service-in-erode.html": {
+    "brand": "Micromax",
+    "category": "tv",
+    "lead": "Need a Micromax TV service center near me in Erode? When your Micromax LED or Smart TV has clear sound but a completely pitch-black screen in Thindal or Moolakkarai, our local television technicians provide on-site diagnosis and backlight array replacement."
+  },
+  "tv/oneplus-tv-repair-service-in-erode.html": {
+    "brand": "OnePlus",
+    "category": "tv",
+    "lead": "Searching for OnePlus LED TV repair in Erode? If your OnePlus 4K display is showing colored vertical lines, double images, or failing to turn on past the standby light near Thindal Medu, get skilled doorstep inspection across Sakthi Nagar Thindal."
+  },
+  "tv/onida-tv-repair-service-in-erode.html": {
+    "brand": "Onida",
+    "category": "tv",
+    "lead": "Looking for reliable Onida Smart TV repair service in Erode? From HDMI port signal dropouts to power board SMPS circuit repairs in Sampath Nagar and Rajaswamy Nagar, our experienced electronics technicians provide cost-effective board-level fixes."
+  },
+  "tv/panasonic-tv-repair-service-in-erode.html": {
+    "brand": "Panasonic",
+    "category": "tv",
+    "lead": "Is your Panasonic Android or Google TV stuck in an endless boot restart loop in Erode? Homes throughout New Teachers Colony, Maruthi Nagar, and nearby areas can schedule a doorstep technician visit for motherboard firmware programming and power rail checks."
+  },
+  "tv/philips-tv-repair-service-in-erode.html": {
+    "brand": "Philips",
+    "category": "tv",
+    "lead": "Dealing with distorted audio, panel flicker, or wall-mount relocation for your Philips TV in Erode? Book our local technician near Edayankattuvalasu or Indira Nagar for professional screen testing, speaker replacement, and neat cabling."
+  },
+  "tv/redmi-tv-repair-service-in-erode.html": {
+    "brand": "Redmi",
+    "category": "tv",
+    "lead": "Need a Redmi TV service center near me in Erode? When your Redmi LED or Smart TV has clear sound but a completely pitch-black screen in Nasiyanur or Veppampalayam, our local television technicians provide on-site diagnosis and backlight array replacement."
+  },
+  "tv/samsung-tv-repair-service-in-erode.html": {
+    "brand": "Samsung",
+    "category": "tv",
+    "lead": "Searching for Samsung LED TV repair in Erode? If your Samsung 4K display is showing colored vertical lines, double images, or failing to turn on past the standby light near Villarasampatti, get skilled doorstep inspection across Vettukattuvalasu."
+  },
+  "tv/sansui-tv-repair-service-in-erode.html": {
+    "brand": "Sansui",
+    "category": "tv",
+    "lead": "Looking for reliable Sansui Smart TV repair service in Erode? From HDMI port signal dropouts to power board SMPS circuit repairs in Pavalathampalayam and SBI Colony, our experienced electronics technicians provide cost-effective board-level fixes."
+  },
+  "tv/sanyo-tv-repair-service-in-erode.html": {
+    "brand": "Sanyo",
+    "category": "tv",
+    "lead": "Is your Sanyo Android or Google TV stuck in an endless boot restart loop in Erode? Homes throughout Sengodampalayam, Rayapalayam Pudur, and nearby areas can schedule a doorstep technician visit for motherboard firmware programming and power rail checks."
+  },
+  "tv/sharp-tv-repair-service-in-erode.html": {
+    "brand": "Sharp",
+    "category": "tv",
+    "lead": "Dealing with distorted audio, panel flicker, or wall-mount relocation for your Sharp TV in Erode? Book our local technician near Palayapalayam or Chithode Bypass West for professional screen testing, speaker replacement, and neat cabling."
+  },
+  "tv/sony-tv-repair-service-in-erode.html": {
+    "brand": "Sony",
+    "category": "tv",
+    "lead": "Need a Sony TV service center near me in Erode? When your Sony LED or Smart TV has clear sound but a completely pitch-black screen in Sudha Hospital Road or Perundurai SIPCOT, our local television technicians provide on-site diagnosis and backlight array replacement."
+  },
+  "tv/tcl-tv-repair-service-in-erode.html": {
+    "brand": "TCL",
+    "category": "tv",
+    "lead": "Searching for TCL LED TV repair in Erode? If your TCL 4K display is showing colored vertical lines, double images, or failing to turn on past the standby light near NGO Colony Thindal, get skilled doorstep inspection across Perundurai RS."
+  },
+  "tv/toshiba-tv-repair-service-in-erode.html": {
+    "brand": "Toshiba",
+    "category": "tv",
+    "lead": "Looking for reliable Toshiba Smart TV repair service in Erode? From HDMI port signal dropouts to power board SMPS circuit repairs in Golden City Thindal and Sanitorium Area Perundurai, our experienced electronics technicians provide cost-effective board-level fixes."
+  },
+  "tv/tv-repair-service-in-erode.html": {
+    "brand": "All TV Brands",
+    "category": "tv",
+    "lead": "Is your All TV Brands Android or Google TV stuck in an endless boot restart loop in Erode? Homes throughout Texvalley Surroundings, Sri Nagar Thindal, and nearby areas can schedule a doorstep technician visit for motherboard firmware programming and power rail checks."
+  },
+  "tv/videocon-tv-repair-service-in-erode.html": {
+    "brand": "Videocon",
+    "category": "tv",
+    "lead": "Dealing with distorted audio, panel flicker, or wall-mount relocation for your Videocon TV in Erode? Book our local technician near Kaspapet or VOC Nagar West for professional screen testing, speaker replacement, and neat cabling."
+  },
+  "tv/vu-tv-repair-service-in-erode.html": {
+    "brand": "Vu",
+    "category": "tv",
+    "lead": "Need a Vu TV service center near me in Erode? When your Vu LED or Smart TV has clear sound but a completely pitch-black screen in Bharathi Nagar or Royal City, our local television technicians provide on-site diagnosis and backlight array replacement."
+  },
+  "tv/vw-tv-repair-service-in-erode.html": {
+    "brand": "VW",
+    "category": "tv",
+    "lead": "Searching for VW LED TV repair in Erode? If your VW 4K display is showing colored vertical lines, double images, or failing to turn on past the standby light near LIC Colony Thindal, get skilled doorstep inspection across Annamalai Layout."
+  },
+  "tv/xiaomi-tv-repair-service-in-erode.html": {
+    "brand": "Xiaomi",
+    "category": "tv",
+    "lead": "Looking for reliable Xiaomi Smart TV repair service in Erode? From HDMI port signal dropouts to power board SMPS circuit repairs in Gangapuram West and Periyasemur, our experienced electronics technicians provide cost-effective board-level fixes."
+  },
+  "washing-machine/acer-washing-machine-repair-service-in-erode.html": {
+    "brand": "Acer",
+    "category": "washing-machine",
+    "lead": "Is your Acer fully automatic washing machine stuck mid-cycle in Erode? Residents across Mettukadai, Sathy Road, and neighboring localities can get same-day doorstep diagnosis for motor carbon brushes, drive belts, and control boards."
+  },
+  "washing-machine/bosch-washing-machine-repair-service-in-erode.html": {
+    "brand": "Bosch",
+    "category": "washing-machine",
+    "lead": "Facing water inlet timeout or drum rotation problems with your Bosch washer in Erode? Contact our local service team near Perundurai Old Bus Stand or Bhavani for fast troubleshooting, drum spider check, and transparent component replacement."
+  },
+  "washing-machine/bpl-washing-machine-repair-service-in-erode.html": {
+    "brand": "BPL",
+    "category": "washing-machine",
+    "lead": "Looking for BPL washing machine repair service in Erode? If your BPL front load or top load washer stops draining, refuses to spin, or displays an error code in Chennimalai Road West or Suriyampalayam, our local technicians provide dependable doorstep inspection."
+  },
+  "washing-machine/daewoo-washing-machine-repair-service-in-erode.html": {
+    "brand": "Daewoo",
+    "category": "washing-machine",
+    "lead": "Searching for Daewoo washing machine service near me in Erode? When heavy borewell water scales your inlet valve in Kamban Nagar, or high-speed spin causes violent shaking near Mettur Road North, book an on-site technician visit with honest pricing."
+  },
+  "washing-machine/electrolux-washing-machine-repair-service-in-erode.html": {
+    "brand": "Electrolux",
+    "category": "washing-machine",
+    "lead": "Need dependable Electrolux washing machine technician in Erode? From drain pump coin jams to door lock latch issues around Thiruvalluvar Nagar and Kaniravutharkulam, our service team arrives with multimeters and genuine spares to fix your washer on site."
+  },
+  "washing-machine/godrej-washing-machine-repair-service-in-erode.html": {
+    "brand": "Godrej",
+    "category": "washing-machine",
+    "lead": "Is your Godrej fully automatic washing machine stuck mid-cycle in Erode? Residents across Jaganathan Nagar, Urachikottai, and neighboring localities can get same-day doorstep diagnosis for motor carbon brushes, drive belts, and control boards."
+  },
+  "washing-machine/haier-washing-machine-repair-service-in-erode.html": {
+    "brand": "Haier",
+    "category": "washing-machine",
+    "lead": "Facing water inlet timeout or drum rotation problems with your Haier washer in Erode? Contact our local service team near Thirunagar Colony West or Odathurai for fast troubleshooting, drum spider check, and transparent component replacement."
+  },
+  "washing-machine/havells-washing-machine-repair-service-in-erode.html": {
+    "brand": "Havells",
+    "category": "washing-machine",
+    "lead": "Looking for Havells washing machine repair service in Erode? If your Havells front load or top load washer stops draining, refuses to spin, or displays an error code in Veerappanchatram or Vasavi College Area, our local technicians provide dependable doorstep inspection."
+  },
+  "washing-machine/hitachi-washing-machine-repair-service-in-erode.html": {
+    "brand": "Hitachi",
+    "category": "washing-machine",
+    "lead": "Searching for Hitachi washing machine service near me in Erode? When heavy borewell water scales your inlet valve in B.P. Agraharam, or high-speed spin causes violent shaking near Mettunasuvampalayam, book an on-site technician visit with honest pricing."
+  },
+  "washing-machine/ifb-washing-machine-repair-service-in-erode.html": {
+    "brand": "IFB",
+    "category": "washing-machine",
+    "lead": "Need dependable IFB washing machine technician in Erode? From drain pump coin jams to door lock latch issues around Chithode and Chithode Four Roads, our service team arrives with multimeters and genuine spares to fix your washer on site."
+  },
+  "washing-machine/intex-washing-machine-repair-service-in-erode.html": {
+    "brand": "Intex",
+    "category": "washing-machine",
+    "lead": "Is your Intex fully automatic washing machine stuck mid-cycle in Erode? Residents across Bhavani Kooduthurai, Muniappan Kovil Street, and neighboring localities can get same-day doorstep diagnosis for motor carbon brushes, drive belts, and control boards."
+  },
+  "washing-machine/kelvinator-washing-machine-repair-service-in-erode.html": {
+    "brand": "Kelvinator",
+    "category": "washing-machine",
+    "lead": "Facing water inlet timeout or drum rotation problems with your Kelvinator washer in Erode? Contact our local service team near Lakshmi Nagar Chithode or Housing Unit Veerappanchatram for fast troubleshooting, drum spider check, and transparent component replacement."
+  },
+  "washing-machine/kenstar-washing-machine-repair-service-in-erode.html": {
+    "brand": "Kenstar",
+    "category": "washing-machine",
+    "lead": "Looking for Kenstar washing machine repair service in Erode? If your Kenstar front load or top load washer stops draining, refuses to spin, or displays an error code in R.N. Pudur or Kanirowther Kulam, our local technicians provide dependable doorstep inspection."
+  },
+  "washing-machine/lloyd-washing-machine-repair-service-in-erode.html": {
+    "brand": "Lloyd",
+    "category": "washing-machine",
+    "lead": "Searching for Lloyd washing machine service near me in Erode? When heavy borewell water scales your inlet valve in Kalingarayanpalayam, or high-speed spin causes violent shaking near V.Chatram Main Road, book an on-site technician visit with honest pricing."
+  },
+  "washing-machine/midea-washing-machine-repair-service-in-erode.html": {
+    "brand": "Midea",
+    "category": "washing-machine",
+    "lead": "Need dependable Midea washing machine technician in Erode? From drain pump coin jams to door lock latch issues around Anthiyur Road Junction and Swastik Roundana, our service team arrives with multimeters and genuine spares to fix your washer on site."
+  },
+  "washing-machine/motorola-washing-machine-repair-service-in-erode.html": {
+    "brand": "Motorola",
+    "category": "washing-machine",
+    "lead": "Is your Motorola fully automatic washing machine stuck mid-cycle in Erode? Residents across Periyapuliyur, Gandhiji Road North, and neighboring localities can get same-day doorstep diagnosis for motor carbon brushes, drive belts, and control boards."
+  },
+  "washing-machine/onida-washing-machine-repair-service-in-erode.html": {
+    "brand": "Onida",
+    "category": "washing-machine",
+    "lead": "Facing water inlet timeout or drum rotation problems with your Onida washer in Erode? Contact our local service team near Ellapalayam or Sundaram Street for fast troubleshooting, drum spider check, and transparent component replacement."
+  },
+  "washing-machine/panasonic-washing-machine-repair-service-in-erode.html": {
+    "brand": "Panasonic",
+    "category": "washing-machine",
+    "lead": "Looking for Panasonic washing machine repair service in Erode? If your Panasonic front load or top load washer stops draining, refuses to spin, or displays an error code in Perumalmalai or Anna Nagar Veerappanchatram, our local technicians provide dependable doorstep inspection."
+  },
+  "washing-machine/samsung-washing-machine-repair-service-in-erode.html": {
+    "brand": "Samsung",
+    "category": "washing-machine",
+    "lead": "Searching for Samsung washing machine service near me in Erode? When heavy borewell water scales your inlet valve in Kumilamparappu, or high-speed spin causes violent shaking near Semur Post Office Road, book an on-site technician visit with honest pricing."
+  },
+  "washing-machine/sharp-washing-machine-repair-service-in-erode.html": {
+    "brand": "Sharp",
+    "category": "washing-machine",
+    "lead": "Need dependable Sharp washing machine technician in Erode? From drain pump coin jams to door lock latch issues around Manickampalayam and Elavamalai, our service team arrives with multimeters and genuine spares to fix your washer on site."
+  },
+  "washing-machine/siemens-washing-machine-repair-service-in-erode.html": {
+    "brand": "Siemens",
+    "category": "washing-machine",
+    "lead": "Is your Siemens fully automatic washing machine stuck mid-cycle in Erode? Residents across Nalligoundenpalayam, Bhavanisagar Road Junction, and neighboring localities can get same-day doorstep diagnosis for motor carbon brushes, drive belts, and control boards."
+  },
+  "washing-machine/tcl-washing-machine-repair-service-in-erode.html": {
+    "brand": "TCL",
+    "category": "washing-machine",
+    "lead": "Facing water inlet timeout or drum rotation problems with your TCL washer in Erode? Contact our local service team near Cauvery RS North or Kavindapadi Road Junction for fast troubleshooting, drum spider check, and transparent component replacement."
+  },
+  "washing-machine/thomson-washing-machine-repair-service-in-erode.html": {
+    "brand": "Thomson",
+    "category": "washing-machine",
+    "lead": "Looking for Thomson washing machine repair service in Erode? If your Thomson front load or top load washer stops draining, refuses to spin, or displays an error code in GH Roundana North or Kuruppanaickenpalayam, our local technicians provide dependable doorstep inspection."
+  },
+  "washing-machine/toshiba-washing-machine-repair-service-in-erode.html": {
+    "brand": "Toshiba",
+    "category": "washing-machine",
+    "lead": "Searching for Toshiba washing machine service near me in Erode? When heavy borewell water scales your inlet valve in Railway Colony North, or high-speed spin causes violent shaking near Alukuli Road, book an on-site technician visit with honest pricing."
+  },
+  "washing-machine/videocon-washing-machine-repair-service-in-erode.html": {
+    "brand": "Videocon",
+    "category": "washing-machine",
+    "lead": "Need dependable Videocon washing machine technician in Erode? From drain pump coin jams to door lock latch issues around Chettipalayam North and Surampatti Valasu, our service team arrives with multimeters and genuine spares to fix your washer on site."
+  },
+  "washing-machine/voltas-beko-washing-machine-repair-service-in-erode.html": {
+    "brand": "Voltas Beko",
+    "category": "washing-machine",
+    "lead": "Is your Voltas Beko fully automatic washing machine stuck mid-cycle in Erode? Residents across VOC Nagar Veerappanchatram, Kasipalayam, and neighboring localities can get same-day doorstep diagnosis for motor carbon brushes, drive belts, and control boards."
+  },
+  "washing-machine/voltas-washing-machine-repair-service-in-erode.html": {
+    "brand": "Voltas",
+    "category": "washing-machine",
+    "lead": "Facing water inlet timeout or drum rotation problems with your Voltas washer in Erode? Contact our local service team near Periyar Nagar North or Moolapalayam for fast troubleshooting, drum spider check, and transparent component replacement."
+  },
+  "washing-machine/vw-washing-machine-repair-service-in-erode.html": {
+    "brand": "VW",
+    "category": "washing-machine",
+    "lead": "Looking for VW washing machine repair service in Erode? If your VW front load or top load washer stops draining, refuses to spin, or displays an error code in Kongu Arts College Road or Solar New Bus Stand, our local technicians provide dependable doorstep inspection."
+  },
+  "washing-machine/washing-machine-repair-service-in-erode.html": {
+    "brand": "All Washing Machine Brands",
+    "category": "washing-machine",
+    "lead": "Searching for All Washing Machine Brands washing machine service near me in Erode? When heavy borewell water scales your inlet valve in Konalai Road, or high-speed spin causes violent shaking near Chennimalai Road, book an on-site technician visit with honest pricing."
+  },
+  "washing-machine/whirlpool-washing-machine-repair-service-in-erode.html": {
+    "brand": "Whirlpool",
+    "category": "washing-machine",
+    "lead": "Need dependable Whirlpool washing machine technician in Erode? From drain pump coin jams to door lock latch issues around Salangapalayam and Muthampalayam, our service team arrives with multimeters and genuine spares to fix your washer on site."
+  },
+  "washing-machine/white-westinghouse-washing-machine-repair-service-in-erode.html": {
+    "brand": "White Westinghouse",
+    "category": "washing-machine",
+    "lead": "Is your White Westinghouse fully automatic washing machine stuck mid-cycle in Erode? Residents across Appakudal Road, Lakkapuram, and neighboring localities can get same-day doorstep diagnosis for motor carbon brushes, drive belts, and control boards."
+  }
+}

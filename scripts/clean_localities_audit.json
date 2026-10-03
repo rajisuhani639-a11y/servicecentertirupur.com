@@ -1,0 +1,649 @@
+{
+  "filteredRaw": [
+    {
+      "title": "Karur Town",
+      "keyword": "AC Repair Service in Karur Town",
+      "desc": "Split and window air conditioner service around town center."
+    },
+    {
+      "title": "Kagithapuramam",
+      "keyword": "AC Repair Service in Kagithapuramam, Karur",
+      "desc": "Technician inspection for low cooling and water leakage."
+    },
+    {
+      "title": "Pasupathipalayam",
+      "keyword": "Air Conditioner Service in Pasupathipalayam, Karur",
+      "desc": "Filter cleaning, capacitor check & seasonal maintenance."
+    },
+    {
+      "title": "Thanthonimalai",
+      "keyword": "AC Repair Service in Thanthonimalai, Karur",
+      "desc": "Doorstep AC service near central bazaar market and South highway."
+    },
+    {
+      "title": "Vengamedu",
+      "keyword": "Split AC Repair in Vengamedu, Karur",
+      "desc": "Bypass layouts cooling issue diagnosis and repairs."
+    },
+    {
+      "title": "Inam Karur",
+      "keyword": "AC Service Center in Inam Karur, Karur",
+      "desc": "Compressor testing and electrical wiring inspection."
+    },
+    {
+      "title": "Sanapiratti",
+      "keyword": "Air Conditioner Repair in Sanapiratti, Karur",
+      "desc": "Residential air conditioner troubleshooting and visits."
+    },
+    {
+      "title": "Vennaimalai",
+      "keyword": "AC Repair Service on Vennaimalai, Karur",
+      "desc": "Housing units air conditioner maintenance and repairs."
+    },
+    {
+      "title": "Kovai Road",
+      "keyword": "AC Technician Visit on Kovai Road, Karur",
+      "desc": "Bypass corridor split AC repair and coil cleaning."
+    },
+    {
+      "title": "Velayuthampalayam",
+      "keyword": "AC Repair Service in Velayuthampalayam, Karur",
+      "desc": "Doorstep AC repair across Velayuthampalayam town limits."
+    },
+    {
+      "title": "Pugalur",
+      "keyword": "Air Conditioner Service in Pugalur, Karur",
+      "desc": "Pugalur road residential air conditioner checkup."
+    },
+    {
+      "title": "Aravakurichi",
+      "keyword": "AC Repair Service in Aravakurichi, Karur",
+      "desc": "Aravakurichi town limits cooling unit servicing."
+    },
+    {
+      "title": "Mayanur",
+      "keyword": "AC Repair Service Center in Mayanur, Karur",
+      "desc": "North highway connecting layout air conditioner visits."
+    },
+    {
+      "title": "Puliyur",
+      "keyword": "AC Service in Puliyur, Karur",
+      "desc": "Market area air conditioning check and maintenance."
+    },
+    {
+      "title": "Sengunthapuram",
+      "keyword": "AC Repair Service near Sengunthapuram, Karur",
+      "desc": "Central commercial and residential AC troubleshooting."
+    },
+    {
+      "title": "Chinna Andankovil",
+      "keyword": "Split AC Service in Chinna Andankovil, Karur",
+      "desc": "Doorstep visit for indoor unit dripping and low cooling."
+    },
+    {
+      "title": "Periya Andankovil",
+      "keyword": "AC Repair in Periya Andankovil, Karur",
+      "desc": "Residential air conditioner capacitor and coil inspection."
+    },
+    {
+      "title": "Thorakkalpatti",
+      "keyword": "AC Service Center in Thorakkalpatti, Karur",
+      "desc": "Town center offices and residences AC servicing."
+    },
+    {
+      "title": "Sukkaliyur",
+      "keyword": "Air Conditioner Repair in Sukkaliyur, Karur",
+      "desc": "Family housing split AC maintenance and repairs."
+    },
+    {
+      "title": "Rayanur",
+      "keyword": "AC Repair Service in Rayanur, Karur",
+      "desc": "College road staff quarters and private residences."
+    },
+    {
+      "title": "Sellandipalayam",
+      "keyword": "AC Repair in Sellandipalayam, Karur",
+      "desc": "Panchayat area split AC troubleshooting."
+    },
+    {
+      "title": "Uppidamangalam",
+      "keyword": "Air Conditioner Service in Uppidamangalam, Karur",
+      "desc": "Connecting link road homes AC diagnosis."
+    },
+    {
+      "title": "Manmangalam",
+      "keyword": "AC Repair in Manmangalam, Karur",
+      "desc": "Traditional town perimeter homes air conditioner care."
+    },
+    {
+      "title": "Vaiyapuri Nagar",
+      "keyword": "AC Service Center in Vaiyapuri Nagar, Karur",
+      "desc": "Weavers town residential AC cooling checks."
+    },
+    {
+      "title": "Vangal",
+      "keyword": "Air Conditioner Repair in Vangal, Karur",
+      "desc": "Temple town residences seasonal AC servicing."
+    },
+    {
+      "title": "Amaravathi basin Road",
+      "keyword": "AC Repair on Amaravathi basin Road, Karur",
+      "desc": "Foothill residences air conditioner diagnosis."
+    },
+    {
+      "title": "Light House Corner",
+      "keyword": "AC Repair Service on Light House Corner, Karur",
+      "desc": "Commercial shops and nearby apartments AC check."
+    },
+    {
+      "title": "Bus Stand Area",
+      "keyword": "AC Service near Bus Stand, Karur",
+      "desc": "Central area rapid technician coordination."
+    },
+    {
+      "title": "Trichy Road",
+      "keyword": "Split AC Repair on Trichy Road, Karur",
+      "desc": "Showroom and residential layout AC service."
+    },
+    {
+      "title": "South Ring Road",
+      "keyword": "AC Technician Visit on South Ring Road, Karur",
+      "desc": "Southern corridor air conditioning visits."
+    },
+    {
+      "title": "Collectorate Road",
+      "keyword": "AC Repair on Collectorate Road, Karur",
+      "desc": "Industrial fringe and housing area AC care."
+    },
+    {
+      "title": "Collectorate & Arts College Road",
+      "keyword": "AC Service Center near Collectorate, Karur",
+      "desc": "Staff quarters and administrative avenue residences."
+    },
+    {
+      "title": "Min Nagar",
+      "keyword": "Air Conditioner Repair in Min Nagar, Karur",
+      "desc": "School zone family residential AC maintenance."
+    },
+    {
+      "title": "Aachi Nagar",
+      "keyword": "AC Repair in Aachi Nagar, Karur",
+      "desc": "Residential streets split AC capacitor replacement."
+    },
+    {
+      "title": "Periyar Nagar",
+      "keyword": "AC Service in Periyar Nagar, Karur",
+      "desc": "Modern housing units air conditioner checking."
+    },
+    {
+      "title": "Kamarajapuram",
+      "keyword": "Split AC Service in Kamarajapuram, Karur",
+      "desc": "Peaceful residential colony AC repairs."
+    },
+    {
+      "title": "Anna Nagar South",
+      "keyword": "AC Repair Service in Anna Nagar South, Karur",
+      "desc": "Central community housing air conditioner inspection."
+    },
+    {
+      "title": "Azad Road",
+      "keyword": "Air Conditioner Service in Azad Road, Karur",
+      "desc": "Town residential avenues AC servicing."
+    },
+    {
+      "title": "Kagithapuram",
+      "keyword": "AC Repair in Kagithapuram, Karur",
+      "desc": "University campus vicinity split AC care."
+    },
+    {
+      "title": "Thavittupalayam",
+      "keyword": "AC Service in Thavittupalayam, Karur",
+      "desc": "Railway station road air conditioner visits."
+    },
+    {
+      "title": "Thiru Manilayur",
+      "keyword": "AC Repair in Thiru Manilayur, Karur",
+      "desc": "Town center cooling system troubleshooting."
+    },
+    {
+      "title": "Andankovil West",
+      "keyword": "Air Conditioner Repair in Andankovil West, Karur",
+      "desc": "Foothill market area AC maintenance."
+    },
+    {
+      "title": "Chettipalayam",
+      "keyword": "AC Repair Service in Chettipalayam, Karur",
+      "desc": "Block junction residences air conditioner checkup."
+    },
+    {
+      "title": "Somur",
+      "keyword": "AC Service Center in Somur, Karur",
+      "desc": "Northern highway transit village AC support."
+    },
+    {
+      "title": "Koyampalli",
+      "keyword": "AC Repair in Koyampalli, Karur",
+      "desc": "Highway border homes air conditioner repairs."
+    },
+    {
+      "title": "Punjai Thottakurichi",
+      "keyword": "Air Conditioner Service in Punjai Thottakurichi, Karur",
+      "desc": "North district border taluk AC visits."
+    },
+    {
+      "title": "Nanparappu",
+      "keyword": "AC Repair in Nanparappu, Karur",
+      "desc": "Town bypass residential colony AC care."
+    },
+    {
+      "title": "Kombupalayam",
+      "keyword": "Split AC Service in Kombupalayam, Karur",
+      "desc": "Suburban layout air conditioner troubleshooting."
+    },
+    {
+      "title": "Pavithram",
+      "keyword": "AC Service in Pavithram, Karur",
+      "desc": "Old town streets air conditioner check."
+    },
+    {
+      "title": "LGB Nagar",
+      "keyword": "AC Repair in LGB Nagar, Karur",
+      "desc": "Colony residences cooling issue diagnosis."
+    },
+    {
+      "title": "Sanjeevi Nagar",
+      "keyword": "Air Conditioner Repair in Sanjeevi Nagar, Karur",
+      "desc": "Palani road bypass connecting neighborhood AC care."
+    },
+    {
+      "title": "Ramakrishnapuram",
+      "keyword": "AC Service Center in Ramakrishnapuram, Karur",
+      "desc": "Pond road residential sector AC inspection."
+    },
+    {
+      "title": "Edayathumangalam",
+      "keyword": "AC Repair in Edayathumangalam, Karur",
+      "desc": "East Karur rural hub air conditioning visits."
+    },
+    {
+      "title": "Emur",
+      "keyword": "Air Conditioner Service in Emur, Karur",
+      "desc": "Block center coverage for AC servicing."
+    },
+    {
+      "title": "Kothur",
+      "keyword": "AC Repair in Kothur, Karur",
+      "desc": "Highway village perimeter residences AC checks."
+    },
+    {
+      "title": "Jawahar Nagar",
+      "keyword": "AC Service in Jawahar Nagar, Karur",
+      "desc": "Vangal road link village AC maintenance."
+    },
+    {
+      "title": "Chinnandankovil East",
+      "keyword": "Split AC Repair in Chinnandankovil East, Karur",
+      "desc": "Reservoir approach homes air conditioner check."
+    },
+    {
+      "title": "Pugalur Road",
+      "keyword": "AC Repair in Pugalur Road, Karur",
+      "desc": "Peaceful housing enclave AC inspection."
+    },
+    {
+      "title": "Thanthoni",
+      "keyword": "AC Service Center in Thanthoni, Karur",
+      "desc": "Amaravathi basin foothill village AC diagnosis."
+    }
+  ],
+  "cleanWmLocs": [
+    {
+      "name": "Karur Town",
+      "landmark": "Bus Stand and Sengunthapuram surroundings",
+      "pincode": "639001",
+      "zone": "Central Karur"
+    },
+    {
+      "name": "Kagithapuramam",
+      "landmark": "Railway Feeder Road & Station area",
+      "pincode": "639004",
+      "zone": "Central Karur"
+    },
+    {
+      "name": "Bus Stand Area",
+      "landmark": "Central bus terminus & market streets",
+      "pincode": "639001",
+      "zone": "Central Karur"
+    },
+    {
+      "name": "Sengunthapuram",
+      "landmark": "Sengunthapuram circle & connecting avenues",
+      "pincode": "639006",
+      "zone": "Central Karur"
+    },
+    {
+      "name": "Light House Corner",
+      "landmark": "Aarthi Theatre lane & residential flats",
+      "pincode": "639001",
+      "zone": "Central Karur"
+    },
+    {
+      "name": "Sukkaliyur",
+      "landmark": "Central residential lanes and housing",
+      "pincode": "639001",
+      "zone": "Central Karur"
+    },
+    {
+      "name": "Thorakkalpatti",
+      "landmark": "Spencer compound & Kovai Road link",
+      "pincode": "639004",
+      "zone": "Central Karur"
+    },
+    {
+      "name": "Periya Andankovil",
+      "landmark": "Quiet residential streets near town center",
+      "pincode": "639004",
+      "zone": "Central Karur"
+    },
+    {
+      "name": "Ramakrishnapuram",
+      "landmark": "Ramakrishnapuram residential area & water tank road",
+      "pincode": "639001",
+      "zone": "Central Karur"
+    },
+    {
+      "name": "Sanjeevi Nagar",
+      "landmark": "Sanjeevi Nagar housing lanes & market road",
+      "pincode": "639001",
+      "zone": "Central Karur"
+    },
+    {
+      "name": "Anna Nagar South",
+      "landmark": "Anna Nagar South cross streets & family houses",
+      "pincode": "639006",
+      "zone": "Central Karur"
+    },
+    {
+      "name": "Azad Road",
+      "landmark": "Azad Road layout & residential avenues",
+      "pincode": "639002",
+      "zone": "Central Karur"
+    },
+    {
+      "name": "Mayanur",
+      "landmark": "Mayanur town center & market roads",
+      "pincode": "639136",
+      "zone": "North Karur"
+    },
+    {
+      "name": "Vangal",
+      "landmark": "Vangal temple town & residential layouts",
+      "pincode": "639006",
+      "zone": "North Karur"
+    },
+    {
+      "name": "Somur",
+      "landmark": "Somur town limits & connecting roads",
+      "pincode": "639003",
+      "zone": "North Karur"
+    },
+    {
+      "name": "Punjai Thottakurichi",
+      "landmark": "Punjai Thottakurichi road & local residences",
+      "pincode": "639113",
+      "zone": "North Karur"
+    },
+    {
+      "name": "Koyampalli",
+      "landmark": "Koyampalli railway gate area & nearby homes",
+      "pincode": "639114",
+      "zone": "North Karur"
+    },
+    {
+      "name": "Uppidamangalam",
+      "landmark": "Uppidamangalam link road residences",
+      "pincode": "639006",
+      "zone": "North Karur"
+    },
+    {
+      "name": "Manmangalam",
+      "landmark": "Manmangalam perimeter layouts & homes",
+      "pincode": "639002",
+      "zone": "North Karur"
+    },
+    {
+      "name": "Thanthoni",
+      "landmark": "Thanthoni residential belt & layouts",
+      "pincode": "639006",
+      "zone": "North Karur"
+    },
+    {
+      "name": "LGB Nagar",
+      "landmark": "LGB Nagar layout near North bypass",
+      "pincode": "639006",
+      "zone": "North Karur"
+    },
+    {
+      "name": "Kombupalayam",
+      "landmark": "Kombupalayam residential developments",
+      "pincode": "639006",
+      "zone": "North Karur"
+    },
+    {
+      "name": "Thanthonimalai",
+      "landmark": "central bazaar market Area & South Highway junction",
+      "pincode": "639002",
+      "zone": "South Karur"
+    },
+    {
+      "name": "Vaiyapuri Nagar",
+      "landmark": "Vaiyapuri Nagar town & textile cluster homes",
+      "pincode": "639002",
+      "zone": "South Karur"
+    },
+    {
+      "name": "Kagithapuram",
+      "landmark": "Kagithapuram University area & staff quarters",
+      "pincode": "639005",
+      "zone": "South Karur"
+    },
+    {
+      "name": "Thavittupalayam",
+      "landmark": "Thavittupalayam railway station & rural homes",
+      "pincode": "639005",
+      "zone": "South Karur"
+    },
+    {
+      "name": "Puliyur",
+      "landmark": "Puliyur market road & town limits",
+      "pincode": "624208",
+      "zone": "South Karur"
+    },
+    {
+      "name": "Velayuthampalayam",
+      "landmark": "Velayuthampalayam bus stand & surrounding colonies",
+      "pincode": "624202",
+      "zone": "South Karur"
+    },
+    {
+      "name": "Sanapiratti",
+      "landmark": "Sanapiratti residential layouts & village road",
+      "pincode": "639004",
+      "zone": "South Karur"
+    },
+    {
+      "name": "Amaravathi basin Road",
+      "landmark": "Amaravathi river basin residential stretch",
+      "pincode": "639004",
+      "zone": "South Karur"
+    },
+    {
+      "name": "South Ring Road",
+      "landmark": "South Bypass corridor & new layouts",
+      "pincode": "639002",
+      "zone": "South Karur"
+    },
+    {
+      "name": "Chinnandankovil East",
+      "landmark": "Chinnandankovil East dam road & residential area",
+      "pincode": "639002",
+      "zone": "South Karur"
+    },
+    {
+      "name": "Thiru Manilayur",
+      "landmark": "Thiru Manilayur town area & farms",
+      "pincode": "639003",
+      "zone": "South Karur"
+    },
+    {
+      "name": "Pavithram",
+      "landmark": "Pavithram colony & individual homes",
+      "pincode": "639004",
+      "zone": "South Karur"
+    },
+    {
+      "name": "Vennaimalai",
+      "landmark": "Housing Board units & colony lanes",
+      "pincode": "639006",
+      "zone": "East Karur"
+    },
+    {
+      "name": "Trichy Road",
+      "landmark": "Trichy Highway corridor & residential zones",
+      "pincode": "639006",
+      "zone": "East Karur"
+    },
+    {
+      "name": "Vengamedu",
+      "landmark": "Vengamedu bypass & growing housing colonies",
+      "pincode": "639006",
+      "zone": "East Karur"
+    },
+    {
+      "name": "Inam Karur",
+      "landmark": "Bypass junction & railway gate colony",
+      "pincode": "639006",
+      "zone": "East Karur"
+    },
+    {
+      "name": "Pugalur",
+      "landmark": "Pugalur main road coverage & town limits",
+      "pincode": "639003",
+      "zone": "East Karur"
+    },
+    {
+      "name": "Emur",
+      "landmark": "Emur bus stop circle & nearby hamlets",
+      "pincode": "639114",
+      "zone": "East Karur"
+    },
+    {
+      "name": "Edayathumangalam",
+      "landmark": "Edayathumangalam market area & local homes",
+      "pincode": "639114",
+      "zone": "East Karur"
+    },
+    {
+      "name": "Kothur",
+      "landmark": "Kothur road & residential avenues",
+      "pincode": "639006",
+      "zone": "East Karur"
+    },
+    {
+      "name": "Nanparappu",
+      "landmark": "Nanparappu housing colony & cross streets",
+      "pincode": "639006",
+      "zone": "East Karur"
+    },
+    {
+      "name": "Pugalur Road",
+      "landmark": "Pugalur Road residential layout",
+      "pincode": "639006",
+      "zone": "East Karur"
+    },
+    {
+      "name": "Rayanur",
+      "landmark": "Government Arts College campus area & private homes",
+      "pincode": "639006",
+      "zone": "East Karur"
+    },
+    {
+      "name": "Sellandipalayam",
+      "landmark": "Sellandipalayam panchayat area",
+      "pincode": "639006",
+      "zone": "East Karur"
+    },
+    {
+      "name": "Kovai Road",
+      "landmark": "Palani Highway corridor & residential layouts",
+      "pincode": "639002",
+      "zone": "West Karur"
+    },
+    {
+      "name": "Chinna Andankovil",
+      "landmark": "Collectorate office surroundings & bypass",
+      "pincode": "639002",
+      "zone": "West Karur"
+    },
+    {
+      "name": "Collectorate & Arts College Road",
+      "landmark": "Government quarters & collectorate zone",
+      "pincode": "639002",
+      "zone": "West Karur"
+    },
+    {
+      "name": "Pasupathipalayam",
+      "landmark": "1st to 12th cross streets & collectorate road",
+      "pincode": "639001",
+      "zone": "West Karur"
+    },
+    {
+      "name": "Aravakurichi",
+      "landmark": "Aravakurichi town limits & vegetable market area",
+      "pincode": "639201",
+      "zone": "West Karur"
+    },
+    {
+      "name": "Chettipalayam",
+      "landmark": "Chettipalayam block & local colonies",
+      "pincode": "639005",
+      "zone": "West Karur"
+    },
+    {
+      "name": "Andankovil West",
+      "landmark": "Andankovil West town panchayat & foothills homes",
+      "pincode": "639008",
+      "zone": "West Karur"
+    },
+    {
+      "name": "Jawahar Nagar",
+      "landmark": "Jawahar Nagar town area & traditional housing",
+      "pincode": "639004",
+      "zone": "West Karur"
+    },
+    {
+      "name": "Min Nagar",
+      "landmark": "Min Nagar residential colony",
+      "pincode": "639002",
+      "zone": "West Karur"
+    },
+    {
+      "name": "Aachi Nagar",
+      "landmark": "Aachi Nagar residential avenues",
+      "pincode": "639002",
+      "zone": "West Karur"
+    },
+    {
+      "name": "Periyar Nagar",
+      "landmark": "Periyar Nagar layout & cross lanes",
+      "pincode": "639002",
+      "zone": "West Karur"
+    },
+    {
+      "name": "Kamarajapuram",
+      "landmark": "Kamarajapuram housing area near town limits",
+      "pincode": "639001",
+      "zone": "West Karur"
+    }
+  ]
+}

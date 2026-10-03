@@ -1,0 +1,224 @@
+{
+  "acer": {
+    "ac": "acer-ac-repair-service-in-karur.html",
+    "fridge": "acer-refrigerator-repair-service-in-karur.html",
+    "wm": "acer-washing-machine-repair-service-in-karur.html",
+    "tv": "acer-tv-repair-service-in-karur.html"
+  },
+  "acerpure": {
+    "ac": "acerpure-ac-repair-service-in-karur.html",
+    "tv": "acerpure-tv-repair-service-in-karur.html"
+  },
+  "bajaj": {
+    "ac": "bajaj-ac-repair-service-in-karur.html"
+  },
+  "blue-star": {
+    "ac": "blue-star-ac-repair-service-in-karur.html",
+    "fridge": "blue-star-refrigerator-repair-service-in-karur.html"
+  },
+  "bpl": {
+    "ac": "bpl-ac-repair-service-in-karur.html",
+    "fridge": "bpl-refrigerator-repair-service-in-karur.html",
+    "wm": "bpl-washing-machine-repair-service-in-karur.html",
+    "tv": "bpl-tv-repair-service-in-karur.html"
+  },
+  "carrier": {
+    "ac": "carrier-ac-repair-service-in-karur.html"
+  },
+  "daikin": {
+    "ac": "daikin-ac-repair-service-in-karur.html"
+  },
+  "electrolux": {
+    "ac": "electrolux-ac-repair-service-in-karur.html",
+    "fridge": "electrolux-refrigerator-repair-service-in-karur.html",
+    "wm": "electrolux-washing-machine-repair-service-in-karur.html"
+  },
+  "godrej": {
+    "ac": "godrej-ac-repair-service-in-karur.html",
+    "fridge": "godrej-refrigerator-repair-service-in-karur.html",
+    "wm": "godrej-washing-machine-repair-service-in-karur.html"
+  },
+  "haier": {
+    "ac": "haier-ac-repair-service-in-karur.html",
+    "fridge": "haier-refrigerator-repair-service-in-karur.html",
+    "wm": "haier-washing-machine-repair-service-in-karur.html",
+    "tv": "haier-tv-repair-service-in-karur.html"
+  },
+  "havells": {
+    "ac": "havells-ac-repair-service-in-karur.html",
+    "wm": "havells-washing-machine-repair-service-in-karur.html"
+  },
+  "hisense": {
+    "ac": "hisense-ac-repair-service-in-karur.html",
+    "fridge": "hisense-refrigerator-repair-service-in-karur.html",
+    "tv": "hisense-tv-repair-service-in-karur.html"
+  },
+  "hitachi": {
+    "ac": "hitachi-ac-repair-service-in-karur.html",
+    "fridge": "hitachi-refrigerator-repair-service-in-karur.html",
+    "wm": "hitachi-washing-machine-repair-service-in-karur.html",
+    "tv": "hitachi-tv-repair-service-in-karur.html"
+  },
+  "ifb": {
+    "ac": "ifb-ac-repair-service-in-karur.html",
+    "fridge": "ifb-refrigerator-repair-service-in-karur.html",
+    "wm": "ifb-washing-machine-repair-service-in-karur.html"
+  },
+  "kelvinator": {
+    "ac": "kelvinator-ac-repair-service-in-karur.html",
+    "fridge": "kelvinator-refrigerator-repair-service-in-karur.html",
+    "wm": "kelvinator-washing-machine-repair-service-in-karur.html"
+  },
+  "kenstar": {
+    "ac": "kenstar-ac-repair-service-in-karur.html",
+    "wm": "kenstar-washing-machine-repair-service-in-karur.html"
+  },
+  "lloyd": {
+    "ac": "lloyd-ac-repair-service-in-karur.html",
+    "fridge": "lloyd-refrigerator-repair-service-in-karur.html",
+    "wm": "lloyd-washing-machine-repair-service-in-karur.html",
+    "tv": "lloyd-tv-repair-service-in-karur.html"
+  },
+  "midea": {
+    "ac": "midea-ac-repair-service-in-karur.html",
+    "fridge": "midea-refrigerator-repair-service-in-karur.html",
+    "wm": "midea-washing-machine-repair-service-in-karur.html"
+  },
+  "mitsubishi": {
+    "ac": "mitsubishi-ac-repair-service-in-karur.html"
+  },
+  "motorola": {
+    "ac": "motorola-ac-repair-service-in-karur.html",
+    "fridge": "motorola-refrigerator-repair-service-in-karur.html",
+    "wm": "motorola-washing-machine-repair-service-in-karur.html"
+  },
+  "o-general": {
+    "ac": "o-general-ac-repair-service-in-karur.html"
+  },
+  "onida": {
+    "ac": "onida-ac-repair-service-in-karur.html",
+    "fridge": "onida-refrigerator-repair-service-in-karur.html",
+    "wm": "onida-washing-machine-repair-service-in-karur.html",
+    "tv": "onida-tv-repair-service-in-karur.html"
+  },
+  "panasonic": {
+    "ac": "panasonic-ac-repair-service-in-karur.html",
+    "fridge": "panasonic-refrigerator-repair-service-in-karur.html",
+    "wm": "panasonic-washing-machine-repair-service-in-karur.html",
+    "tv": "panasonic-tv-repair-service-in-karur.html"
+  },
+  "samsung": {
+    "ac": "samsung-ac-repair-service-in-karur.html",
+    "fridge": "samsung-refrigerator-repair-service-in-karur.html",
+    "wm": "samsung-washing-machine-repair-service-in-karur.html",
+    "tv": "samsung-tv-repair-service-in-karur.html"
+  },
+  "sansui": {
+    "ac": "sansui-ac-repair-service-in-karur.html",
+    "tv": "sansui-tv-repair-service-in-karur.html"
+  },
+  "sharp": {
+    "ac": "sharp-ac-repair-service-in-karur.html",
+    "fridge": "sharp-refrigerator-repair-service-in-karur.html",
+    "wm": "sharp-washing-machine-repair-service-in-karur.html",
+    "tv": "sharp-tv-repair-service-in-karur.html"
+  },
+  "tcl": {
+    "ac": "tcl-ac-repair-service-in-karur.html",
+    "wm": "tcl-washing-machine-repair-service-in-karur.html",
+    "tv": "tcl-tv-repair-service-in-karur.html"
+  },
+  "voltas": {
+    "ac": "voltas-ac-repair-service-in-karur.html",
+    "wm": "voltas-washing-machine-repair-service-in-karur.html"
+  },
+  "whirlpool": {
+    "ac": "whirlpool-ac-repair-service-in-karur.html",
+    "fridge": "whirlpool-refrigerator-repair-service-in-karur.html",
+    "wm": "whirlpool-washing-machine-repair-service-in-karur.html"
+  },
+  "bosch": {
+    "fridge": "bosch-refrigerator-repair-service-in-karur.html",
+    "wm": "bosch-washing-machine-repair-service-in-karur.html"
+  },
+  "liebherr": {
+    "fridge": "liebherr-refrigerator-repair-service-in-karur.html"
+  },
+  "siemens": {
+    "fridge": "siemens-refrigerator-repair-service-in-karur.html",
+    "wm": "siemens-washing-machine-repair-service-in-karur.html"
+  },
+  "toshiba": {
+    "fridge": "toshiba-refrigerator-repair-service-in-karur.html",
+    "wm": "toshiba-washing-machine-repair-service-in-karur.html",
+    "tv": "toshiba-tv-repair-service-in-karur.html"
+  },
+  "videocon": {
+    "fridge": "videocon-refrigerator-repair-service-in-karur.html",
+    "wm": "videocon-washing-machine-repair-service-in-karur.html",
+    "tv": "videocon-tv-repair-service-in-karur.html"
+  },
+  "voltas-beko": {
+    "fridge": "voltas-beko-refrigerator-repair-service-in-karur.html",
+    "wm": "voltas-beko-washing-machine-repair-service-in-karur.html"
+  },
+  "daewoo": {
+    "wm": "daewoo-washing-machine-repair-service-in-karur.html"
+  },
+  "intex": {
+    "wm": "intex-washing-machine-repair-service-in-karur.html",
+    "tv": "intex-tv-repair-service-in-karur.html"
+  },
+  "thomson": {
+    "wm": "thomson-washing-machine-repair-service-in-karur.html"
+  },
+  "vw": {
+    "wm": "vw-washing-machine-repair-service-in-karur.html",
+    "tv": "vw-tv-repair-service-in-karur.html"
+  },
+  "white-westinghouse": {
+    "wm": "white-westinghouse-washing-machine-repair-service-in-karur.html"
+  },
+  "aiwa": {
+    "tv": "aiwa-tv-repair-service-in-karur.html"
+  },
+  "akai": {
+    "tv": "akai-tv-repair-service-in-karur.html"
+  },
+  "hyundai": {
+    "tv": "hyundai-tv-repair-service-in-karur.html"
+  },
+  "iffalcon": {
+    "tv": "iffalcon-tv-repair-service-in-karur.html"
+  },
+  "kodak": {
+    "tv": "kodak-tv-repair-service-in-karur.html"
+  },
+  "mi": {
+    "tv": "mi-tv-repair-service-in-karur.html"
+  },
+  "micromax": {
+    "tv": "micromax-tv-repair-service-in-karur.html"
+  },
+  "oneplus": {
+    "tv": "oneplus-tv-repair-service-in-karur.html"
+  },
+  "philips": {
+    "tv": "philips-tv-repair-service-in-karur.html"
+  },
+  "redmi": {
+    "tv": "redmi-tv-repair-service-in-karur.html"
+  },
+  "sanyo": {
+    "tv": "sanyo-tv-repair-service-in-karur.html"
+  },
+  "sony": {
+    "tv": "sony-tv-repair-service-in-karur.html"
+  },
+  "vu": {
+    "tv": "vu-tv-repair-service-in-karur.html"
+  },
+  "xiaomi": {
+    "tv": "xiaomi-tv-repair-service-in-karur.html"
+  }
+}

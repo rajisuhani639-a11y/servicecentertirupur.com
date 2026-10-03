@@ -1,0 +1,884 @@
+{
+  "ac": [
+    {
+      "file": "ac/ac-repair-service-in-kanyakumari.html",
+      "slug": "ac-repair-service-in-kanyakumari.html",
+      "brand": "All AC Brands"
+    },
+    {
+      "file": "ac/acer-ac-repair-service-in-kanyakumari.html",
+      "slug": "acer-ac-repair-service-in-kanyakumari.html",
+      "brand": "Acer"
+    },
+    {
+      "file": "ac/acerpure-ac-repair-service-in-kanyakumari.html",
+      "slug": "acerpure-ac-repair-service-in-kanyakumari.html",
+      "brand": "Acerpure"
+    },
+    {
+      "file": "ac/bajaj-ac-repair-service-in-kanyakumari.html",
+      "slug": "bajaj-ac-repair-service-in-kanyakumari.html",
+      "brand": "Bajaj"
+    },
+    {
+      "file": "ac/blue-star-ac-repair-service-in-kanyakumari.html",
+      "slug": "blue-star-ac-repair-service-in-kanyakumari.html",
+      "brand": "Blue Star"
+    },
+    {
+      "file": "ac/bpl-ac-repair-service-in-kanyakumari.html",
+      "slug": "bpl-ac-repair-service-in-kanyakumari.html",
+      "brand": "BPL"
+    },
+    {
+      "file": "ac/carrier-ac-repair-service-in-kanyakumari.html",
+      "slug": "carrier-ac-repair-service-in-kanyakumari.html",
+      "brand": "Carrier"
+    },
+    {
+      "file": "ac/daikin-ac-repair-service-in-kanyakumari.html",
+      "slug": "daikin-ac-repair-service-in-kanyakumari.html",
+      "brand": "Daikin"
+    },
+    {
+      "file": "ac/electrolux-ac-repair-service-in-kanyakumari.html",
+      "slug": "electrolux-ac-repair-service-in-kanyakumari.html",
+      "brand": "Electrolux"
+    },
+    {
+      "file": "ac/godrej-ac-repair-service-in-kanyakumari.html",
+      "slug": "godrej-ac-repair-service-in-kanyakumari.html",
+      "brand": "Godrej"
+    },
+    {
+      "file": "ac/haier-ac-repair-service-in-kanyakumari.html",
+      "slug": "haier-ac-repair-service-in-kanyakumari.html",
+      "brand": "Haier"
+    },
+    {
+      "file": "ac/havells-ac-repair-service-in-kanyakumari.html",
+      "slug": "havells-ac-repair-service-in-kanyakumari.html",
+      "brand": "Havells"
+    },
+    {
+      "file": "ac/hisense-ac-repair-service-in-kanyakumari.html",
+      "slug": "hisense-ac-repair-service-in-kanyakumari.html",
+      "brand": "Hisense"
+    },
+    {
+      "file": "ac/hitachi-ac-repair-service-in-kanyakumari.html",
+      "slug": "hitachi-ac-repair-service-in-kanyakumari.html",
+      "brand": "Hitachi"
+    },
+    {
+      "file": "ac/ifb-ac-repair-service-in-kanyakumari.html",
+      "slug": "ifb-ac-repair-service-in-kanyakumari.html",
+      "brand": "IFB"
+    },
+    {
+      "file": "ac/kelvinator-ac-repair-service-in-kanyakumari.html",
+      "slug": "kelvinator-ac-repair-service-in-kanyakumari.html",
+      "brand": "Kelvinator"
+    },
+    {
+      "file": "ac/kenstar-ac-repair-service-in-kanyakumari.html",
+      "slug": "kenstar-ac-repair-service-in-kanyakumari.html",
+      "brand": "Kenstar"
+    },
+    {
+      "file": "ac/lloyd-ac-repair-service-in-kanyakumari.html",
+      "slug": "lloyd-ac-repair-service-in-kanyakumari.html",
+      "brand": "Lloyd"
+    },
+    {
+      "file": "ac/midea-ac-repair-service-in-kanyakumari.html",
+      "slug": "midea-ac-repair-service-in-kanyakumari.html",
+      "brand": "Midea"
+    },
+    {
+      "file": "ac/mitsubishi-ac-repair-service-in-kanyakumari.html",
+      "slug": "mitsubishi-ac-repair-service-in-kanyakumari.html",
+      "brand": "Mitsubishi"
+    },
+    {
+      "file": "ac/motorola-ac-repair-service-in-kanyakumari.html",
+      "slug": "motorola-ac-repair-service-in-kanyakumari.html",
+      "brand": "Motorola"
+    },
+    {
+      "file": "ac/o-general-ac-repair-service-in-kanyakumari.html",
+      "slug": "o-general-ac-repair-service-in-kanyakumari.html",
+      "brand": "O'General"
+    },
+    {
+      "file": "ac/onida-ac-repair-service-in-kanyakumari.html",
+      "slug": "onida-ac-repair-service-in-kanyakumari.html",
+      "brand": "Onida"
+    },
+    {
+      "file": "ac/panasonic-ac-repair-service-in-kanyakumari.html",
+      "slug": "panasonic-ac-repair-service-in-kanyakumari.html",
+      "brand": "Panasonic"
+    },
+    {
+      "file": "ac/samsung-ac-repair-service-in-kanyakumari.html",
+      "slug": "samsung-ac-repair-service-in-kanyakumari.html",
+      "brand": "Samsung"
+    },
+    {
+      "file": "ac/sansui-ac-repair-service-in-kanyakumari.html",
+      "slug": "sansui-ac-repair-service-in-kanyakumari.html",
+      "brand": "Sansui"
+    },
+    {
+      "file": "ac/sharp-ac-repair-service-in-kanyakumari.html",
+      "slug": "sharp-ac-repair-service-in-kanyakumari.html",
+      "brand": "Sharp"
+    },
+    {
+      "file": "ac/tcl-ac-repair-service-in-kanyakumari.html",
+      "slug": "tcl-ac-repair-service-in-kanyakumari.html",
+      "brand": "TCL"
+    },
+    {
+      "file": "ac/voltas-ac-repair-service-in-kanyakumari.html",
+      "slug": "voltas-ac-repair-service-in-kanyakumari.html",
+      "brand": "Voltas"
+    },
+    {
+      "file": "ac/whirlpool-ac-repair-service-in-kanyakumari.html",
+      "slug": "whirlpool-ac-repair-service-in-kanyakumari.html",
+      "brand": "Whirlpool"
+    }
+  ],
+  "fridge": [
+    {
+      "file": "fridge/acer-refrigerator-repair-service-in-kanyakumari.html",
+      "slug": "acer-refrigerator-repair-service-in-kanyakumari.html",
+      "brand": "Acer"
+    },
+    {
+      "file": "fridge/blue-star-refrigerator-repair-service-in-kanyakumari.html",
+      "slug": "blue-star-refrigerator-repair-service-in-kanyakumari.html",
+      "brand": "Blue Star"
+    },
+    {
+      "file": "fridge/bosch-refrigerator-repair-service-in-kanyakumari.html",
+      "slug": "bosch-refrigerator-repair-service-in-kanyakumari.html",
+      "brand": "Bosch"
+    },
+    {
+      "file": "fridge/bpl-refrigerator-repair-service-in-kanyakumari.html",
+      "slug": "bpl-refrigerator-repair-service-in-kanyakumari.html",
+      "brand": "BPL"
+    },
+    {
+      "file": "fridge/electrolux-refrigerator-repair-service-in-kanyakumari.html",
+      "slug": "electrolux-refrigerator-repair-service-in-kanyakumari.html",
+      "brand": "Electrolux"
+    },
+    {
+      "file": "fridge/godrej-refrigerator-repair-service-in-kanyakumari.html",
+      "slug": "godrej-refrigerator-repair-service-in-kanyakumari.html",
+      "brand": "Godrej"
+    },
+    {
+      "file": "fridge/haier-refrigerator-repair-service-in-kanyakumari.html",
+      "slug": "haier-refrigerator-repair-service-in-kanyakumari.html",
+      "brand": "Haier"
+    },
+    {
+      "file": "fridge/hisense-refrigerator-repair-service-in-kanyakumari.html",
+      "slug": "hisense-refrigerator-repair-service-in-kanyakumari.html",
+      "brand": "Hisense"
+    },
+    {
+      "file": "fridge/hitachi-refrigerator-repair-service-in-kanyakumari.html",
+      "slug": "hitachi-refrigerator-repair-service-in-kanyakumari.html",
+      "brand": "Hitachi"
+    },
+    {
+      "file": "fridge/ifb-refrigerator-repair-service-in-kanyakumari.html",
+      "slug": "ifb-refrigerator-repair-service-in-kanyakumari.html",
+      "brand": "IFB"
+    },
+    {
+      "file": "fridge/kelvinator-refrigerator-repair-service-in-kanyakumari.html",
+      "slug": "kelvinator-refrigerator-repair-service-in-kanyakumari.html",
+      "brand": "Kelvinator"
+    },
+    {
+      "file": "fridge/liebherr-refrigerator-repair-service-in-kanyakumari.html",
+      "slug": "liebherr-refrigerator-repair-service-in-kanyakumari.html",
+      "brand": "Liebherr"
+    },
+    {
+      "file": "fridge/lloyd-refrigerator-repair-service-in-kanyakumari.html",
+      "slug": "lloyd-refrigerator-repair-service-in-kanyakumari.html",
+      "brand": "Lloyd"
+    },
+    {
+      "file": "fridge/midea-refrigerator-repair-service-in-kanyakumari.html",
+      "slug": "midea-refrigerator-repair-service-in-kanyakumari.html",
+      "brand": "Midea"
+    },
+    {
+      "file": "fridge/motorola-refrigerator-repair-service-in-kanyakumari.html",
+      "slug": "motorola-refrigerator-repair-service-in-kanyakumari.html",
+      "brand": "Motorola"
+    },
+    {
+      "file": "fridge/onida-refrigerator-repair-service-in-kanyakumari.html",
+      "slug": "onida-refrigerator-repair-service-in-kanyakumari.html",
+      "brand": "Onida"
+    },
+    {
+      "file": "fridge/panasonic-refrigerator-repair-service-in-kanyakumari.html",
+      "slug": "panasonic-refrigerator-repair-service-in-kanyakumari.html",
+      "brand": "Panasonic"
+    },
+    {
+      "file": "fridge/refrigerator-repair-service-in-kanyakumari.html",
+      "slug": "refrigerator-repair-service-in-kanyakumari.html",
+      "brand": "All Refrigerator Brands"
+    },
+    {
+      "file": "fridge/samsung-refrigerator-repair-service-in-kanyakumari.html",
+      "slug": "samsung-refrigerator-repair-service-in-kanyakumari.html",
+      "brand": "Samsung"
+    },
+    {
+      "file": "fridge/sharp-refrigerator-repair-service-in-kanyakumari.html",
+      "slug": "sharp-refrigerator-repair-service-in-kanyakumari.html",
+      "brand": "Sharp"
+    },
+    {
+      "file": "fridge/siemens-refrigerator-repair-service-in-kanyakumari.html",
+      "slug": "siemens-refrigerator-repair-service-in-kanyakumari.html",
+      "brand": "Siemens"
+    },
+    {
+      "file": "fridge/toshiba-refrigerator-repair-service-in-kanyakumari.html",
+      "slug": "toshiba-refrigerator-repair-service-in-kanyakumari.html",
+      "brand": "Toshiba"
+    },
+    {
+      "file": "fridge/videocon-refrigerator-repair-service-in-kanyakumari.html",
+      "slug": "videocon-refrigerator-repair-service-in-kanyakumari.html",
+      "brand": "Videocon"
+    },
+    {
+      "file": "fridge/voltas-beko-refrigerator-repair-service-in-kanyakumari.html",
+      "slug": "voltas-beko-refrigerator-repair-service-in-kanyakumari.html",
+      "brand": "Voltas Beko"
+    },
+    {
+      "file": "fridge/whirlpool-refrigerator-repair-service-in-kanyakumari.html",
+      "slug": "whirlpool-refrigerator-repair-service-in-kanyakumari.html",
+      "brand": "Whirlpool"
+    }
+  ],
+  "wm": [
+    {
+      "file": "washing-machine/acer-washing-machine-repair-service-in-kanyakumari.html",
+      "slug": "acer-washing-machine-repair-service-in-kanyakumari.html",
+      "brand": "Acer"
+    },
+    {
+      "file": "washing-machine/bosch-washing-machine-repair-service-in-kanyakumari.html",
+      "slug": "bosch-washing-machine-repair-service-in-kanyakumari.html",
+      "brand": "Bosch"
+    },
+    {
+      "file": "washing-machine/bpl-washing-machine-repair-service-in-kanyakumari.html",
+      "slug": "bpl-washing-machine-repair-service-in-kanyakumari.html",
+      "brand": "BPL"
+    },
+    {
+      "file": "washing-machine/daewoo-washing-machine-repair-service-in-kanyakumari.html",
+      "slug": "daewoo-washing-machine-repair-service-in-kanyakumari.html",
+      "brand": "Daewoo"
+    },
+    {
+      "file": "washing-machine/electrolux-washing-machine-repair-service-in-kanyakumari.html",
+      "slug": "electrolux-washing-machine-repair-service-in-kanyakumari.html",
+      "brand": "Electrolux"
+    },
+    {
+      "file": "washing-machine/godrej-washing-machine-repair-service-in-kanyakumari.html",
+      "slug": "godrej-washing-machine-repair-service-in-kanyakumari.html",
+      "brand": "Godrej"
+    },
+    {
+      "file": "washing-machine/haier-washing-machine-repair-service-in-kanyakumari.html",
+      "slug": "haier-washing-machine-repair-service-in-kanyakumari.html",
+      "brand": "Haier"
+    },
+    {
+      "file": "washing-machine/havells-washing-machine-repair-service-in-kanyakumari.html",
+      "slug": "havells-washing-machine-repair-service-in-kanyakumari.html",
+      "brand": "Havells"
+    },
+    {
+      "file": "washing-machine/hitachi-washing-machine-repair-service-in-kanyakumari.html",
+      "slug": "hitachi-washing-machine-repair-service-in-kanyakumari.html",
+      "brand": "Hitachi"
+    },
+    {
+      "file": "washing-machine/ifb-washing-machine-repair-service-in-kanyakumari.html",
+      "slug": "ifb-washing-machine-repair-service-in-kanyakumari.html",
+      "brand": "IFB"
+    },
+    {
+      "file": "washing-machine/intex-washing-machine-repair-service-in-kanyakumari.html",
+      "slug": "intex-washing-machine-repair-service-in-kanyakumari.html",
+      "brand": "Intex"
+    },
+    {
+      "file": "washing-machine/kelvinator-washing-machine-repair-service-in-kanyakumari.html",
+      "slug": "kelvinator-washing-machine-repair-service-in-kanyakumari.html",
+      "brand": "Kelvinator"
+    },
+    {
+      "file": "washing-machine/kenstar-washing-machine-repair-service-in-kanyakumari.html",
+      "slug": "kenstar-washing-machine-repair-service-in-kanyakumari.html",
+      "brand": "Kenstar"
+    },
+    {
+      "file": "washing-machine/lloyd-washing-machine-repair-service-in-kanyakumari.html",
+      "slug": "lloyd-washing-machine-repair-service-in-kanyakumari.html",
+      "brand": "Lloyd"
+    },
+    {
+      "file": "washing-machine/midea-washing-machine-repair-service-in-kanyakumari.html",
+      "slug": "midea-washing-machine-repair-service-in-kanyakumari.html",
+      "brand": "Midea"
+    },
+    {
+      "file": "washing-machine/motorola-washing-machine-repair-service-in-kanyakumari.html",
+      "slug": "motorola-washing-machine-repair-service-in-kanyakumari.html",
+      "brand": "Motorola"
+    },
+    {
+      "file": "washing-machine/onida-washing-machine-repair-service-in-kanyakumari.html",
+      "slug": "onida-washing-machine-repair-service-in-kanyakumari.html",
+      "brand": "Onida"
+    },
+    {
+      "file": "washing-machine/panasonic-washing-machine-repair-service-in-kanyakumari.html",
+      "slug": "panasonic-washing-machine-repair-service-in-kanyakumari.html",
+      "brand": "Panasonic"
+    },
+    {
+      "file": "washing-machine/samsung-washing-machine-repair-service-in-kanyakumari.html",
+      "slug": "samsung-washing-machine-repair-service-in-kanyakumari.html",
+      "brand": "Samsung"
+    },
+    {
+      "file": "washing-machine/sharp-washing-machine-repair-service-in-kanyakumari.html",
+      "slug": "sharp-washing-machine-repair-service-in-kanyakumari.html",
+      "brand": "Sharp"
+    },
+    {
+      "file": "washing-machine/siemens-washing-machine-repair-service-in-kanyakumari.html",
+      "slug": "siemens-washing-machine-repair-service-in-kanyakumari.html",
+      "brand": "Siemens"
+    },
+    {
+      "file": "washing-machine/tcl-washing-machine-repair-service-in-kanyakumari.html",
+      "slug": "tcl-washing-machine-repair-service-in-kanyakumari.html",
+      "brand": "TCL"
+    },
+    {
+      "file": "washing-machine/thomson-washing-machine-repair-service-in-kanyakumari.html",
+      "slug": "thomson-washing-machine-repair-service-in-kanyakumari.html",
+      "brand": "Thomson"
+    },
+    {
+      "file": "washing-machine/toshiba-washing-machine-repair-service-in-kanyakumari.html",
+      "slug": "toshiba-washing-machine-repair-service-in-kanyakumari.html",
+      "brand": "Toshiba"
+    },
+    {
+      "file": "washing-machine/videocon-washing-machine-repair-service-in-kanyakumari.html",
+      "slug": "videocon-washing-machine-repair-service-in-kanyakumari.html",
+      "brand": "Videocon"
+    },
+    {
+      "file": "washing-machine/voltas-beko-washing-machine-repair-service-in-kanyakumari.html",
+      "slug": "voltas-beko-washing-machine-repair-service-in-kanyakumari.html",
+      "brand": "Voltas Beko"
+    },
+    {
+      "file": "washing-machine/voltas-washing-machine-repair-service-in-kanyakumari.html",
+      "slug": "voltas-washing-machine-repair-service-in-kanyakumari.html",
+      "brand": "Voltas"
+    },
+    {
+      "file": "washing-machine/vw-washing-machine-repair-service-in-kanyakumari.html",
+      "slug": "vw-washing-machine-repair-service-in-kanyakumari.html",
+      "brand": "VW"
+    },
+    {
+      "file": "washing-machine/washing-machine-repair-service-in-kanyakumari.html",
+      "slug": "washing-machine-repair-service-in-kanyakumari.html",
+      "brand": "All Washing Machine Brands"
+    },
+    {
+      "file": "washing-machine/whirlpool-washing-machine-repair-service-in-kanyakumari.html",
+      "slug": "whirlpool-washing-machine-repair-service-in-kanyakumari.html",
+      "brand": "Whirlpool"
+    },
+    {
+      "file": "washing-machine/white-westinghouse-washing-machine-repair-service-in-kanyakumari.html",
+      "slug": "white-westinghouse-washing-machine-repair-service-in-kanyakumari.html",
+      "brand": "White Westinghouse"
+    }
+  ],
+  "tv": [
+    {
+      "file": "tv/acer-tv-repair-service-in-kanyakumari.html",
+      "slug": "acer-tv-repair-service-in-kanyakumari.html",
+      "brand": "Acer"
+    },
+    {
+      "file": "tv/acerpure-tv-repair-service-in-kanyakumari.html",
+      "slug": "acerpure-tv-repair-service-in-kanyakumari.html",
+      "brand": "Acerpure"
+    },
+    {
+      "file": "tv/aiwa-tv-repair-service-in-kanyakumari.html",
+      "slug": "aiwa-tv-repair-service-in-kanyakumari.html",
+      "brand": "Aiwa"
+    },
+    {
+      "file": "tv/akai-tv-repair-service-in-kanyakumari.html",
+      "slug": "akai-tv-repair-service-in-kanyakumari.html",
+      "brand": "Akai"
+    },
+    {
+      "file": "tv/bpl-tv-repair-service-in-kanyakumari.html",
+      "slug": "bpl-tv-repair-service-in-kanyakumari.html",
+      "brand": "BPL"
+    },
+    {
+      "file": "tv/haier-tv-repair-service-in-kanyakumari.html",
+      "slug": "haier-tv-repair-service-in-kanyakumari.html",
+      "brand": "Haier"
+    },
+    {
+      "file": "tv/hisense-tv-repair-service-in-kanyakumari.html",
+      "slug": "hisense-tv-repair-service-in-kanyakumari.html",
+      "brand": "Hisense"
+    },
+    {
+      "file": "tv/hitachi-tv-repair-service-in-kanyakumari.html",
+      "slug": "hitachi-tv-repair-service-in-kanyakumari.html",
+      "brand": "Hitachi"
+    },
+    {
+      "file": "tv/hyundai-tv-repair-service-in-kanyakumari.html",
+      "slug": "hyundai-tv-repair-service-in-kanyakumari.html",
+      "brand": "Hyundai"
+    },
+    {
+      "file": "tv/iffalcon-tv-repair-service-in-kanyakumari.html",
+      "slug": "iffalcon-tv-repair-service-in-kanyakumari.html",
+      "brand": "Iffalcon"
+    },
+    {
+      "file": "tv/intex-tv-repair-service-in-kanyakumari.html",
+      "slug": "intex-tv-repair-service-in-kanyakumari.html",
+      "brand": "Intex"
+    },
+    {
+      "file": "tv/kodak-tv-repair-service-in-kanyakumari.html",
+      "slug": "kodak-tv-repair-service-in-kanyakumari.html",
+      "brand": "Kodak"
+    },
+    {
+      "file": "tv/lloyd-tv-repair-service-in-kanyakumari.html",
+      "slug": "lloyd-tv-repair-service-in-kanyakumari.html",
+      "brand": "Lloyd"
+    },
+    {
+      "file": "tv/mi-tv-repair-service-in-kanyakumari.html",
+      "slug": "mi-tv-repair-service-in-kanyakumari.html",
+      "brand": "Mi"
+    },
+    {
+      "file": "tv/micromax-tv-repair-service-in-kanyakumari.html",
+      "slug": "micromax-tv-repair-service-in-kanyakumari.html",
+      "brand": "Micromax"
+    },
+    {
+      "file": "tv/oneplus-tv-repair-service-in-kanyakumari.html",
+      "slug": "oneplus-tv-repair-service-in-kanyakumari.html",
+      "brand": "Oneplus"
+    },
+    {
+      "file": "tv/onida-tv-repair-service-in-kanyakumari.html",
+      "slug": "onida-tv-repair-service-in-kanyakumari.html",
+      "brand": "Onida"
+    },
+    {
+      "file": "tv/panasonic-tv-repair-service-in-kanyakumari.html",
+      "slug": "panasonic-tv-repair-service-in-kanyakumari.html",
+      "brand": "Panasonic"
+    },
+    {
+      "file": "tv/philips-tv-repair-service-in-kanyakumari.html",
+      "slug": "philips-tv-repair-service-in-kanyakumari.html",
+      "brand": "Philips"
+    },
+    {
+      "file": "tv/redmi-tv-repair-service-in-kanyakumari.html",
+      "slug": "redmi-tv-repair-service-in-kanyakumari.html",
+      "brand": "Redmi"
+    },
+    {
+      "file": "tv/samsung-tv-repair-service-in-kanyakumari.html",
+      "slug": "samsung-tv-repair-service-in-kanyakumari.html",
+      "brand": "Samsung"
+    },
+    {
+      "file": "tv/sansui-tv-repair-service-in-kanyakumari.html",
+      "slug": "sansui-tv-repair-service-in-kanyakumari.html",
+      "brand": "Sansui"
+    },
+    {
+      "file": "tv/sanyo-tv-repair-service-in-kanyakumari.html",
+      "slug": "sanyo-tv-repair-service-in-kanyakumari.html",
+      "brand": "Sanyo"
+    },
+    {
+      "file": "tv/sharp-tv-repair-service-in-kanyakumari.html",
+      "slug": "sharp-tv-repair-service-in-kanyakumari.html",
+      "brand": "Sharp"
+    },
+    {
+      "file": "tv/sony-tv-repair-service-in-kanyakumari.html",
+      "slug": "sony-tv-repair-service-in-kanyakumari.html",
+      "brand": "Sony"
+    },
+    {
+      "file": "tv/tcl-tv-repair-service-in-kanyakumari.html",
+      "slug": "tcl-tv-repair-service-in-kanyakumari.html",
+      "brand": "TCL"
+    },
+    {
+      "file": "tv/toshiba-tv-repair-service-in-kanyakumari.html",
+      "slug": "toshiba-tv-repair-service-in-kanyakumari.html",
+      "brand": "Toshiba"
+    },
+    {
+      "file": "tv/tv-repair-service-in-kanyakumari.html",
+      "slug": "tv-repair-service-in-kanyakumari.html",
+      "brand": "All TV Brands"
+    },
+    {
+      "file": "tv/videocon-tv-repair-service-in-kanyakumari.html",
+      "slug": "videocon-tv-repair-service-in-kanyakumari.html",
+      "brand": "Videocon"
+    },
+    {
+      "file": "tv/vu-tv-repair-service-in-kanyakumari.html",
+      "slug": "vu-tv-repair-service-in-kanyakumari.html",
+      "brand": "Vu"
+    },
+    {
+      "file": "tv/vw-tv-repair-service-in-kanyakumari.html",
+      "slug": "vw-tv-repair-service-in-kanyakumari.html",
+      "brand": "VW"
+    },
+    {
+      "file": "tv/xiaomi-tv-repair-service-in-kanyakumari.html",
+      "slug": "xiaomi-tv-repair-service-in-kanyakumari.html",
+      "brand": "Xiaomi"
+    }
+  ],
+  "sc": [
+    {
+      "file": "servicecenter/acer-service-center-kanyakumari.html",
+      "slug": "acer-service-center-kanyakumari.html",
+      "brand": "Acer"
+    },
+    {
+      "file": "servicecenter/acerpure-service-center-kanyakumari.html",
+      "slug": "acerpure-service-center-kanyakumari.html",
+      "brand": "Acerpure"
+    },
+    {
+      "file": "servicecenter/aiwa-service-center-kanyakumari.html",
+      "slug": "aiwa-service-center-kanyakumari.html",
+      "brand": "Aiwa"
+    },
+    {
+      "file": "servicecenter/akai-service-center-kanyakumari.html",
+      "slug": "akai-service-center-kanyakumari.html",
+      "brand": "Akai"
+    },
+    {
+      "file": "servicecenter/bajaj-service-center-kanyakumari.html",
+      "slug": "bajaj-service-center-kanyakumari.html",
+      "brand": "Bajaj"
+    },
+    {
+      "file": "servicecenter/blue-star-service-center-kanyakumari.html",
+      "slug": "blue-star-service-center-kanyakumari.html",
+      "brand": "Blue Star"
+    },
+    {
+      "file": "servicecenter/bosch-service-center-kanyakumari.html",
+      "slug": "bosch-service-center-kanyakumari.html",
+      "brand": "Bosch"
+    },
+    {
+      "file": "servicecenter/bpl-service-center-kanyakumari.html",
+      "slug": "bpl-service-center-kanyakumari.html",
+      "brand": "BPL"
+    },
+    {
+      "file": "servicecenter/carrier-service-center-kanyakumari.html",
+      "slug": "carrier-service-center-kanyakumari.html",
+      "brand": "Carrier"
+    },
+    {
+      "file": "servicecenter/daewoo-service-center-kanyakumari.html",
+      "slug": "daewoo-service-center-kanyakumari.html",
+      "brand": "Daewoo"
+    },
+    {
+      "file": "servicecenter/daikin-service-center-kanyakumari.html",
+      "slug": "daikin-service-center-kanyakumari.html",
+      "brand": "Daikin"
+    },
+    {
+      "file": "servicecenter/electrolux-service-center-kanyakumari.html",
+      "slug": "electrolux-service-center-kanyakumari.html",
+      "brand": "Electrolux"
+    },
+    {
+      "file": "servicecenter/godrej-service-center-kanyakumari.html",
+      "slug": "godrej-service-center-kanyakumari.html",
+      "brand": "Godrej"
+    },
+    {
+      "file": "servicecenter/haier-service-center-kanyakumari.html",
+      "slug": "haier-service-center-kanyakumari.html",
+      "brand": "Haier"
+    },
+    {
+      "file": "servicecenter/havells-service-center-kanyakumari.html",
+      "slug": "havells-service-center-kanyakumari.html",
+      "brand": "Havells"
+    },
+    {
+      "file": "servicecenter/hisense-service-center-kanyakumari.html",
+      "slug": "hisense-service-center-kanyakumari.html",
+      "brand": "Hisense"
+    },
+    {
+      "file": "servicecenter/hitachi-service-center-kanyakumari.html",
+      "slug": "hitachi-service-center-kanyakumari.html",
+      "brand": "Hitachi"
+    },
+    {
+      "file": "servicecenter/home-appliance-service-center-kanyakumari.html",
+      "slug": "home-appliance-service-center-kanyakumari.html",
+      "brand": "Home Appliance Multi-Brand"
+    },
+    {
+      "file": "servicecenter/hyundai-service-center-kanyakumari.html",
+      "slug": "hyundai-service-center-kanyakumari.html",
+      "brand": "Hyundai"
+    },
+    {
+      "file": "servicecenter/ifb-service-center-kanyakumari.html",
+      "slug": "ifb-service-center-kanyakumari.html",
+      "brand": "IFB"
+    },
+    {
+      "file": "servicecenter/iffalcon-service-center-kanyakumari.html",
+      "slug": "iffalcon-service-center-kanyakumari.html",
+      "brand": "Iffalcon"
+    },
+    {
+      "file": "servicecenter/intex-service-center-kanyakumari.html",
+      "slug": "intex-service-center-kanyakumari.html",
+      "brand": "Intex"
+    },
+    {
+      "file": "servicecenter/kelvinator-service-center-kanyakumari.html",
+      "slug": "kelvinator-service-center-kanyakumari.html",
+      "brand": "Kelvinator"
+    },
+    {
+      "file": "servicecenter/kenstar-service-center-kanyakumari.html",
+      "slug": "kenstar-service-center-kanyakumari.html",
+      "brand": "Kenstar"
+    },
+    {
+      "file": "servicecenter/kodak-service-center-kanyakumari.html",
+      "slug": "kodak-service-center-kanyakumari.html",
+      "brand": "Kodak"
+    },
+    {
+      "file": "servicecenter/liebherr-service-center-kanyakumari.html",
+      "slug": "liebherr-service-center-kanyakumari.html",
+      "brand": "Liebherr"
+    },
+    {
+      "file": "servicecenter/lloyd-service-center-kanyakumari.html",
+      "slug": "lloyd-service-center-kanyakumari.html",
+      "brand": "Lloyd"
+    },
+    {
+      "file": "servicecenter/mi-service-center-kanyakumari.html",
+      "slug": "mi-service-center-kanyakumari.html",
+      "brand": "Mi"
+    },
+    {
+      "file": "servicecenter/micromax-service-center-kanyakumari.html",
+      "slug": "micromax-service-center-kanyakumari.html",
+      "brand": "Micromax"
+    },
+    {
+      "file": "servicecenter/midea-service-center-kanyakumari.html",
+      "slug": "midea-service-center-kanyakumari.html",
+      "brand": "Midea"
+    },
+    {
+      "file": "servicecenter/mitsubishi-service-center-kanyakumari.html",
+      "slug": "mitsubishi-service-center-kanyakumari.html",
+      "brand": "Mitsubishi"
+    },
+    {
+      "file": "servicecenter/motorola-service-center-kanyakumari.html",
+      "slug": "motorola-service-center-kanyakumari.html",
+      "brand": "Motorola"
+    },
+    {
+      "file": "servicecenter/o-general-service-center-kanyakumari.html",
+      "slug": "o-general-service-center-kanyakumari.html",
+      "brand": "O'General"
+    },
+    {
+      "file": "servicecenter/oneplus-service-center-kanyakumari.html",
+      "slug": "oneplus-service-center-kanyakumari.html",
+      "brand": "Oneplus"
+    },
+    {
+      "file": "servicecenter/onida-service-center-kanyakumari.html",
+      "slug": "onida-service-center-kanyakumari.html",
+      "brand": "Onida"
+    },
+    {
+      "file": "servicecenter/panasonic-service-center-kanyakumari.html",
+      "slug": "panasonic-service-center-kanyakumari.html",
+      "brand": "Panasonic"
+    },
+    {
+      "file": "servicecenter/philips-service-center-kanyakumari.html",
+      "slug": "philips-service-center-kanyakumari.html",
+      "brand": "Philips"
+    },
+    {
+      "file": "servicecenter/redmi-service-center-kanyakumari.html",
+      "slug": "redmi-service-center-kanyakumari.html",
+      "brand": "Redmi"
+    },
+    {
+      "file": "servicecenter/samsung-service-center-kanyakumari.html",
+      "slug": "samsung-service-center-kanyakumari.html",
+      "brand": "Samsung"
+    },
+    {
+      "file": "servicecenter/sansui-service-center-kanyakumari.html",
+      "slug": "sansui-service-center-kanyakumari.html",
+      "brand": "Sansui"
+    },
+    {
+      "file": "servicecenter/sanyo-service-center-kanyakumari.html",
+      "slug": "sanyo-service-center-kanyakumari.html",
+      "brand": "Sanyo"
+    },
+    {
+      "file": "servicecenter/sharp-service-center-kanyakumari.html",
+      "slug": "sharp-service-center-kanyakumari.html",
+      "brand": "Sharp"
+    },
+    {
+      "file": "servicecenter/siemens-service-center-kanyakumari.html",
+      "slug": "siemens-service-center-kanyakumari.html",
+      "brand": "Siemens"
+    },
+    {
+      "file": "servicecenter/sony-service-center-kanyakumari.html",
+      "slug": "sony-service-center-kanyakumari.html",
+      "brand": "Sony"
+    },
+    {
+      "file": "servicecenter/tcl-service-center-kanyakumari.html",
+      "slug": "tcl-service-center-kanyakumari.html",
+      "brand": "TCL"
+    },
+    {
+      "file": "servicecenter/thomson-service-center-kanyakumari.html",
+      "slug": "thomson-service-center-kanyakumari.html",
+      "brand": "Thomson"
+    },
+    {
+      "file": "servicecenter/toshiba-service-center-kanyakumari.html",
+      "slug": "toshiba-service-center-kanyakumari.html",
+      "brand": "Toshiba"
+    },
+    {
+      "file": "servicecenter/videocon-service-center-kanyakumari.html",
+      "slug": "videocon-service-center-kanyakumari.html",
+      "brand": "Videocon"
+    },
+    {
+      "file": "servicecenter/voltas-beko-service-center-kanyakumari.html",
+      "slug": "voltas-beko-service-center-kanyakumari.html",
+      "brand": "Voltas Beko"
+    },
+    {
+      "file": "servicecenter/voltas-service-center-kanyakumari.html",
+      "slug": "voltas-service-center-kanyakumari.html",
+      "brand": "Voltas"
+    },
+    {
+      "file": "servicecenter/vu-service-center-kanyakumari.html",
+      "slug": "vu-service-center-kanyakumari.html",
+      "brand": "Vu"
+    },
+    {
+      "file": "servicecenter/vw-service-center-kanyakumari.html",
+      "slug": "vw-service-center-kanyakumari.html",
+      "brand": "VW"
+    },
+    {
+      "file": "servicecenter/whirlpool-service-center-kanyakumari.html",
+      "slug": "whirlpool-service-center-kanyakumari.html",
+      "brand": "Whirlpool"
+    },
+    {
+      "file": "servicecenter/white-westinghouse-service-center-kanyakumari.html",
+      "slug": "white-westinghouse-service-center-kanyakumari.html",
+      "brand": "White Westinghouse"
+    },
+    {
+      "file": "servicecenter/xiaomi-service-center-kanyakumari.html",
+      "slug": "xiaomi-service-center-kanyakumari.html",
+      "brand": "Xiaomi"
+    }
+  ],
+  "index": [
+    {
+      "file": "index.html",
+      "title": "Home Appliance Service Center Kanyakumari",
+      "type": "index"
+    }
+  ]
+}

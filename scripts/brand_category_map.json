@@ -1,0 +1,1698 @@
+{
+  "acer": {
+    "brandName": "Acer",
+    "file": "service-center\\acer-service-center-kanyakumari.html",
+    "cards": [
+      "Acer Air Conditioner",
+      "Acer Refrigerator",
+      "Acer Washing Machine",
+      "Acer Washer Dryer",
+      "Acer Television",
+      "Acer Air Purifier"
+    ],
+    "categories": [
+      "ac",
+      "refrigerator",
+      "washing-machine",
+      "washer-dryer",
+      "tv",
+      "air-purifier"
+    ],
+    "catCardList": {
+      "ac": [
+        "Acer Air Conditioner"
+      ],
+      "refrigerator": [
+        "Acer Refrigerator"
+      ],
+      "washing-machine": [
+        "Acer Washing Machine"
+      ],
+      "washer-dryer": [
+        "Acer Washer Dryer"
+      ],
+      "tv": [
+        "Acer Television"
+      ],
+      "air-purifier": [
+        "Acer Air Purifier"
+      ]
+    }
+  },
+  "acerpure": {
+    "brandName": "Acerpure",
+    "file": "service-center\\acerpure-service-center-kanyakumari.html",
+    "cards": [
+      "Acerpure Air Conditioner",
+      "Acerpure Television",
+      "Acerpure Air Purifier",
+      "Acerpure Air Circulator Fan",
+      "Acerpure Water Purifier"
+    ],
+    "categories": [
+      "ac",
+      "tv",
+      "air-purifier",
+      "air-cooler",
+      "water-purifier"
+    ],
+    "catCardList": {
+      "ac": [
+        "Acerpure Air Conditioner"
+      ],
+      "tv": [
+        "Acerpure Television"
+      ],
+      "air-purifier": [
+        "Acerpure Air Purifier"
+      ],
+      "air-cooler": [
+        "Acerpure Air Circulator Fan"
+      ],
+      "water-purifier": [
+        "Acerpure Water Purifier"
+      ]
+    }
+  },
+  "aiwa": {
+    "brandName": "Aiwa",
+    "file": "service-center\\aiwa-service-center-kanyakumari.html",
+    "cards": [
+      "Aiwa Television",
+      "Aiwa Soundbar",
+      "Aiwa Home Audio System"
+    ],
+    "categories": [
+      "tv",
+      "audio-system"
+    ],
+    "catCardList": {
+      "tv": [
+        "Aiwa Television"
+      ],
+      "audio-system": [
+        "Aiwa Soundbar",
+        "Aiwa Home Audio System"
+      ]
+    }
+  },
+  "akai": {
+    "brandName": "Akai",
+    "file": "service-center\\akai-service-center-kanyakumari.html",
+    "cards": [
+      "Akai Television",
+      "Akai Home Audio System",
+      "Akai Air Cooler"
+    ],
+    "categories": [
+      "tv",
+      "audio-system",
+      "air-cooler"
+    ],
+    "catCardList": {
+      "tv": [
+        "Akai Television"
+      ],
+      "audio-system": [
+        "Akai Home Audio System"
+      ],
+      "air-cooler": [
+        "Akai Air Cooler"
+      ]
+    }
+  },
+  "bajaj": {
+    "brandName": "Bajaj",
+    "file": "service-center\\bajaj-service-center-kanyakumari.html",
+    "cards": [
+      "Bajaj Air Conditioner",
+      "Bajaj Air Cooler",
+      "Bajaj Geyser / Water Heater",
+      "Bajaj Microwave Oven",
+      "Bajaj Mixer Grinder"
+    ],
+    "categories": [
+      "ac",
+      "air-cooler",
+      "water-heater",
+      "microwave-oven",
+      "kitchen-appliances"
+    ],
+    "catCardList": {
+      "ac": [
+        "Bajaj Air Conditioner"
+      ],
+      "air-cooler": [
+        "Bajaj Air Cooler"
+      ],
+      "water-heater": [
+        "Bajaj Geyser / Water Heater"
+      ],
+      "microwave-oven": [
+        "Bajaj Microwave Oven"
+      ],
+      "kitchen-appliances": [
+        "Bajaj Mixer Grinder"
+      ]
+    }
+  },
+  "blue-star": {
+    "brandName": "Blue Star",
+    "file": "service-center\\blue-star-service-center-kanyakumari.html",
+    "cards": [
+      "Blue Star Air Conditioner",
+      "Blue Star Refrigerator",
+      "Blue Star Deep Freezer",
+      "Blue Star Water Purifier",
+      "Blue Star Air Purifier",
+      "Blue Star Air Cooler",
+      "Blue Star Water Cooler"
+    ],
+    "categories": [
+      "ac",
+      "refrigerator",
+      "chest-freezer",
+      "water-purifier",
+      "air-purifier",
+      "air-cooler"
+    ],
+    "catCardList": {
+      "ac": [
+        "Blue Star Air Conditioner"
+      ],
+      "refrigerator": [
+        "Blue Star Refrigerator"
+      ],
+      "chest-freezer": [
+        "Blue Star Deep Freezer"
+      ],
+      "water-purifier": [
+        "Blue Star Water Purifier"
+      ],
+      "air-purifier": [
+        "Blue Star Air Purifier"
+      ],
+      "air-cooler": [
+        "Blue Star Air Cooler",
+        "Blue Star Water Cooler"
+      ]
+    }
+  },
+  "bosch": {
+    "brandName": "Bosch",
+    "file": "service-center\\bosch-service-center-kanyakumari.html",
+    "cards": [
+      "Bosch Washing Machine",
+      "Bosch Washer Dryer",
+      "Bosch Refrigerator",
+      "Bosch Dishwasher",
+      "Bosch Microwave Oven",
+      "Bosch Built-in Oven",
+      "Bosch Kitchen Chimney",
+      "Bosch Hob"
+    ],
+    "categories": [
+      "washing-machine",
+      "washer-dryer",
+      "refrigerator",
+      "dishwasher",
+      "microwave-oven",
+      "kitchen-appliances"
+    ],
+    "catCardList": {
+      "washing-machine": [
+        "Bosch Washing Machine"
+      ],
+      "washer-dryer": [
+        "Bosch Washer Dryer"
+      ],
+      "refrigerator": [
+        "Bosch Refrigerator"
+      ],
+      "dishwasher": [
+        "Bosch Dishwasher"
+      ],
+      "microwave-oven": [
+        "Bosch Microwave Oven",
+        "Bosch Built-in Oven"
+      ],
+      "kitchen-appliances": [
+        "Bosch Kitchen Chimney",
+        "Bosch Hob"
+      ]
+    }
+  },
+  "bpl": {
+    "brandName": "BPL",
+    "file": "service-center\\bpl-service-center-kanyakumari.html",
+    "cards": [
+      "BPL Air Conditioner",
+      "BPL Refrigerator",
+      "BPL Washing Machine",
+      "BPL Television"
+    ],
+    "categories": [
+      "ac",
+      "refrigerator",
+      "washing-machine",
+      "tv"
+    ],
+    "catCardList": {
+      "ac": [
+        "BPL Air Conditioner"
+      ],
+      "refrigerator": [
+        "BPL Refrigerator"
+      ],
+      "washing-machine": [
+        "BPL Washing Machine"
+      ],
+      "tv": [
+        "BPL Television"
+      ]
+    }
+  },
+  "carrier": {
+    "brandName": "Carrier",
+    "file": "service-center\\carrier-service-center-kanyakumari.html",
+    "cards": [
+      "Carrier Air Conditioner",
+      "Carrier Air Purifier",
+      "Carrier Cassette AC"
+    ],
+    "categories": [
+      "ac",
+      "air-purifier"
+    ],
+    "catCardList": {
+      "ac": [
+        "Carrier Air Conditioner",
+        "Carrier Cassette AC"
+      ],
+      "air-purifier": [
+        "Carrier Air Purifier"
+      ]
+    }
+  },
+  "daewoo": {
+    "brandName": "Daewoo",
+    "file": "service-center\\daewoo-service-center-kanyakumari.html",
+    "cards": [
+      "Daewoo Washing Machine",
+      "Daewoo Washer Dryer",
+      "Daewoo Microwave Oven"
+    ],
+    "categories": [
+      "washing-machine",
+      "washer-dryer",
+      "microwave-oven"
+    ],
+    "catCardList": {
+      "washing-machine": [
+        "Daewoo Washing Machine"
+      ],
+      "washer-dryer": [
+        "Daewoo Washer Dryer"
+      ],
+      "microwave-oven": [
+        "Daewoo Microwave Oven"
+      ]
+    }
+  },
+  "daikin": {
+    "brandName": "Daikin",
+    "file": "service-center\\daikin-service-center-kanyakumari.html",
+    "cards": [
+      "Daikin Air Conditioner",
+      "Daikin Air Purifier",
+      "Daikin Cassette AC",
+      "Daikin Ductable AC"
+    ],
+    "categories": [
+      "ac",
+      "air-purifier"
+    ],
+    "catCardList": {
+      "ac": [
+        "Daikin Air Conditioner",
+        "Daikin Cassette AC",
+        "Daikin Ductable AC"
+      ],
+      "air-purifier": [
+        "Daikin Air Purifier"
+      ]
+    }
+  },
+  "electrolux": {
+    "brandName": "Electrolux",
+    "file": "service-center\\electrolux-service-center-kanyakumari.html",
+    "cards": [
+      "Electrolux Air Conditioner",
+      "Electrolux Refrigerator",
+      "Electrolux Washing Machine",
+      "Electrolux Washer Dryer",
+      "Electrolux Dishwasher",
+      "Electrolux Microwave Oven",
+      "Electrolux Air Purifier"
+    ],
+    "categories": [
+      "ac",
+      "refrigerator",
+      "washing-machine",
+      "washer-dryer",
+      "dishwasher",
+      "microwave-oven",
+      "air-purifier"
+    ],
+    "catCardList": {
+      "ac": [
+        "Electrolux Air Conditioner"
+      ],
+      "refrigerator": [
+        "Electrolux Refrigerator"
+      ],
+      "washing-machine": [
+        "Electrolux Washing Machine"
+      ],
+      "washer-dryer": [
+        "Electrolux Washer Dryer"
+      ],
+      "dishwasher": [
+        "Electrolux Dishwasher"
+      ],
+      "microwave-oven": [
+        "Electrolux Microwave Oven"
+      ],
+      "air-purifier": [
+        "Electrolux Air Purifier"
+      ]
+    }
+  },
+  "godrej": {
+    "brandName": "Godrej",
+    "file": "service-center\\godrej-service-center-kanyakumari.html",
+    "cards": [
+      "Godrej Air Conditioner",
+      "Godrej Refrigerator",
+      "Godrej Washing Machine",
+      "Godrej Microwave Oven",
+      "Godrej Chest Freezer",
+      "Godrej Air Cooler"
+    ],
+    "categories": [
+      "ac",
+      "refrigerator",
+      "washing-machine",
+      "microwave-oven",
+      "chest-freezer",
+      "air-cooler"
+    ],
+    "catCardList": {
+      "ac": [
+        "Godrej Air Conditioner"
+      ],
+      "refrigerator": [
+        "Godrej Refrigerator"
+      ],
+      "washing-machine": [
+        "Godrej Washing Machine"
+      ],
+      "microwave-oven": [
+        "Godrej Microwave Oven"
+      ],
+      "chest-freezer": [
+        "Godrej Chest Freezer"
+      ],
+      "air-cooler": [
+        "Godrej Air Cooler"
+      ]
+    }
+  },
+  "haier": {
+    "brandName": "Haier",
+    "file": "service-center\\haier-service-center-kanyakumari.html",
+    "cards": [
+      "Haier Air Conditioner",
+      "Haier Refrigerator",
+      "Haier Washing Machine",
+      "Haier Washer Dryer",
+      "Haier Television",
+      "Haier Microwave Oven",
+      "Haier Deep Freezer",
+      "Haier Water Heater"
+    ],
+    "categories": [
+      "ac",
+      "refrigerator",
+      "washing-machine",
+      "washer-dryer",
+      "tv",
+      "microwave-oven",
+      "chest-freezer",
+      "water-heater"
+    ],
+    "catCardList": {
+      "ac": [
+        "Haier Air Conditioner"
+      ],
+      "refrigerator": [
+        "Haier Refrigerator"
+      ],
+      "washing-machine": [
+        "Haier Washing Machine"
+      ],
+      "washer-dryer": [
+        "Haier Washer Dryer"
+      ],
+      "tv": [
+        "Haier Television"
+      ],
+      "microwave-oven": [
+        "Haier Microwave Oven"
+      ],
+      "chest-freezer": [
+        "Haier Deep Freezer"
+      ],
+      "water-heater": [
+        "Haier Water Heater"
+      ]
+    }
+  },
+  "havells": {
+    "brandName": "Havells",
+    "file": "service-center\\havells-service-center-kanyakumari.html",
+    "cards": [
+      "Havells Air Conditioner",
+      "Havells Washing Machine",
+      "Havells Geyser / Water Heater",
+      "Havells Air Purifier",
+      "Havells Kitchen Appliances"
+    ],
+    "categories": [
+      "ac",
+      "washing-machine",
+      "water-heater",
+      "air-purifier",
+      "kitchen-appliances"
+    ],
+    "catCardList": {
+      "ac": [
+        "Havells Air Conditioner"
+      ],
+      "washing-machine": [
+        "Havells Washing Machine"
+      ],
+      "water-heater": [
+        "Havells Geyser / Water Heater"
+      ],
+      "air-purifier": [
+        "Havells Air Purifier"
+      ],
+      "kitchen-appliances": [
+        "Havells Kitchen Appliances"
+      ]
+    }
+  },
+  "hisense": {
+    "brandName": "Hisense",
+    "file": "service-center\\hisense-service-center-kanyakumari.html",
+    "cards": [
+      "Hisense Air Conditioner",
+      "Hisense Refrigerator",
+      "Hisense Television",
+      "Hisense Dishwasher"
+    ],
+    "categories": [
+      "ac",
+      "refrigerator",
+      "tv",
+      "dishwasher"
+    ],
+    "catCardList": {
+      "ac": [
+        "Hisense Air Conditioner"
+      ],
+      "refrigerator": [
+        "Hisense Refrigerator"
+      ],
+      "tv": [
+        "Hisense Television"
+      ],
+      "dishwasher": [
+        "Hisense Dishwasher"
+      ]
+    }
+  },
+  "hitachi": {
+    "brandName": "Hitachi",
+    "file": "service-center\\hitachi-service-center-kanyakumari.html",
+    "cards": [
+      "Hitachi Air Conditioner",
+      "Hitachi Refrigerator",
+      "Hitachi Washing Machine",
+      "Hitachi Television",
+      "Hitachi Air Purifier"
+    ],
+    "categories": [
+      "ac",
+      "refrigerator",
+      "washing-machine",
+      "tv",
+      "air-purifier"
+    ],
+    "catCardList": {
+      "ac": [
+        "Hitachi Air Conditioner"
+      ],
+      "refrigerator": [
+        "Hitachi Refrigerator"
+      ],
+      "washing-machine": [
+        "Hitachi Washing Machine"
+      ],
+      "tv": [
+        "Hitachi Television"
+      ],
+      "air-purifier": [
+        "Hitachi Air Purifier"
+      ]
+    }
+  },
+  "home-appliance": {
+    "brandName": "Home Appliance Service Center in Kanyakumari",
+    "file": "service-center\\home-appliance-service-center-kanyakumari.html",
+    "cards": [],
+    "categories": [],
+    "catCardList": {}
+  },
+  "hyundai": {
+    "brandName": "Hyundai",
+    "file": "service-center\\hyundai-service-center-kanyakumari.html",
+    "cards": [
+      "Hyundai Television",
+      "Hyundai Air Cooler",
+      "Hyundai Smart LED TV"
+    ],
+    "categories": [
+      "tv",
+      "air-cooler"
+    ],
+    "catCardList": {
+      "tv": [
+        "Hyundai Television",
+        "Hyundai Smart LED TV"
+      ],
+      "air-cooler": [
+        "Hyundai Air Cooler"
+      ]
+    }
+  },
+  "ifb": {
+    "brandName": "IFB",
+    "file": "service-center\\ifb-service-center-kanyakumari.html",
+    "cards": [
+      "IFB Washing Machine",
+      "IFB Washer Dryer",
+      "IFB Clothes Dryer",
+      "IFB Refrigerator",
+      "IFB Air Conditioner",
+      "IFB Microwave Oven",
+      "IFB Dishwasher",
+      "IFB Kitchen Chimney",
+      "IFB Hob",
+      "IFB Built-in Oven"
+    ],
+    "categories": [
+      "washing-machine",
+      "washer-dryer",
+      "refrigerator",
+      "ac",
+      "microwave-oven",
+      "dishwasher",
+      "kitchen-appliances"
+    ],
+    "catCardList": {
+      "washing-machine": [
+        "IFB Washing Machine"
+      ],
+      "washer-dryer": [
+        "IFB Washer Dryer",
+        "IFB Clothes Dryer"
+      ],
+      "refrigerator": [
+        "IFB Refrigerator"
+      ],
+      "ac": [
+        "IFB Air Conditioner"
+      ],
+      "microwave-oven": [
+        "IFB Microwave Oven",
+        "IFB Built-in Oven"
+      ],
+      "dishwasher": [
+        "IFB Dishwasher"
+      ],
+      "kitchen-appliances": [
+        "IFB Kitchen Chimney",
+        "IFB Hob"
+      ]
+    }
+  },
+  "iffalcon": {
+    "brandName": "iFFALCON",
+    "file": "service-center\\iffalcon-service-center-kanyakumari.html",
+    "cards": [
+      "iFFALCON Television",
+      "iFFALCON 4K Google TV",
+      "iFFALCON QLED TV"
+    ],
+    "categories": [
+      "tv"
+    ],
+    "catCardList": {
+      "tv": [
+        "iFFALCON Television",
+        "iFFALCON 4K Google TV",
+        "iFFALCON QLED TV"
+      ]
+    }
+  },
+  "intex": {
+    "brandName": "Intex",
+    "file": "service-center\\intex-service-center-kanyakumari.html",
+    "cards": [
+      "Intex Washing Machine",
+      "Intex Television",
+      "Intex Air Cooler",
+      "Intex Home Audio Speaker"
+    ],
+    "categories": [
+      "washing-machine",
+      "tv",
+      "air-cooler",
+      "audio-system"
+    ],
+    "catCardList": {
+      "washing-machine": [
+        "Intex Washing Machine"
+      ],
+      "tv": [
+        "Intex Television"
+      ],
+      "air-cooler": [
+        "Intex Air Cooler"
+      ],
+      "audio-system": [
+        "Intex Home Audio Speaker"
+      ]
+    }
+  },
+  "kelvinator": {
+    "brandName": "Kelvinator",
+    "file": "service-center\\kelvinator-service-center-kanyakumari.html",
+    "cards": [
+      "Kelvinator Air Conditioner",
+      "Kelvinator Refrigerator",
+      "Kelvinator Washing Machine",
+      "Kelvinator Microwave Oven",
+      "Kelvinator Chest Freezer"
+    ],
+    "categories": [
+      "ac",
+      "refrigerator",
+      "washing-machine",
+      "microwave-oven",
+      "chest-freezer"
+    ],
+    "catCardList": {
+      "ac": [
+        "Kelvinator Air Conditioner"
+      ],
+      "refrigerator": [
+        "Kelvinator Refrigerator"
+      ],
+      "washing-machine": [
+        "Kelvinator Washing Machine"
+      ],
+      "microwave-oven": [
+        "Kelvinator Microwave Oven"
+      ],
+      "chest-freezer": [
+        "Kelvinator Chest Freezer"
+      ]
+    }
+  },
+  "kenstar": {
+    "brandName": "Kenstar",
+    "file": "service-center\\kenstar-service-center-kanyakumari.html",
+    "cards": [
+      "Kenstar Air Conditioner",
+      "Kenstar Washing Machine",
+      "Kenstar Air Cooler",
+      "Kenstar Geyser / Water Heater",
+      "Kenstar Microwave Oven"
+    ],
+    "categories": [
+      "ac",
+      "washing-machine",
+      "air-cooler",
+      "water-heater",
+      "microwave-oven"
+    ],
+    "catCardList": {
+      "ac": [
+        "Kenstar Air Conditioner"
+      ],
+      "washing-machine": [
+        "Kenstar Washing Machine"
+      ],
+      "air-cooler": [
+        "Kenstar Air Cooler"
+      ],
+      "water-heater": [
+        "Kenstar Geyser / Water Heater"
+      ],
+      "microwave-oven": [
+        "Kenstar Microwave Oven"
+      ]
+    }
+  },
+  "kodak": {
+    "brandName": "Kodak",
+    "file": "service-center\\kodak-service-center-kanyakumari.html",
+    "cards": [
+      "Kodak Television",
+      "Kodak 4K UHD Smart TV",
+      "Kodak QLED TV"
+    ],
+    "categories": [
+      "tv"
+    ],
+    "catCardList": {
+      "tv": [
+        "Kodak Television",
+        "Kodak 4K UHD Smart TV",
+        "Kodak QLED TV"
+      ]
+    }
+  },
+  "liebherr": {
+    "brandName": "Liebherr",
+    "file": "service-center\\liebherr-service-center-kanyakumari.html",
+    "cards": [
+      "Liebherr Refrigerator",
+      "Liebherr DuoCooling Fridge",
+      "Liebherr Side-by-Side Refrigerator",
+      "Liebherr Bottom Freezer Refrigerator"
+    ],
+    "categories": [
+      "refrigerator",
+      "chest-freezer"
+    ],
+    "catCardList": {
+      "refrigerator": [
+        "Liebherr Refrigerator",
+        "Liebherr DuoCooling Fridge",
+        "Liebherr Side-by-Side Refrigerator"
+      ],
+      "chest-freezer": [
+        "Liebherr Bottom Freezer Refrigerator"
+      ]
+    }
+  },
+  "lloyd": {
+    "brandName": "Lloyd",
+    "file": "service-center\\lloyd-service-center-kanyakumari.html",
+    "cards": [
+      "Lloyd Air Conditioner",
+      "Lloyd Refrigerator",
+      "Lloyd Washing Machine",
+      "Lloyd Washer Dryer",
+      "Lloyd Television",
+      "Lloyd Dishwasher",
+      "Lloyd Chest Freezer"
+    ],
+    "categories": [
+      "ac",
+      "refrigerator",
+      "washing-machine",
+      "washer-dryer",
+      "tv",
+      "dishwasher",
+      "chest-freezer"
+    ],
+    "catCardList": {
+      "ac": [
+        "Lloyd Air Conditioner"
+      ],
+      "refrigerator": [
+        "Lloyd Refrigerator"
+      ],
+      "washing-machine": [
+        "Lloyd Washing Machine"
+      ],
+      "washer-dryer": [
+        "Lloyd Washer Dryer"
+      ],
+      "tv": [
+        "Lloyd Television"
+      ],
+      "dishwasher": [
+        "Lloyd Dishwasher"
+      ],
+      "chest-freezer": [
+        "Lloyd Chest Freezer"
+      ]
+    }
+  },
+  "mi": {
+    "brandName": "Mi",
+    "file": "service-center\\mi-service-center-kanyakumari.html",
+    "cards": [
+      "Mi Television",
+      "Mi Smart TV",
+      "Mi Water Purifier",
+      "Mi Air Purifier"
+    ],
+    "categories": [
+      "tv",
+      "water-purifier",
+      "air-purifier"
+    ],
+    "catCardList": {
+      "tv": [
+        "Mi Television",
+        "Mi Smart TV"
+      ],
+      "water-purifier": [
+        "Mi Water Purifier"
+      ],
+      "air-purifier": [
+        "Mi Air Purifier"
+      ]
+    }
+  },
+  "micromax": {
+    "brandName": "Micromax",
+    "file": "service-center\\micromax-service-center-kanyakumari.html",
+    "cards": [
+      "Micromax Television",
+      "Micromax Smart Android TV",
+      "Micromax LED TV"
+    ],
+    "categories": [
+      "tv"
+    ],
+    "catCardList": {
+      "tv": [
+        "Micromax Television",
+        "Micromax Smart Android TV",
+        "Micromax LED TV"
+      ]
+    }
+  },
+  "midea": {
+    "brandName": "Midea",
+    "file": "service-center\\midea-service-center-kanyakumari.html",
+    "cards": [
+      "Midea Air Conditioner",
+      "Midea Refrigerator",
+      "Midea Washing Machine",
+      "Midea Washer Dryer",
+      "Midea Dishwasher",
+      "Midea Microwave Oven",
+      "Midea Geyser / Water Heater"
+    ],
+    "categories": [
+      "ac",
+      "refrigerator",
+      "washing-machine",
+      "washer-dryer",
+      "dishwasher",
+      "microwave-oven",
+      "water-heater"
+    ],
+    "catCardList": {
+      "ac": [
+        "Midea Air Conditioner"
+      ],
+      "refrigerator": [
+        "Midea Refrigerator"
+      ],
+      "washing-machine": [
+        "Midea Washing Machine"
+      ],
+      "washer-dryer": [
+        "Midea Washer Dryer"
+      ],
+      "dishwasher": [
+        "Midea Dishwasher"
+      ],
+      "microwave-oven": [
+        "Midea Microwave Oven"
+      ],
+      "water-heater": [
+        "Midea Geyser / Water Heater"
+      ]
+    }
+  },
+  "mitsubishi": {
+    "brandName": "Mitsubishi",
+    "file": "service-center\\mitsubishi-service-center-kanyakumari.html",
+    "cards": [
+      "Mitsubishi Air Conditioner",
+      "Mitsubishi Inverter Split AC",
+      "Mitsubishi Cassette AC",
+      "Mitsubishi Multi-Split AC"
+    ],
+    "categories": [
+      "ac"
+    ],
+    "catCardList": {
+      "ac": [
+        "Mitsubishi Air Conditioner",
+        "Mitsubishi Inverter Split AC",
+        "Mitsubishi Cassette AC",
+        "Mitsubishi Multi-Split AC"
+      ]
+    }
+  },
+  "motorola": {
+    "brandName": "Motorola",
+    "file": "service-center\\motorola-service-center-kanyakumari.html",
+    "cards": [
+      "Motorola Air Conditioner",
+      "Motorola Refrigerator",
+      "Motorola Washing Machine",
+      "Motorola Smart Connected Appliances"
+    ],
+    "categories": [
+      "ac",
+      "refrigerator",
+      "washing-machine",
+      "smart-appliances"
+    ],
+    "catCardList": {
+      "ac": [
+        "Motorola Air Conditioner"
+      ],
+      "refrigerator": [
+        "Motorola Refrigerator"
+      ],
+      "washing-machine": [
+        "Motorola Washing Machine"
+      ],
+      "smart-appliances": [
+        "Motorola Smart Connected Appliances"
+      ]
+    }
+  },
+  "o-general": {
+    "brandName": "O-General",
+    "file": "service-center\\o-general-service-center-kanyakumari.html",
+    "cards": [
+      "O-General Air Conditioner",
+      "O-General Tropical Inverter Split AC",
+      "O-General Window AC",
+      "O-General Cassette AC"
+    ],
+    "categories": [
+      "ac"
+    ],
+    "catCardList": {
+      "ac": [
+        "O-General Air Conditioner",
+        "O-General Tropical Inverter Split AC",
+        "O-General Window AC",
+        "O-General Cassette AC"
+      ]
+    }
+  },
+  "oneplus": {
+    "brandName": "OnePlus",
+    "file": "service-center\\oneplus-service-center-kanyakumari.html",
+    "cards": [
+      "OnePlus Television",
+      "OnePlus 4K QLED TV",
+      "OnePlus Smart Android TV"
+    ],
+    "categories": [
+      "tv"
+    ],
+    "catCardList": {
+      "tv": [
+        "OnePlus Television",
+        "OnePlus 4K QLED TV",
+        "OnePlus Smart Android TV"
+      ]
+    }
+  },
+  "onida": {
+    "brandName": "Onida",
+    "file": "service-center\\onida-service-center-kanyakumari.html",
+    "cards": [
+      "Onida Air Conditioner",
+      "Onida Refrigerator",
+      "Onida Washing Machine",
+      "Onida Television",
+      "Onida Microwave Oven"
+    ],
+    "categories": [
+      "ac",
+      "refrigerator",
+      "washing-machine",
+      "tv",
+      "microwave-oven"
+    ],
+    "catCardList": {
+      "ac": [
+        "Onida Air Conditioner"
+      ],
+      "refrigerator": [
+        "Onida Refrigerator"
+      ],
+      "washing-machine": [
+        "Onida Washing Machine"
+      ],
+      "tv": [
+        "Onida Television"
+      ],
+      "microwave-oven": [
+        "Onida Microwave Oven"
+      ]
+    }
+  },
+  "panasonic": {
+    "brandName": "Panasonic",
+    "file": "service-center\\panasonic-service-center-kanyakumari.html",
+    "cards": [
+      "Panasonic Air Conditioner",
+      "Panasonic Refrigerator",
+      "Panasonic Washing Machine",
+      "Panasonic Washer Dryer",
+      "Panasonic Television",
+      "Panasonic Microwave Oven",
+      "Panasonic Geyser / Water Heater"
+    ],
+    "categories": [
+      "ac",
+      "refrigerator",
+      "washing-machine",
+      "washer-dryer",
+      "tv",
+      "microwave-oven",
+      "water-heater"
+    ],
+    "catCardList": {
+      "ac": [
+        "Panasonic Air Conditioner"
+      ],
+      "refrigerator": [
+        "Panasonic Refrigerator"
+      ],
+      "washing-machine": [
+        "Panasonic Washing Machine"
+      ],
+      "washer-dryer": [
+        "Panasonic Washer Dryer"
+      ],
+      "tv": [
+        "Panasonic Television"
+      ],
+      "microwave-oven": [
+        "Panasonic Microwave Oven"
+      ],
+      "water-heater": [
+        "Panasonic Geyser / Water Heater"
+      ]
+    }
+  },
+  "philips": {
+    "brandName": "Philips",
+    "file": "service-center\\philips-service-center-kanyakumari.html",
+    "cards": [
+      "Philips Television",
+      "Philips Ambilight 4K TV",
+      "Philips Smart LED TV",
+      "Philips Soundbar Audio"
+    ],
+    "categories": [
+      "tv",
+      "audio-system"
+    ],
+    "catCardList": {
+      "tv": [
+        "Philips Television",
+        "Philips Ambilight 4K TV",
+        "Philips Smart LED TV"
+      ],
+      "audio-system": [
+        "Philips Soundbar Audio"
+      ]
+    }
+  },
+  "redmi": {
+    "brandName": "Redmi",
+    "file": "service-center\\redmi-service-center-kanyakumari.html",
+    "cards": [
+      "Redmi Television",
+      "Redmi Smart Fire TV",
+      "Redmi 4K Android TV"
+    ],
+    "categories": [
+      "tv"
+    ],
+    "catCardList": {
+      "tv": [
+        "Redmi Television",
+        "Redmi Smart Fire TV",
+        "Redmi 4K Android TV"
+      ]
+    }
+  },
+  "samsung": {
+    "brandName": "Samsung",
+    "file": "service-center\\samsung-service-center-kanyakumari.html",
+    "cards": [
+      "Samsung Air Conditioner",
+      "Samsung Refrigerator",
+      "Samsung Washing Machine",
+      "Samsung Washer Dryer",
+      "Samsung Television",
+      "Samsung Microwave Oven",
+      "Samsung Dishwasher",
+      "Samsung Air Purifier"
+    ],
+    "categories": [
+      "ac",
+      "refrigerator",
+      "washing-machine",
+      "washer-dryer",
+      "tv",
+      "microwave-oven",
+      "dishwasher",
+      "air-purifier"
+    ],
+    "catCardList": {
+      "ac": [
+        "Samsung Air Conditioner"
+      ],
+      "refrigerator": [
+        "Samsung Refrigerator"
+      ],
+      "washing-machine": [
+        "Samsung Washing Machine"
+      ],
+      "washer-dryer": [
+        "Samsung Washer Dryer"
+      ],
+      "tv": [
+        "Samsung Television"
+      ],
+      "microwave-oven": [
+        "Samsung Microwave Oven"
+      ],
+      "dishwasher": [
+        "Samsung Dishwasher"
+      ],
+      "air-purifier": [
+        "Samsung Air Purifier"
+      ]
+    }
+  },
+  "sansui": {
+    "brandName": "Sansui",
+    "file": "service-center\\sansui-service-center-kanyakumari.html",
+    "cards": [
+      "Sansui Air Conditioner",
+      "Sansui Television",
+      "Sansui Smart Google TV",
+      "Sansui LED TV"
+    ],
+    "categories": [
+      "ac",
+      "tv"
+    ],
+    "catCardList": {
+      "ac": [
+        "Sansui Air Conditioner"
+      ],
+      "tv": [
+        "Sansui Television",
+        "Sansui Smart Google TV",
+        "Sansui LED TV"
+      ]
+    }
+  },
+  "sanyo": {
+    "brandName": "Sanyo",
+    "file": "service-center\\sanyo-service-center-kanyakumari.html",
+    "cards": [
+      "Sanyo Television",
+      "Sanyo Kaizen 4K Android TV",
+      "Sanyo Smart LED TV"
+    ],
+    "categories": [
+      "tv"
+    ],
+    "catCardList": {
+      "tv": [
+        "Sanyo Television",
+        "Sanyo Kaizen 4K Android TV",
+        "Sanyo Smart LED TV"
+      ]
+    }
+  },
+  "sharp": {
+    "brandName": "Sharp",
+    "file": "service-center\\sharp-service-center-kanyakumari.html",
+    "cards": [
+      "Sharp Air Conditioner",
+      "Sharp Refrigerator",
+      "Sharp Washing Machine",
+      "Sharp Television",
+      "Sharp Air Purifier",
+      "Sharp Microwave Oven"
+    ],
+    "categories": [
+      "ac",
+      "refrigerator",
+      "washing-machine",
+      "tv",
+      "air-purifier",
+      "microwave-oven"
+    ],
+    "catCardList": {
+      "ac": [
+        "Sharp Air Conditioner"
+      ],
+      "refrigerator": [
+        "Sharp Refrigerator"
+      ],
+      "washing-machine": [
+        "Sharp Washing Machine"
+      ],
+      "tv": [
+        "Sharp Television"
+      ],
+      "air-purifier": [
+        "Sharp Air Purifier"
+      ],
+      "microwave-oven": [
+        "Sharp Microwave Oven"
+      ]
+    }
+  },
+  "siemens": {
+    "brandName": "Siemens",
+    "file": "service-center\\siemens-service-center-kanyakumari.html",
+    "cards": [
+      "Siemens Washing Machine",
+      "Siemens Washer Dryer",
+      "Siemens Refrigerator",
+      "Siemens Dishwasher",
+      "Siemens Built-in Oven",
+      "Siemens Hob",
+      "Siemens Kitchen Chimney"
+    ],
+    "categories": [
+      "washing-machine",
+      "washer-dryer",
+      "refrigerator",
+      "dishwasher",
+      "microwave-oven",
+      "kitchen-appliances"
+    ],
+    "catCardList": {
+      "washing-machine": [
+        "Siemens Washing Machine"
+      ],
+      "washer-dryer": [
+        "Siemens Washer Dryer"
+      ],
+      "refrigerator": [
+        "Siemens Refrigerator"
+      ],
+      "dishwasher": [
+        "Siemens Dishwasher"
+      ],
+      "microwave-oven": [
+        "Siemens Built-in Oven"
+      ],
+      "kitchen-appliances": [
+        "Siemens Hob",
+        "Siemens Kitchen Chimney"
+      ]
+    }
+  },
+  "sony": {
+    "brandName": "Sony",
+    "file": "service-center\\sony-service-center-kanyakumari.html",
+    "cards": [
+      "Sony Television",
+      "Sony Bravia 4K Google TV",
+      "Sony OLED TV",
+      "Sony Soundbar Audio System"
+    ],
+    "categories": [
+      "tv",
+      "audio-system"
+    ],
+    "catCardList": {
+      "tv": [
+        "Sony Television",
+        "Sony Bravia 4K Google TV",
+        "Sony OLED TV"
+      ],
+      "audio-system": [
+        "Sony Soundbar Audio System"
+      ]
+    }
+  },
+  "tcl": {
+    "brandName": "TCL",
+    "file": "service-center\\tcl-service-center-kanyakumari.html",
+    "cards": [
+      "TCL Air Conditioner",
+      "TCL Washing Machine",
+      "TCL Television",
+      "TCL QLED 4K TV",
+      "TCL Mini-LED TV"
+    ],
+    "categories": [
+      "ac",
+      "washing-machine",
+      "tv"
+    ],
+    "catCardList": {
+      "ac": [
+        "TCL Air Conditioner"
+      ],
+      "washing-machine": [
+        "TCL Washing Machine"
+      ],
+      "tv": [
+        "TCL Television",
+        "TCL QLED 4K TV",
+        "TCL Mini-LED TV"
+      ]
+    }
+  },
+  "thomson": {
+    "brandName": "Thomson",
+    "file": "service-center\\thomson-service-center-kanyakumari.html",
+    "cards": [
+      "Thomson Washing Machine",
+      "Thomson Semi-Automatic Washer",
+      "Thomson Top Load Fully Automatic Washer"
+    ],
+    "categories": [
+      "washing-machine"
+    ],
+    "catCardList": {
+      "washing-machine": [
+        "Thomson Washing Machine",
+        "Thomson Semi-Automatic Washer",
+        "Thomson Top Load Fully Automatic Washer"
+      ]
+    }
+  },
+  "toshiba": {
+    "brandName": "Toshiba",
+    "file": "service-center\\toshiba-service-center-kanyakumari.html",
+    "cards": [
+      "Toshiba Refrigerator",
+      "Toshiba Washing Machine",
+      "Toshiba Washer Dryer",
+      "Toshiba Television",
+      "Toshiba Microwave Oven",
+      "Toshiba Dishwasher"
+    ],
+    "categories": [
+      "refrigerator",
+      "washing-machine",
+      "washer-dryer",
+      "tv",
+      "microwave-oven",
+      "dishwasher"
+    ],
+    "catCardList": {
+      "refrigerator": [
+        "Toshiba Refrigerator"
+      ],
+      "washing-machine": [
+        "Toshiba Washing Machine"
+      ],
+      "washer-dryer": [
+        "Toshiba Washer Dryer"
+      ],
+      "tv": [
+        "Toshiba Television"
+      ],
+      "microwave-oven": [
+        "Toshiba Microwave Oven"
+      ],
+      "dishwasher": [
+        "Toshiba Dishwasher"
+      ]
+    }
+  },
+  "videocon": {
+    "brandName": "Videocon",
+    "file": "service-center\\videocon-service-center-kanyakumari.html",
+    "cards": [
+      "Videocon Refrigerator",
+      "Videocon Washing Machine",
+      "Videocon Television",
+      "Videocon Air Cooler"
+    ],
+    "categories": [
+      "refrigerator",
+      "washing-machine",
+      "tv",
+      "air-cooler"
+    ],
+    "catCardList": {
+      "refrigerator": [
+        "Videocon Refrigerator"
+      ],
+      "washing-machine": [
+        "Videocon Washing Machine"
+      ],
+      "tv": [
+        "Videocon Television"
+      ],
+      "air-cooler": [
+        "Videocon Air Cooler"
+      ]
+    }
+  },
+  "voltas-beko": {
+    "brandName": "Voltas Beko",
+    "file": "service-center\\voltas-beko-service-center-kanyakumari.html",
+    "cards": [
+      "Voltas Beko Refrigerator",
+      "Voltas Beko Washing Machine",
+      "Voltas Beko Washer Dryer",
+      "Voltas Beko Dishwasher",
+      "Voltas Beko Microwave Oven"
+    ],
+    "categories": [
+      "refrigerator",
+      "washing-machine",
+      "washer-dryer",
+      "dishwasher",
+      "microwave-oven"
+    ],
+    "catCardList": {
+      "refrigerator": [
+        "Voltas Beko Refrigerator"
+      ],
+      "washing-machine": [
+        "Voltas Beko Washing Machine"
+      ],
+      "washer-dryer": [
+        "Voltas Beko Washer Dryer"
+      ],
+      "dishwasher": [
+        "Voltas Beko Dishwasher"
+      ],
+      "microwave-oven": [
+        "Voltas Beko Microwave Oven"
+      ]
+    }
+  },
+  "voltas": {
+    "brandName": "Voltas",
+    "file": "service-center\\voltas-service-center-kanyakumari.html",
+    "cards": [
+      "Voltas Air Conditioner",
+      "Voltas Washing Machine",
+      "Voltas Air Cooler",
+      "Voltas Commercial Deep Freezer",
+      "Voltas Water Dispenser"
+    ],
+    "categories": [
+      "ac",
+      "washing-machine",
+      "air-cooler",
+      "chest-freezer",
+      "water-purifier"
+    ],
+    "catCardList": {
+      "ac": [
+        "Voltas Air Conditioner"
+      ],
+      "washing-machine": [
+        "Voltas Washing Machine"
+      ],
+      "air-cooler": [
+        "Voltas Air Cooler"
+      ],
+      "chest-freezer": [
+        "Voltas Commercial Deep Freezer"
+      ],
+      "water-purifier": [
+        "Voltas Water Dispenser"
+      ]
+    }
+  },
+  "vu": {
+    "brandName": "Vu",
+    "file": "service-center\\vu-service-center-kanyakumari.html",
+    "cards": [
+      "Vu Television",
+      "Vu GloLED TV",
+      "Vu Masterpiece QLED TV",
+      "Vu Cinema 4K TV"
+    ],
+    "categories": [
+      "tv"
+    ],
+    "catCardList": {
+      "tv": [
+        "Vu Television",
+        "Vu GloLED TV",
+        "Vu Masterpiece QLED TV",
+        "Vu Cinema 4K TV"
+      ]
+    }
+  },
+  "vw": {
+    "brandName": "VW",
+    "file": "service-center\\vw-service-center-kanyakumari.html",
+    "cards": [
+      "VW Washing Machine",
+      "VW Television",
+      "VW Frameless Smart LED TV",
+      "VW 4K Android TV"
+    ],
+    "categories": [
+      "washing-machine",
+      "tv"
+    ],
+    "catCardList": {
+      "washing-machine": [
+        "VW Washing Machine"
+      ],
+      "tv": [
+        "VW Television",
+        "VW Frameless Smart LED TV",
+        "VW 4K Android TV"
+      ]
+    }
+  },
+  "whirlpool": {
+    "brandName": "Whirlpool",
+    "file": "service-center\\whirlpool-service-center-kanyakumari.html",
+    "cards": [
+      "Whirlpool Air Conditioner",
+      "Whirlpool Refrigerator",
+      "Whirlpool Washing Machine",
+      "Whirlpool Washer Dryer",
+      "Whirlpool Microwave Oven",
+      "Whirlpool Dishwasher",
+      "Whirlpool Water Purifier"
+    ],
+    "categories": [
+      "ac",
+      "refrigerator",
+      "washing-machine",
+      "washer-dryer",
+      "microwave-oven",
+      "dishwasher",
+      "water-purifier"
+    ],
+    "catCardList": {
+      "ac": [
+        "Whirlpool Air Conditioner"
+      ],
+      "refrigerator": [
+        "Whirlpool Refrigerator"
+      ],
+      "washing-machine": [
+        "Whirlpool Washing Machine"
+      ],
+      "washer-dryer": [
+        "Whirlpool Washer Dryer"
+      ],
+      "microwave-oven": [
+        "Whirlpool Microwave Oven"
+      ],
+      "dishwasher": [
+        "Whirlpool Dishwasher"
+      ],
+      "water-purifier": [
+        "Whirlpool Water Purifier"
+      ]
+    }
+  },
+  "white-westinghouse": {
+    "brandName": "White Westinghouse",
+    "file": "service-center\\white-westinghouse-service-center-kanyakumari.html",
+    "cards": [
+      "White Westinghouse Washing Machine",
+      "White Westinghouse Semi-Automatic Washer",
+      "White Westinghouse Fully Automatic Washing Machine"
+    ],
+    "categories": [
+      "washing-machine"
+    ],
+    "catCardList": {
+      "washing-machine": [
+        "White Westinghouse Washing Machine",
+        "White Westinghouse Semi-Automatic Washer",
+        "White Westinghouse Fully Automatic Washing Machine"
+      ]
+    }
+  },
+  "xiaomi": {
+    "brandName": "Xiaomi",
+    "file": "service-center\\xiaomi-service-center-kanyakumari.html",
+    "cards": [
+      "Xiaomi Television",
+      "Xiaomi OLED Vision TV",
+      "Xiaomi Smart Google TV",
+      "Xiaomi Air Purifier",
+      "Xiaomi Water Purifier"
+    ],
+    "categories": [
+      "tv",
+      "air-purifier",
+      "water-purifier"
+    ],
+    "catCardList": {
+      "tv": [
+        "Xiaomi Television",
+        "Xiaomi OLED Vision TV",
+        "Xiaomi Smart Google TV"
+      ],
+      "air-purifier": [
+        "Xiaomi Air Purifier"
+      ],
+      "water-purifier": [
+        "Xiaomi Water Purifier"
+      ]
+    }
+  }
+}
